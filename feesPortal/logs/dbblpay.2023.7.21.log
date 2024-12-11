@@ -1,0 +1,33 @@
+
+2023.7.21 07:31:40#=================== Start New Transaction ===================
+2023.7.21 07:31:40#txnrefnum:BBB2101193
+2023.7.21 07:31:40#clientIp:103.12.174.234
+2023.7.21 07:31:40#card type:6
+2023.7.21 07:31:40#totalamount:202000
+2023.7.21 07:31:43#result:TRANSACTION_ID:uaoXyD6GZMj8wzo3Vk3gSc6nQcQ=
+2023.7.21 07:31:43#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=uaoXyD6GZMj8wzo3Vk3gSc6nQcQ%3D
+2023.7.21 07:34:28#---------------------- Complete New Transaction---------------------
+2023.7.21 07:34:28#Get trans_id From Post Value:uaoXyD6GZMj8wzo3Vk3gSc6nQcQ=
+2023.7.21 07:34:30#clientIp:103.12.174.233
+2023.7.21 07:34:30#trans_id:uaoXyD6GZMj8wzo3Vk3gSc6nQcQ=
+2023.7.21 07:34:31#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>320207666496^APPROVAL_CODE>784793^CARD_NUMBER>999999*********9995^AMOUNT>202000^CARDNAME>mb account^DESCRIPTION>6BBB2101193^TRANS_DATE>2023-07-21 01:34:27 PM
+2023.7.21 07:34:32#50455421073431
+2023.7.21 07:34:32#50455421073431
+2023.7.21 07:34:32#50455421073431
+2023.7.21 07:34:32#50455421073431
+2023.7.21 07:34:32#=================== Transaction Completed =======================
+2023.7.21 07:48:26#=================== Start New Transaction ===================
+2023.7.21 07:48:26#txnrefnum:MBM2301263
+2023.7.21 07:48:26#clientIp:103.29.124.126
+2023.7.21 07:48:26#card type:6
+2023.7.21 07:48:26#totalamount:102000
+2023.7.21 07:48:29#result:TRANSACTION_ID:aU4bjIVuhaURESJh9JoxXACaED8=
+2023.7.21 07:48:29#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=aU4bjIVuhaURESJh9JoxXACaED8%3D
+2023.7.21 07:49:20#---------------------- Complete New Transaction---------------------
+2023.7.21 07:49:20#Get trans_id From Post Value:aU4bjIVuhaURESJh9JoxXACaED8=
+2023.7.21 07:49:20#clientIp:103.29.124.126
+2023.7.21 07:49:20#trans_id:aU4bjIVuhaURESJh9JoxXACaED8=
+2023.7.21 07:49:21#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>320207666899^APPROVAL_CODE>938173^CARD_NUMBER>999999*********4986^AMOUNT>102000^CARDNAME>mb account^DESCRIPTION>6MBM2301263^TRANS_DATE>2023-07-21 01:49:18 PM
+2023.7.21 07:49:21#48950721074921
+2023.7.21 07:49:22#48950721074921
+2023.7.21 07:49:22#=================== Transaction Completed =======================

@@ -1,0 +1,110 @@
+span.multiselect-native-select {
+  position: relative
+}
+span.multiselect-native-select select {
+  border: 0!important;
+  clip: rect(0 0 0 0)!important;
+  height: 1px!important;
+  margin: -1px -1px -1px -3px!important;
+  overflow: hidden!important;
+  padding: 0!important;
+  position: absolute!important;
+  width: 1px!important;
+  left: 50%;
+  top: 30px
+}
+.multiselect-container {
+  position: absolute;
+  list-style-type: none;
+  margin: 0 0 0 15px;
+  padding: 0;
+  width: 95%;
+  border-radius: 0px;
+}
+.multiselect-container .input-group {
+  margin: 5px
+}
+.multiselect-container>li {
+  padding: 0
+}
+.multiselect-container>li>a.multiselect-all label {
+  font-weight: 700
+}
+.multiselect-container>li.multiselect-group label {
+  margin: 0;
+  padding: 3px 20px 3px 20px;
+  height: 100%;
+  font-weight: 700
+}
+.multiselect-container>li.multiselect-group-clickable label {
+  cursor: pointer
+}
+.multiselect-container>li>a {
+  padding: 0
+}
+.multiselect-container>li>a>label {
+  margin: 0;
+  height: 100%;
+  cursor: pointer;
+  font-weight: 400;
+  padding: 3px 0 3px 30px
+}
+.multiselect-container>li>a>label.radio, .multiselect-container>li>a>label.checkbox {
+  margin: 0
+}
+.multiselect-container>li>a>label>input[type=checkbox] {
+  margin-bottom: 5px
+}
+.btn-group>.btn-group:nth-child(2)>.multiselect.btn {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px
+}
+.form-inline .multiselect-container label.checkbox, .form-inline .multiselect-container label.radio {
+  padding: 3px 20px 3px 40px
+}
+.form-inline .multiselect-container li a label.checkbox input[type=checkbox], .form-inline .multiselect-container li a label.radio input[type=radio] {
+  margin-left: -20px;
+  margin-right: 0
+}
+
+.multiselect-selected-text{
+  background-color: #fff;
+  color: #555;
+  padding: 5px 3px;
+  font-weight: normal;
+  border-radius: 3px;
+  float: left;
+}
+.multiselect-native-select .btn-default{
+  background-color: #fff;
+  border-radius: 0px;
+}
+.multiselect-native-select .btn{
+  padding: 2px 12px;
+}
+.multiselect-native-select .btn .caret {
+    margin-left: 0;
+    float: right;
+    margin: 14px 0 0 0;
+}
+.multiselect-native-select  .btn-default:hover, .btn-default:active, .btn-default.hover {
+    background-color: transparent;
+}
+.multiselect-native-select .btn-default.active.focus, 
+.btn-default.active:focus, 
+.btn-default.active:hover, .btn-default:active.focus, 
+.btn-default:active:focus, .btn-default:active:hover, .open > 
+.dropdown-toggle.btn-default.focus, .open > 
+.dropdown-toggle.btn-default:focus, .open > 
+.dropdown-toggle.btn-default:hover {
+    color: #555;
+    background-color: transparent;
+    border-color: #8c8c8c;
+}
+.multiselect-native-select .btn-default.active, 
+.btn-default:active, .open > .dropdown-toggle.btn-default {
+    color: #555;
+    background-color: transparent;
+    background-image: none;
+    border-color: #adadad;
+}

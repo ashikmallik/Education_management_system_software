@@ -1,0 +1,1259 @@
+
+2022.5.20 03:26:08#=================== Start New Transaction ===================
+2022.5.20 03:26:08#txnrefnum:MBM2006022
+2022.5.20 03:26:08#clientIp:114.130.157.13
+2022.5.20 03:26:08#card type:6
+2022.5.20 03:26:08#totalamount:82000
+2022.5.20 03:26:13#result:TRANSACTION_ID:e0xxMw3SRd6gveMD3ZOg7v6ZjlQ=
+2022.5.20 03:26:13#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=e0xxMw3SRd6gveMD3ZOg7v6ZjlQ%3D
+2022.5.20 03:28:08#=================== Start New Transaction ===================
+2022.5.20 03:28:08#txnrefnum:MBM2006022
+2022.5.20 03:28:08#clientIp:114.130.157.13
+2022.5.20 03:28:08#card type:6
+2022.5.20 03:28:08#totalamount:82000
+2022.5.20 03:28:12#result:TRANSACTION_ID:9Rqe6t9r4vzhEC4kM4YQalAPYSQ=
+2022.5.20 03:28:13#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=9Rqe6t9r4vzhEC4kM4YQalAPYSQ%3D
+2022.5.20 03:37:00#---------------------- Complete New Transaction---------------------
+2022.5.20 03:37:00#Get trans_id From Post Value:53aarJASxpUpZVyr5gKAsndVhig=
+2022.5.20 03:37:00#clientIp:114.130.157.174
+2022.5.20 03:37:00#trans_id:53aarJASxpUpZVyr5gKAsndVhig=
+2022.5.20 03:37:02#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>112000^CARDNAME>0^DESCRIPTION>6MEG2105002^TRANS_DATE>2022-05-20 09:36:59 AM
+2022.5.20 03:37:02#Failed
+2022.5.20 04:39:01#=================== Start New Transaction ===================
+2022.5.20 04:39:01#txnrefnum:MBM2206406
+2022.5.20 04:39:01#clientIp:27.147.169.131
+2022.5.20 04:39:01#card type:6
+2022.5.20 04:39:01#totalamount:82000
+2022.5.20 04:39:05#result:TRANSACTION_ID:REjXP5WbOqOPdaOMIrRr5HCTaE8=
+2022.5.20 04:39:05#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=REjXP5WbOqOPdaOMIrRr5HCTaE8%3D
+2022.5.20 04:39:44#---------------------- Complete New Transaction---------------------
+2022.5.20 04:39:44#Get trans_id From Post Value:REjXP5WbOqOPdaOMIrRr5HCTaE8=
+2022.5.20 04:39:44#clientIp:27.147.169.131
+2022.5.20 04:39:44#trans_id:REjXP5WbOqOPdaOMIrRr5HCTaE8=
+2022.5.20 04:39:46#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214010366719^APPROVAL_CODE>720270^CARD_NUMBER>999999*********8357^AMOUNT>82000^CARDNAME>mb account^DESCRIPTION>6MBM2206406^TRANS_DATE>2022-05-20 10:39:43 AM
+2022.5.20 04:39:46#14895620043946
+2022.5.20 04:39:46#=================== Transaction Completed =======================
+2022.5.20 04:41:05#=================== Start New Transaction ===================
+2022.5.20 04:41:05#txnrefnum:MBD2006334
+2022.5.20 04:41:05#clientIp:59.152.97.84
+2022.5.20 04:41:05#card type:6
+2022.5.20 04:41:05#totalamount:942000
+2022.5.20 04:41:09#result:TRANSACTION_ID:ZpB3f9ExwbFIwRH5RscHJzzxCPY=
+2022.5.20 04:41:09#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=ZpB3f9ExwbFIwRH5RscHJzzxCPY%3D
+2022.5.20 05:13:26#=================== Start New Transaction ===================
+2022.5.20 05:13:26#txnrefnum:BEM2201238
+2022.5.20 05:13:26#clientIp:114.130.156.244
+2022.5.20 05:13:26#card type:6
+2022.5.20 05:13:26#totalamount:222000
+2022.5.20 05:13:30#result:TRANSACTION_ID:3qSdrsY4Pt7S0coigoFzdxiFxIY=
+2022.5.20 05:13:30#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=3qSdrsY4Pt7S0coigoFzdxiFxIY%3D
+2022.5.20 05:13:58#---------------------- Complete New Transaction---------------------
+2022.5.20 05:13:58#Get trans_id From Post Value:3qSdrsY4Pt7S0coigoFzdxiFxIY=
+2022.5.20 05:13:58#clientIp:114.130.156.244
+2022.5.20 05:13:58#trans_id:3qSdrsY4Pt7S0coigoFzdxiFxIY=
+2022.5.20 05:14:00#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214011368453^APPROVAL_CODE>888563^CARD_NUMBER>999999*********3728^AMOUNT>222000^CARDNAME>mb account^DESCRIPTION>6BEM2201238^TRANS_DATE>2022-05-20 11:13:57 AM
+2022.5.20 05:14:00#22361020051400
+2022.5.20 05:14:00#22361020051400
+2022.5.20 05:14:00#=================== Transaction Completed =======================
+2022.5.20 05:18:54#=================== Start New Transaction ===================
+2022.5.20 05:18:54#txnrefnum:MBM2004070
+2022.5.20 05:18:54#clientIp:202.144.203.16
+2022.5.20 05:18:54#card type:6
+2022.5.20 05:18:54#totalamount:242000
+2022.5.20 05:18:58#result:TRANSACTION_ID:K5mhgkAUsDIWJiIA03GxDx9SfYw=
+2022.5.20 05:18:58#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=K5mhgkAUsDIWJiIA03GxDx9SfYw%3D
+2022.5.20 05:27:31#---------------------- Complete New Transaction---------------------
+2022.5.20 05:27:31#Get trans_id From Post Value:yPlPHLqY54y318SFR3NyWjNwgZ8=
+2022.5.20 05:27:31#clientIp:103.184.94.0
+2022.5.20 05:27:31#trans_id:yPlPHLqY54y318SFR3NyWjNwgZ8=
+2022.5.20 05:27:33#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>82000^CARDNAME>0^DESCRIPTION>6MBM2007098^TRANS_DATE>2022-05-20 11:27:29 AM
+2022.5.20 05:27:33#Failed
+2022.5.20 05:45:58#=================== Start New Transaction ===================
+2022.5.20 05:45:58#txnrefnum:MBM2008228
+2022.5.20 05:45:58#clientIp:103.85.238.27
+2022.5.20 05:45:58#card type:6
+2022.5.20 05:45:58#totalamount:402000
+2022.5.20 05:46:02#result:TRANSACTION_ID:NLYWu3RPthmYY0jpRmrPSdQJwP0=
+2022.5.20 05:46:02#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=NLYWu3RPthmYY0jpRmrPSdQJwP0%3D
+2022.5.20 05:47:46#---------------------- Complete New Transaction---------------------
+2022.5.20 05:47:46#Get trans_id From Post Value:NLYWu3RPthmYY0jpRmrPSdQJwP0=
+2022.5.20 05:47:49#clientIp:103.85.238.27
+2022.5.20 05:47:49#trans_id:NLYWu3RPthmYY0jpRmrPSdQJwP0=
+2022.5.20 05:47:51#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214011370585^APPROVAL_CODE>052621^CARD_NUMBER>999999*********1830^AMOUNT>402000^CARDNAME>mb account^DESCRIPTION>6MBM2008228^TRANS_DATE>2022-05-20 11:47:45 AM
+2022.5.20 05:47:51#21961720054751
+2022.5.20 05:47:51#21961720054751
+2022.5.20 05:47:51#21961720054751
+2022.5.20 05:47:51#21961720054751
+2022.5.20 05:47:51#21961720054751
+2022.5.20 05:47:51#=================== Transaction Completed =======================
+2022.5.20 06:08:52#=================== Start New Transaction ===================
+2022.5.20 06:08:52#txnrefnum:MBD2203369
+2022.5.20 06:08:52#clientIp:103.140.176.18
+2022.5.20 06:08:52#card type:6
+2022.5.20 06:08:52#totalamount:82000
+2022.5.20 06:08:56#result:TRANSACTION_ID:nmByIhpseY9vgf7AbvnwBcASx0A=
+2022.5.20 06:08:56#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=nmByIhpseY9vgf7AbvnwBcASx0A%3D
+2022.5.20 06:11:32#=================== Start New Transaction ===================
+2022.5.20 06:11:32#txnrefnum:MBM2003060
+2022.5.20 06:11:32#clientIp:106.0.53.25
+2022.5.20 06:11:32#card type:6
+2022.5.20 06:11:32#totalamount:162000
+2022.5.20 06:11:36#result:TRANSACTION_ID:cw1tA2RnfeYwxmEqcx6Q4lpuaMo=
+2022.5.20 06:11:36#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=cw1tA2RnfeYwxmEqcx6Q4lpuaMo%3D
+2022.5.20 06:11:58#=================== Start New Transaction ===================
+2022.5.20 06:11:58#txnrefnum:MBM2003060
+2022.5.20 06:11:58#clientIp:106.0.53.25
+2022.5.20 06:11:58#card type:6
+2022.5.20 06:11:58#totalamount:322000
+2022.5.20 06:12:02#result:TRANSACTION_ID:SpBlvMvcZSSUkAFClmyGtPSDJUE=
+2022.5.20 06:12:02#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=SpBlvMvcZSSUkAFClmyGtPSDJUE%3D
+2022.5.20 06:21:06#=================== Start New Transaction ===================
+2022.5.20 06:21:06#txnrefnum:MBD2201055
+2022.5.20 06:21:06#clientIp:123.253.65.227
+2022.5.20 06:21:06#card type:6
+2022.5.20 06:21:06#totalamount:82000
+2022.5.20 06:21:10#result:TRANSACTION_ID:86UUzj0L5GTaSbza9uHlk6BYcSg=
+2022.5.20 06:21:10#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=86UUzj0L5GTaSbza9uHlk6BYcSg%3D
+2022.5.20 06:26:36#=================== Start New Transaction ===================
+2022.5.20 06:26:36#txnrefnum:MBM2005059
+2022.5.20 06:26:36#clientIp:43.224.109.202
+2022.5.20 06:26:36#card type:6
+2022.5.20 06:26:36#totalamount:322000
+2022.5.20 06:26:40#result:TRANSACTION_ID:tWJWir4EifQPby9yYQ0ANCHPKWs=
+2022.5.20 06:26:40#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=tWJWir4EifQPby9yYQ0ANCHPKWs%3D
+2022.5.20 06:28:13#=================== Start New Transaction ===================
+2022.5.20 06:28:13#txnrefnum:MSC22110529
+2022.5.20 06:28:13#clientIp:103.58.74.227
+2022.5.20 06:28:13#card type:6
+2022.5.20 06:28:13#totalamount:162000
+2022.5.20 06:28:17#result:TRANSACTION_ID:yvuUflP8KNqgzCtjJQYtBVLqtvw=
+2022.5.20 06:28:17#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=yvuUflP8KNqgzCtjJQYtBVLqtvw%3D
+2022.5.20 06:29:11#---------------------- Complete New Transaction---------------------
+2022.5.20 06:29:11#Get trans_id From Post Value:yvuUflP8KNqgzCtjJQYtBVLqtvw=
+2022.5.20 06:29:11#clientIp:103.58.74.227
+2022.5.20 06:29:11#trans_id:yvuUflP8KNqgzCtjJQYtBVLqtvw=
+2022.5.20 06:29:13#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214012373443^APPROVAL_CODE>076274^CARD_NUMBER>999999*********9640^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22110529^TRANS_DATE>2022-05-20 12:29:10 PM
+2022.5.20 06:29:13#1308720062913
+2022.5.20 06:29:13#=================== Transaction Completed =======================
+2022.5.20 06:30:22#---------------------- Complete New Transaction---------------------
+2022.5.20 06:30:22#Get trans_id From Post Value:tWJWir4EifQPby9yYQ0ANCHPKWs=
+2022.5.20 06:30:22#clientIp:43.224.109.202
+2022.5.20 06:30:22#trans_id:tWJWir4EifQPby9yYQ0ANCHPKWs=
+2022.5.20 06:30:24#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214012373541^APPROVAL_CODE>039972^CARD_NUMBER>999999*********5004^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6MBM2005059^TRANS_DATE>2022-05-20 12:30:21 PM
+2022.5.20 06:30:24#16671320063024
+2022.5.20 06:30:24#16671320063024
+2022.5.20 06:30:24#16671320063024
+2022.5.20 06:30:24#16671320063024
+2022.5.20 06:30:24#=================== Transaction Completed =======================
+2022.5.20 06:35:10#=================== Start New Transaction ===================
+2022.5.20 06:35:10#txnrefnum:BBB2101181
+2022.5.20 06:35:10#clientIp:103.178.95.203
+2022.5.20 06:35:10#card type:6
+2022.5.20 06:35:10#totalamount:82000
+2022.5.20 06:35:14#result:TRANSACTION_ID:dmJ61s8pM7ukKq9GauLk9U93jfo=
+2022.5.20 06:35:14#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=dmJ61s8pM7ukKq9GauLk9U93jfo%3D
+2022.5.20 06:37:57#---------------------- Complete New Transaction---------------------
+2022.5.20 06:37:57#Get trans_id From Post Value:dmJ61s8pM7ukKq9GauLk9U93jfo=
+2022.5.20 06:37:57#clientIp:103.178.95.203
+2022.5.20 06:37:57#trans_id:dmJ61s8pM7ukKq9GauLk9U93jfo=
+2022.5.20 06:37:59#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214012374105^APPROVAL_CODE>045828^CARD_NUMBER>999999*********4212^AMOUNT>82000^CARDNAME>mb account^DESCRIPTION>6BBB2101181^TRANS_DATE>2022-05-20 12:37:56 PM
+2022.5.20 06:37:59#22632320063759
+2022.5.20 06:37:59#=================== Transaction Completed =======================
+2022.5.20 06:49:33#=================== Start New Transaction ===================
+2022.5.20 06:49:33#txnrefnum:BBB2101181
+2022.5.20 06:49:33#clientIp:103.178.95.203
+2022.5.20 06:49:33#card type:6
+2022.5.20 06:49:33#totalamount:162000
+2022.5.20 06:49:37#result:TRANSACTION_ID:JFRpzfOlZLO1b146MeJRSsUjzIg=
+2022.5.20 06:49:37#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=JFRpzfOlZLO1b146MeJRSsUjzIg%3D
+2022.5.20 06:50:48#---------------------- Complete New Transaction---------------------
+2022.5.20 06:50:48#Get trans_id From Post Value:JFRpzfOlZLO1b146MeJRSsUjzIg=
+2022.5.20 06:50:48#clientIp:103.178.95.203
+2022.5.20 06:50:48#trans_id:JFRpzfOlZLO1b146MeJRSsUjzIg=
+2022.5.20 06:50:50#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214012374956^APPROVAL_CODE>096827^CARD_NUMBER>999999*********4212^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6BBB2101181^TRANS_DATE>2022-05-20 12:50:46 PM
+2022.5.20 06:50:50#22632420065050
+2022.5.20 06:50:50#22632420065050
+2022.5.20 06:50:50#=================== Transaction Completed =======================
+2022.5.20 06:53:56#=================== Start New Transaction ===================
+2022.5.20 06:53:56#txnrefnum:MBD2201055
+2022.5.20 06:53:56#clientIp:123.253.65.227
+2022.5.20 06:53:56#card type:6
+2022.5.20 06:53:56#totalamount:82000
+2022.5.20 06:54:00#result:TRANSACTION_ID:QJYEp5mdDpIViDdBXUwLoGsd6ig=
+2022.5.20 06:54:00#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=QJYEp5mdDpIViDdBXUwLoGsd6ig%3D
+2022.5.20 06:54:29#=================== Start New Transaction ===================
+2022.5.20 06:54:29#txnrefnum:MBD2008298
+2022.5.20 06:54:29#clientIp:37.111.206.28
+2022.5.20 06:54:29#card type:6
+2022.5.20 06:54:29#totalamount:82000
+2022.5.20 06:54:33#result:TRANSACTION_ID:AAgTt7pYHjen1gK6cvWNuMq5jNU=
+2022.5.20 06:54:33#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=AAgTt7pYHjen1gK6cvWNuMq5jNU%3D
+2022.5.20 07:50:05#=================== Start New Transaction ===================
+2022.5.20 07:50:05#txnrefnum:MBD2009278
+2022.5.20 07:50:05#clientIp:43.230.120.83
+2022.5.20 07:50:05#card type:6
+2022.5.20 07:50:05#totalamount:301000
+2022.5.20 07:50:09#result:TRANSACTION_ID:juCALURRskFWWhb5l7m2Jw4NtyE=
+2022.5.20 07:50:09#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=juCALURRskFWWhb5l7m2Jw4NtyE%3D
+2022.5.20 07:51:15#---------------------- Complete New Transaction---------------------
+2022.5.20 07:51:15#Get trans_id From Post Value:juCALURRskFWWhb5l7m2Jw4NtyE=
+2022.5.20 07:51:15#clientIp:43.230.120.83
+2022.5.20 07:51:15#trans_id:juCALURRskFWWhb5l7m2Jw4NtyE=
+2022.5.20 07:51:17#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214013377373^APPROVAL_CODE>252093^CARD_NUMBER>999999*********3844^AMOUNT>301000^CARDNAME>mb account^DESCRIPTION>6MBD2009278^TRANS_DATE>2022-05-20 01:51:14 PM
+2022.5.20 07:51:17#74520075117
+2022.5.20 07:51:17#=================== Transaction Completed =======================
+2022.5.20 07:55:43#=================== Start New Transaction ===================
+2022.5.20 07:55:43#txnrefnum:MED2007013
+2022.5.20 07:55:43#clientIp:103.150.254.70
+2022.5.20 07:55:43#card type:6
+2022.5.20 07:55:43#totalamount:112000
+2022.5.20 07:55:48#result:TRANSACTION_ID:O4XcYGokSvJKb5nB1qfaFcBrEJM=
+2022.5.20 07:55:48#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=O4XcYGokSvJKb5nB1qfaFcBrEJM%3D
+2022.5.20 08:19:35#=================== Start New Transaction ===================
+2022.5.20 08:19:35#txnrefnum:MBM2005126
+2022.5.20 08:19:35#clientIp:103.161.68.71
+2022.5.20 08:19:35#card type:6
+2022.5.20 08:19:35#totalamount:322000
+2022.5.20 08:19:39#result:TRANSACTION_ID:Q4KasqXdDl1SxlNyxguPXhGHbXM=
+2022.5.20 08:19:39#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=Q4KasqXdDl1SxlNyxguPXhGHbXM%3D
+2022.5.20 08:21:07#---------------------- Complete New Transaction---------------------
+2022.5.20 08:21:07#Get trans_id From Post Value:Q4KasqXdDl1SxlNyxguPXhGHbXM=
+2022.5.20 08:21:07#clientIp:103.161.68.71
+2022.5.20 08:21:07#trans_id:Q4KasqXdDl1SxlNyxguPXhGHbXM=
+2022.5.20 08:21:09#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214014379378^APPROVAL_CODE>295379^CARD_NUMBER>999999*********4102^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6MBM2005126^TRANS_DATE>2022-05-20 02:21:05 PM
+2022.5.20 08:21:09#16732520082109
+2022.5.20 08:21:09#16732520082109
+2022.5.20 08:21:09#16732520082109
+2022.5.20 08:21:09#16732520082109
+2022.5.20 08:21:09#=================== Transaction Completed =======================
+2022.5.20 08:53:12#=================== Start New Transaction ===================
+2022.5.20 08:53:12#txnrefnum:MBM2206313
+2022.5.20 08:53:12#clientIp:103.131.88.156
+2022.5.20 08:53:12#card type:6
+2022.5.20 08:53:12#totalamount:162000
+2022.5.20 08:53:17#result:TRANSACTION_ID:7vD8yto3Z9gPllFfZZF7rL64Dvs=
+2022.5.20 08:53:17#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=7vD8yto3Z9gPllFfZZF7rL64Dvs%3D
+2022.5.20 08:56:45#=================== Start New Transaction ===================
+2022.5.20 08:56:45#txnrefnum:MBM2206313
+2022.5.20 08:56:45#clientIp:103.131.88.156
+2022.5.20 08:56:45#card type:6
+2022.5.20 08:56:45#totalamount:162000
+2022.5.20 08:56:49#result:TRANSACTION_ID:USTeFRflqRWBU7pPTLS9OCotmvk=
+2022.5.20 08:56:49#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=USTeFRflqRWBU7pPTLS9OCotmvk%3D
+2022.5.20 09:17:07#=================== Start New Transaction ===================
+2022.5.20 09:17:07#txnrefnum:MBD2201055
+2022.5.20 09:17:07#clientIp:123.253.65.227
+2022.5.20 09:17:07#card type:6
+2022.5.20 09:17:07#totalamount:162000
+2022.5.20 09:17:11#result:TRANSACTION_ID:74SwtXSpmLw5l9ZU5B9SnH6mVV8=
+2022.5.20 09:17:11#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=74SwtXSpmLw5l9ZU5B9SnH6mVV8%3D
+2022.5.20 09:18:48#=================== Start New Transaction ===================
+2022.5.20 09:18:48#txnrefnum:MBD2201055
+2022.5.20 09:18:48#clientIp:123.253.65.227
+2022.5.20 09:18:48#card type:6
+2022.5.20 09:18:48#totalamount:162000
+2022.5.20 09:18:51#result:TRANSACTION_ID:eAmtgj5KU3qIYP9SluFZvAXnslc=
+2022.5.20 09:18:52#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=eAmtgj5KU3qIYP9SluFZvAXnslc%3D
+2022.5.20 09:24:55#---------------------- Complete New Transaction---------------------
+2022.5.20 09:24:55#Get trans_id From Post Value:eAmtgj5KU3qIYP9SluFZvAXnslc=
+2022.5.20 09:24:55#clientIp:123.253.65.227
+2022.5.20 09:24:55#trans_id:eAmtgj5KU3qIYP9SluFZvAXnslc=
+2022.5.20 09:24:57#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>162000^CARDNAME>0^DESCRIPTION>6MBD2201055^TRANS_DATE>2022-05-20 03:24:54 PM
+2022.5.20 09:24:57#Failed
+2022.5.20 09:25:32#=================== Start New Transaction ===================
+2022.5.20 09:25:32#txnrefnum:MBD2201055
+2022.5.20 09:25:32#clientIp:123.253.65.227
+2022.5.20 09:25:32#card type:6
+2022.5.20 09:25:32#totalamount:162000
+2022.5.20 09:25:36#result:TRANSACTION_ID:UTfBj8836Lyx4s4XxM53ceIxSgs=
+2022.5.20 09:25:36#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=UTfBj8836Lyx4s4XxM53ceIxSgs%3D
+2022.5.20 09:28:16#=================== Start New Transaction ===================
+2022.5.20 09:28:16#txnrefnum:MBD2201055
+2022.5.20 09:28:16#clientIp:123.253.65.227
+2022.5.20 09:28:16#card type:6
+2022.5.20 09:28:16#totalamount:162000
+2022.5.20 09:28:20#result:TRANSACTION_ID:6XbjEzPRdeSk8BEZXpfTeI2uXf0=
+2022.5.20 09:28:20#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=6XbjEzPRdeSk8BEZXpfTeI2uXf0%3D
+2022.5.20 09:30:30#---------------------- Complete New Transaction---------------------
+2022.5.20 09:30:30#Get trans_id From Post Value:6XbjEzPRdeSk8BEZXpfTeI2uXf0=
+2022.5.20 09:30:30#clientIp:123.253.65.227
+2022.5.20 09:30:30#trans_id:6XbjEzPRdeSk8BEZXpfTeI2uXf0=
+2022.5.20 09:30:32#result:RESULT>FAILED^RESULT_CODE>100^3DSECURE>SKIPPED^RRN>214015384686^APPROVAL_CODE>0^CARD_NUMBER>999999*********3647^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MBD2201055^TRANS_DATE>2022-05-20 03:30:29 PM
+2022.5.20 09:30:32#Failed
+2022.5.20 09:31:36#=================== Start New Transaction ===================
+2022.5.20 09:31:36#txnrefnum:MBD2201055
+2022.5.20 09:31:36#clientIp:123.253.65.227
+2022.5.20 09:31:36#card type:6
+2022.5.20 09:31:36#totalamount:162000
+2022.5.20 09:31:40#result:TRANSACTION_ID:e6AzORaWw34YQR2wJP26xpx2ByY=
+2022.5.20 09:31:40#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=e6AzORaWw34YQR2wJP26xpx2ByY%3D
+2022.5.20 09:35:26#=================== Start New Transaction ===================
+2022.5.20 09:35:26#txnrefnum:MBD2201055
+2022.5.20 09:35:26#clientIp:123.253.65.227
+2022.5.20 09:35:26#card type:6
+2022.5.20 09:35:26#totalamount:162000
+2022.5.20 09:35:30#result:TRANSACTION_ID:zXDcSXqQStjTYuiPLVNBLbNUsX8=
+2022.5.20 09:35:30#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=zXDcSXqQStjTYuiPLVNBLbNUsX8%3D
+2022.5.20 09:36:46#---------------------- Complete New Transaction---------------------
+2022.5.20 09:36:46#Get trans_id From Post Value:zXDcSXqQStjTYuiPLVNBLbNUsX8=
+2022.5.20 09:36:46#clientIp:123.253.65.227
+2022.5.20 09:36:46#trans_id:zXDcSXqQStjTYuiPLVNBLbNUsX8=
+2022.5.20 09:36:48#result:RESULT>FAILED^RESULT_CODE>100^3DSECURE>SKIPPED^RRN>214015385196^APPROVAL_CODE>0^CARD_NUMBER>999999*********3647^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MBD2201055^TRANS_DATE>2022-05-20 03:36:44 PM
+2022.5.20 09:36:48#Failed
+2022.5.20 09:50:44#=================== Start New Transaction ===================
+2022.5.20 09:50:44#txnrefnum:BBG2106012
+2022.5.20 09:50:44#clientIp:103.134.43.188
+2022.5.20 09:50:44#card type:6
+2022.5.20 09:50:44#totalamount:322000
+2022.5.20 09:50:48#result:TRANSACTION_ID:MKN39EXhvoSliY142bjmptpJBhQ=
+2022.5.20 09:50:48#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=MKN39EXhvoSliY142bjmptpJBhQ%3D
+2022.5.20 09:56:53#=================== Start New Transaction ===================
+2022.5.20 09:56:53#txnrefnum:BBG2106012
+2022.5.20 09:56:53#clientIp:103.134.43.188
+2022.5.20 09:56:53#card type:6
+2022.5.20 09:56:53#totalamount:322000
+2022.5.20 09:56:58#result:TRANSACTION_ID:PXdtvooyPcCoues4pLT2pLjf7HM=
+2022.5.20 09:56:58#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=PXdtvooyPcCoues4pLT2pLjf7HM%3D
+2022.5.20 10:24:13#=================== Start New Transaction ===================
+2022.5.20 10:24:13#txnrefnum:MSC22110038
+2022.5.20 10:24:13#clientIp:37.111.212.45
+2022.5.20 10:24:13#card type:6
+2022.5.20 10:24:13#totalamount:322000
+2022.5.20 10:24:17#result:TRANSACTION_ID:8WCaI1ATth6EJr6VyLYLBjUuUwE=
+2022.5.20 10:24:17#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=8WCaI1ATth6EJr6VyLYLBjUuUwE%3D
+2022.5.20 10:35:16#=================== Start New Transaction ===================
+2022.5.20 10:35:16#txnrefnum:MSC22110006
+2022.5.20 10:35:16#clientIp:103.135.254.250
+2022.5.20 10:35:16#card type:6
+2022.5.20 10:35:16#totalamount:162000
+2022.5.20 10:35:20#result:TRANSACTION_ID:NoM9iDgu0ShV5p0ugoGrWFlfeiM=
+2022.5.20 10:35:20#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=NoM9iDgu0ShV5p0ugoGrWFlfeiM%3D
+2022.5.20 10:50:37#=================== Start New Transaction ===================
+2022.5.20 10:50:37#txnrefnum:MSC22110006
+2022.5.20 10:50:37#clientIp:103.135.254.250
+2022.5.20 10:50:37#card type:6
+2022.5.20 10:50:37#totalamount:162000
+2022.5.20 10:50:41#result:TRANSACTION_ID:iHeWpXKXZ3ZzPFj8qus0U6yGKn8=
+2022.5.20 10:50:41#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=iHeWpXKXZ3ZzPFj8qus0U6yGKn8%3D
+2022.5.20 10:51:28#---------------------- Complete New Transaction---------------------
+2022.5.20 10:51:28#Get trans_id From Post Value:iHeWpXKXZ3ZzPFj8qus0U6yGKn8=
+2022.5.20 10:51:28#clientIp:103.135.254.250
+2022.5.20 10:51:28#trans_id:iHeWpXKXZ3ZzPFj8qus0U6yGKn8=
+2022.5.20 10:51:30#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214016390535^APPROVAL_CODE>624770^CARD_NUMBER>999999*********1301^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22110006^TRANS_DATE>2022-05-20 04:51:27 PM
+2022.5.20 10:51:30#1391520105130
+2022.5.20 10:51:30#=================== Transaction Completed =======================
+2022.5.20 11:17:29#=================== Start New Transaction ===================
+2022.5.20 11:17:29#txnrefnum:MSC22110526
+2022.5.20 11:17:29#clientIp:203.76.220.147
+2022.5.20 11:17:29#card type:6
+2022.5.20 11:17:29#totalamount:162000
+2022.5.20 11:17:33#result:TRANSACTION_ID:bCzloYHCRhbGytmb7RB2LQ9EiBc=
+2022.5.20 11:17:33#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=bCzloYHCRhbGytmb7RB2LQ9EiBc%3D
+2022.5.20 11:19:28#---------------------- Complete New Transaction---------------------
+2022.5.20 11:19:28#Get trans_id From Post Value:bCzloYHCRhbGytmb7RB2LQ9EiBc=
+2022.5.20 11:19:28#clientIp:203.76.220.147
+2022.5.20 11:19:28#trans_id:bCzloYHCRhbGytmb7RB2LQ9EiBc=
+2022.5.20 11:19:30#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214017392399^APPROVAL_CODE>585267^CARD_NUMBER>999999*********4498^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22110526^TRANS_DATE>2022-05-20 05:19:20 PM
+2022.5.20 11:19:30#1279820111930
+2022.5.20 11:19:30#=================== Transaction Completed =======================
+2022.5.20 11:24:23#=================== Start New Transaction ===================
+2022.5.20 11:24:23#txnrefnum:MSC22110608
+2022.5.20 11:24:23#clientIp:203.76.220.147
+2022.5.20 11:24:23#card type:6
+2022.5.20 11:24:23#totalamount:162000
+2022.5.20 11:24:27#result:TRANSACTION_ID:aPo95GDlEIlAmA0RpSHvENLcSSc=
+2022.5.20 11:24:27#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=aPo95GDlEIlAmA0RpSHvENLcSSc%3D
+2022.5.20 11:25:38#---------------------- Complete New Transaction---------------------
+2022.5.20 11:25:38#Get trans_id From Post Value:aPo95GDlEIlAmA0RpSHvENLcSSc=
+2022.5.20 11:25:38#clientIp:203.76.220.147
+2022.5.20 11:25:38#trans_id:aPo95GDlEIlAmA0RpSHvENLcSSc=
+2022.5.20 11:25:40#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214017392800^APPROVAL_CODE>710667^CARD_NUMBER>999999*********4498^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22110608^TRANS_DATE>2022-05-20 05:25:37 PM
+2022.5.20 11:25:40#1291920112540
+2022.5.20 11:25:40#=================== Transaction Completed =======================
+2022.5.20 11:34:21#=================== Start New Transaction ===================
+2022.5.20 11:34:21#txnrefnum:MSC21110016
+2022.5.20 11:34:21#clientIp:203.76.220.147
+2022.5.20 11:34:21#card type:6
+2022.5.20 11:34:21#totalamount:62000
+2022.5.20 11:34:25#result:TRANSACTION_ID:oeNnheTmzwoYVascdbKqdK3ad8g=
+2022.5.20 11:34:25#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=oeNnheTmzwoYVascdbKqdK3ad8g%3D
+2022.5.20 11:35:28#---------------------- Complete New Transaction---------------------
+2022.5.20 11:35:28#Get trans_id From Post Value:oeNnheTmzwoYVascdbKqdK3ad8g=
+2022.5.20 11:35:28#clientIp:203.76.220.147
+2022.5.20 11:35:28#trans_id:oeNnheTmzwoYVascdbKqdK3ad8g=
+2022.5.20 11:35:30#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214017393405^APPROVAL_CODE>685958^CARD_NUMBER>999999*********4498^AMOUNT>62000^CARDNAME>mb account^DESCRIPTION>6MSC21110016^TRANS_DATE>2022-05-20 05:35:26 PM
+2022.5.20 11:35:30#1105220113530
+2022.5.20 11:35:30#=================== Transaction Completed =======================
+2022.5.20 11:48:07#=================== Start New Transaction ===================
+2022.5.20 11:48:07#txnrefnum:MSC22110075
+2022.5.20 11:48:07#clientIp:103.177.119.107
+2022.5.20 11:48:07#card type:6
+2022.5.20 11:48:07#totalamount:162000
+2022.5.20 11:48:11#result:TRANSACTION_ID:zS53Xq8gDnHYXwum1RTV1sdPXDE=
+2022.5.20 11:48:11#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=zS53Xq8gDnHYXwum1RTV1sdPXDE%3D
+2022.5.20 11:52:42#=================== Start New Transaction ===================
+2022.5.20 11:52:42#txnrefnum:MSC22110075
+2022.5.20 11:52:42#clientIp:103.177.119.107
+2022.5.20 11:52:42#card type:6
+2022.5.20 11:52:42#totalamount:162000
+2022.5.20 11:52:46#result:TRANSACTION_ID:HB4kypQmqlkOSHchTr2W69QDgq8=
+2022.5.20 11:52:46#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=HB4kypQmqlkOSHchTr2W69QDgq8%3D
+2022.5.20 11:53:35#---------------------- Complete New Transaction---------------------
+2022.5.20 11:53:35#Get trans_id From Post Value:HB4kypQmqlkOSHchTr2W69QDgq8=
+2022.5.20 11:53:35#clientIp:103.177.119.107
+2022.5.20 11:53:35#trans_id:HB4kypQmqlkOSHchTr2W69QDgq8=
+2022.5.20 11:53:37#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214017394604^APPROVAL_CODE>859398^CARD_NUMBER>999999*********6012^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22110075^TRANS_DATE>2022-05-20 05:53:34 PM
+2022.5.20 11:53:37#1417820115337
+2022.5.20 11:53:37#=================== Transaction Completed =======================
+2022.5.20 12:09:27#=================== Start New Transaction ===================
+2022.5.20 12:09:27#txnrefnum:MSC22110589
+2022.5.20 12:09:27#clientIp:203.76.220.147
+2022.5.20 12:09:27#card type:6
+2022.5.20 12:09:27#totalamount:162000
+2022.5.20 12:09:31#result:TRANSACTION_ID:3jAQVLQhOBynXwQqN5bg9PBNF8Q=
+2022.5.20 12:09:31#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=3jAQVLQhOBynXwQqN5bg9PBNF8Q%3D
+2022.5.20 12:10:35#---------------------- Complete New Transaction---------------------
+2022.5.20 12:10:35#Get trans_id From Post Value:3jAQVLQhOBynXwQqN5bg9PBNF8Q=
+2022.5.20 12:10:35#clientIp:203.76.220.147
+2022.5.20 12:10:35#trans_id:3jAQVLQhOBynXwQqN5bg9PBNF8Q=
+2022.5.20 12:10:38#result:RESULT>FAILED^RESULT_CODE>116^3DSECURE>SKIPPED^RRN>214018395788^APPROVAL_CODE>0^CARD_NUMBER>999999*********4498^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22110589^TRANS_DATE>2022-05-20 06:10:34 PM
+2022.5.20 12:10:38#Not Sufficient Amount
+2022.5.20 12:15:08#=================== Start New Transaction ===================
+2022.5.20 12:15:08#txnrefnum:MBD2007004
+2022.5.20 12:15:08#clientIp:141.0.8.82
+2022.5.20 12:15:08#card type:6
+2022.5.20 12:15:08#totalamount:322000
+2022.5.20 12:15:12#result:TRANSACTION_ID:TZO4SU5dfrc4jfKgnQuP8ANuzv0=
+2022.5.20 12:15:12#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=TZO4SU5dfrc4jfKgnQuP8ANuzv0%3D
+2022.5.20 12:23:11#=================== Start New Transaction ===================
+2022.5.20 12:23:11#txnrefnum:MSC22110038
+2022.5.20 12:23:11#clientIp:103.58.75.14
+2022.5.20 12:23:11#card type:6
+2022.5.20 12:23:11#totalamount:322000
+2022.5.20 12:23:15#result:TRANSACTION_ID:QYSMEbHlLnDRe5uXcb99KBESFtU=
+2022.5.20 12:23:15#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=QYSMEbHlLnDRe5uXcb99KBESFtU%3D
+2022.5.20 12:23:59#---------------------- Complete New Transaction---------------------
+2022.5.20 12:23:59#Get trans_id From Post Value:74SwtXSpmLw5l9ZU5B9SnH6mVV8=
+2022.5.20 12:23:59#clientIp:103.196.232.133
+2022.5.20 12:23:59#trans_id:74SwtXSpmLw5l9ZU5B9SnH6mVV8=
+2022.5.20 12:24:02#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>162000^CARDNAME>0^DESCRIPTION>6MBD2201055^TRANS_DATE>2022-05-20 06:23:56 PM
+2022.5.20 12:24:02#Failed
+2022.5.20 12:27:19#=================== Start New Transaction ===================
+2022.5.20 12:27:19#txnrefnum:MSC22110038
+2022.5.20 12:27:19#clientIp:103.58.75.14
+2022.5.20 12:27:19#card type:6
+2022.5.20 12:27:19#totalamount:162000
+2022.5.20 12:27:23#result:TRANSACTION_ID:ivEWL2SX6IVYtWVx39MgP3vDU2E=
+2022.5.20 12:27:23#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=ivEWL2SX6IVYtWVx39MgP3vDU2E%3D
+2022.5.20 12:30:28#=================== Start New Transaction ===================
+2022.5.20 12:30:28#txnrefnum:MSC22110038
+2022.5.20 12:30:28#clientIp:103.58.75.14
+2022.5.20 12:30:28#card type:6
+2022.5.20 12:30:28#totalamount:162000
+2022.5.20 12:30:32#result:TRANSACTION_ID:gSkJzpczliFPuQlSuJz1vuYaSdY=
+2022.5.20 12:30:32#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=gSkJzpczliFPuQlSuJz1vuYaSdY%3D
+2022.5.20 12:57:40#=================== Start New Transaction ===================
+2022.5.20 12:57:40#txnrefnum:MSC22110038
+2022.5.20 12:57:40#clientIp:103.58.75.14
+2022.5.20 12:57:40#card type:6
+2022.5.20 12:57:40#totalamount:162000
+2022.5.20 12:57:44#result:TRANSACTION_ID:i0hDWbrPFZleDHhwVFRj6WiFdFA=
+2022.5.20 12:57:44#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=i0hDWbrPFZleDHhwVFRj6WiFdFA%3D
+2022.5.20 12:58:23#---------------------- Complete New Transaction---------------------
+2022.5.20 12:58:23#Get trans_id From Post Value:i0hDWbrPFZleDHhwVFRj6WiFdFA=
+2022.5.20 12:58:23#clientIp:103.58.75.14
+2022.5.20 12:58:23#trans_id:i0hDWbrPFZleDHhwVFRj6WiFdFA=
+2022.5.20 12:58:25#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214018399165^APPROVAL_CODE>996350^CARD_NUMBER>999999*********9759^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22110038^TRANS_DATE>2022-05-20 06:58:22 PM
+2022.5.20 12:58:25#1470620125825
+2022.5.20 12:58:25#=================== Transaction Completed =======================
+2022.5.20 13:01:34#=================== Start New Transaction ===================
+2022.5.20 13:01:34#txnrefnum:MSC22110537
+2022.5.20 13:01:34#clientIp:118.179.181.209
+2022.5.20 13:01:34#card type:6
+2022.5.20 13:01:34#totalamount:162000
+2022.5.20 13:01:38#result:TRANSACTION_ID:bYmQ6uPIvRBpGe5JUaqIZWa8CC4=
+2022.5.20 13:01:38#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=bYmQ6uPIvRBpGe5JUaqIZWa8CC4%3D
+2022.5.20 13:03:16#=================== Start New Transaction ===================
+2022.5.20 13:03:16#txnrefnum:MSC22110537
+2022.5.20 13:03:16#clientIp:118.179.181.209
+2022.5.20 13:03:16#card type:6
+2022.5.20 13:03:16#totalamount:162000
+2022.5.20 13:03:20#result:TRANSACTION_ID:WHLLSjb1mXCLDCnhTcxYTbvWyA0=
+2022.5.20 13:03:20#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=WHLLSjb1mXCLDCnhTcxYTbvWyA0%3D
+2022.5.20 13:08:40#=================== Start New Transaction ===================
+2022.5.20 13:08:40#txnrefnum:BBM2002004
+2022.5.20 13:08:40#clientIp:118.179.3.83
+2022.5.20 13:08:40#card type:6
+2022.5.20 13:08:40#totalamount:322000
+2022.5.20 13:08:44#result:TRANSACTION_ID:xsYzP9Pjrm70pNwfS2ryOtEmR4o=
+2022.5.20 13:08:44#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=xsYzP9Pjrm70pNwfS2ryOtEmR4o%3D
+2022.5.20 13:09:08#---------------------- Complete New Transaction---------------------
+2022.5.20 13:09:08#Get trans_id From Post Value:xsYzP9Pjrm70pNwfS2ryOtEmR4o=
+2022.5.20 13:09:08#clientIp:118.179.3.83
+2022.5.20 13:09:08#trans_id:xsYzP9Pjrm70pNwfS2ryOtEmR4o=
+2022.5.20 13:09:10#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214019399829^APPROVAL_CODE>024535^CARD_NUMBER>999999*********8025^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6BBM2002004^TRANS_DATE>2022-05-20 07:09:07 PM
+2022.5.20 13:09:10#23422920010910
+2022.5.20 13:09:10#23422920010910
+2022.5.20 13:09:10#23422920010910
+2022.5.20 13:09:10#23422920010910
+2022.5.20 13:09:10#=================== Transaction Completed =======================
+2022.5.20 13:14:20#=================== Start New Transaction ===================
+2022.5.20 13:14:20#txnrefnum:MBG2105016
+2022.5.20 13:14:20#clientIp:103.134.169.32
+2022.5.20 13:14:20#card type:6
+2022.5.20 13:14:20#totalamount:82000
+2022.5.20 13:14:24#result:TRANSACTION_ID:Mo2rMsfeApeZs0TJ1Vuqh308Re8=
+2022.5.20 13:14:24#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=Mo2rMsfeApeZs0TJ1Vuqh308Re8%3D
+2022.5.20 13:16:08#---------------------- Complete New Transaction---------------------
+2022.5.20 13:16:08#Get trans_id From Post Value:Mo2rMsfeApeZs0TJ1Vuqh308Re8=
+2022.5.20 13:16:08#clientIp:103.134.169.32
+2022.5.20 13:16:08#trans_id:Mo2rMsfeApeZs0TJ1Vuqh308Re8=
+2022.5.20 13:16:10#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214019400319^APPROVAL_CODE>112019^CARD_NUMBER>999999*********8385^AMOUNT>82000^CARDNAME>mb account^DESCRIPTION>6MBG2105016^TRANS_DATE>2022-05-20 07:16:06 PM
+2022.5.20 13:16:10#14480320011610
+2022.5.20 13:16:10#=================== Transaction Completed =======================
+2022.5.20 13:29:04#=================== Start New Transaction ===================
+2022.5.20 13:29:04#txnrefnum:BEM2001018
+2022.5.20 13:29:04#clientIp:114.130.156.244
+2022.5.20 13:29:04#card type:6
+2022.5.20 13:29:04#totalamount:662000
+2022.5.20 13:29:08#result:TRANSACTION_ID:QBdHCsUAhW99hD7m2AtRS6sGBZI=
+2022.5.20 13:29:08#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=QBdHCsUAhW99hD7m2AtRS6sGBZI%3D
+2022.5.20 13:29:56#---------------------- Complete New Transaction---------------------
+2022.5.20 13:29:56#Get trans_id From Post Value:QBdHCsUAhW99hD7m2AtRS6sGBZI=
+2022.5.20 13:29:56#clientIp:114.130.156.244
+2022.5.20 13:29:56#trans_id:QBdHCsUAhW99hD7m2AtRS6sGBZI=
+2022.5.20 13:29:58#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214019401251^APPROVAL_CODE>159958^CARD_NUMBER>999999*********3728^AMOUNT>662000^CARDNAME>mb account^DESCRIPTION>6BEM2001018^TRANS_DATE>2022-05-20 07:29:55 PM
+2022.5.20 13:29:58#22989720012958
+2022.5.20 13:29:58#22989720012958
+2022.5.20 13:29:58#22989720012958
+2022.5.20 13:29:58#22989720012958
+2022.5.20 13:29:58#22989720012958
+2022.5.20 13:29:58#22989720012958
+2022.5.20 13:29:58#=================== Transaction Completed =======================
+2022.5.20 13:33:51#=================== Start New Transaction ===================
+2022.5.20 13:33:51#txnrefnum:MBM2007241
+2022.5.20 13:33:51#clientIp:103.184.94.4
+2022.5.20 13:33:51#card type:6
+2022.5.20 13:33:51#totalamount:322000
+2022.5.20 13:33:55#result:TRANSACTION_ID:pbkSSLxqUuupqxKzTINzJANFHb4=
+2022.5.20 13:33:55#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=pbkSSLxqUuupqxKzTINzJANFHb4%3D
+2022.5.20 13:34:41#=================== Start New Transaction ===================
+2022.5.20 13:34:41#txnrefnum:MBM2007241
+2022.5.20 13:34:41#clientIp:202.134.14.141
+2022.5.20 13:34:41#card type:6
+2022.5.20 13:34:41#totalamount:322000
+2022.5.20 13:34:45#result:TRANSACTION_ID:4PN7bojcbzxRSFUUg1OlnmeRSX0=
+2022.5.20 13:34:45#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=4PN7bojcbzxRSFUUg1OlnmeRSX0%3D
+2022.5.20 13:38:53#=================== Start New Transaction ===================
+2022.5.20 13:38:53#txnrefnum:MBD2008081
+2022.5.20 13:38:53#clientIp:103.51.2.147
+2022.5.20 13:38:53#card type:6
+2022.5.20 13:38:53#totalamount:242000
+2022.5.20 13:38:57#result:TRANSACTION_ID:6U6iOwSXKa6oHHqAgsvbx2IPLpA=
+2022.5.20 13:38:57#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=6U6iOwSXKa6oHHqAgsvbx2IPLpA%3D
+2022.5.20 13:40:30#---------------------- Complete New Transaction---------------------
+2022.5.20 13:40:30#Get trans_id From Post Value:fUuTcTOGhr1SxL3sez7KEqqinwA=
+2022.5.20 13:40:30#clientIp:103.166.89.183
+2022.5.20 13:40:30#trans_id:fUuTcTOGhr1SxL3sez7KEqqinwA=
+2022.5.20 13:40:32#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>162000^CARDNAME>0^DESCRIPTION>6BBM2206211^TRANS_DATE>2022-05-20 07:40:28 PM
+2022.5.20 13:40:32#Failed
+2022.5.20 13:41:04#=================== Start New Transaction ===================
+2022.5.20 13:41:04#txnrefnum:MBD2008081
+2022.5.20 13:41:04#clientIp:103.51.2.147
+2022.5.20 13:41:04#card type:6
+2022.5.20 13:41:04#totalamount:242000
+2022.5.20 13:41:08#result:TRANSACTION_ID:Df6Aa7y1UISgj4L1rJwlYzgDSPE=
+2022.5.20 13:41:08#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=Df6Aa7y1UISgj4L1rJwlYzgDSPE%3D
+2022.5.20 13:41:41#=================== Start New Transaction ===================
+2022.5.20 13:41:41#txnrefnum:BBM2205023
+2022.5.20 13:41:41#clientIp:114.130.156.244
+2022.5.20 13:41:41#card type:6
+2022.5.20 13:41:41#totalamount:402000
+2022.5.20 13:41:45#result:TRANSACTION_ID:YHmPCWiklFFcqSdUXGSRUpWN2v8=
+2022.5.20 13:41:45#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=YHmPCWiklFFcqSdUXGSRUpWN2v8%3D
+2022.5.20 13:42:17#---------------------- Complete New Transaction---------------------
+2022.5.20 13:42:17#Get trans_id From Post Value:YHmPCWiklFFcqSdUXGSRUpWN2v8=
+2022.5.20 13:42:17#clientIp:114.130.156.244
+2022.5.20 13:42:17#trans_id:YHmPCWiklFFcqSdUXGSRUpWN2v8=
+2022.5.20 13:42:19#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214019402102^APPROVAL_CODE>187340^CARD_NUMBER>999999*********3728^AMOUNT>402000^CARDNAME>mb account^DESCRIPTION>6BBM2205023^TRANS_DATE>2022-05-20 07:42:16 PM
+2022.5.20 13:42:19#23978820014219
+2022.5.20 13:42:19#23978820014219
+2022.5.20 13:42:19#23978820014219
+2022.5.20 13:42:19#23978820014219
+2022.5.20 13:42:19#23978820014219
+2022.5.20 13:42:19#=================== Transaction Completed =======================
+2022.5.20 13:43:38#=================== Start New Transaction ===================
+2022.5.20 13:43:38#txnrefnum:BBM2207039
+2022.5.20 13:43:38#clientIp:114.130.156.244
+2022.5.20 13:43:38#card type:6
+2022.5.20 13:43:38#totalamount:402000
+2022.5.20 13:43:42#result:TRANSACTION_ID:u9BFPwQHqYLin1UrjX04ROCIO5I=
+2022.5.20 13:43:42#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=u9BFPwQHqYLin1UrjX04ROCIO5I%3D
+2022.5.20 13:44:04#---------------------- Complete New Transaction---------------------
+2022.5.20 13:44:04#Get trans_id From Post Value:u9BFPwQHqYLin1UrjX04ROCIO5I=
+2022.5.20 13:44:04#clientIp:114.130.156.244
+2022.5.20 13:44:04#trans_id:u9BFPwQHqYLin1UrjX04ROCIO5I=
+2022.5.20 13:44:06#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214019402238^APPROVAL_CODE>191041^CARD_NUMBER>999999*********3728^AMOUNT>402000^CARDNAME>mb account^DESCRIPTION>6BBM2207039^TRANS_DATE>2022-05-20 07:44:03 PM
+2022.5.20 13:44:06#24886220014406
+2022.5.20 13:44:06#24886220014406
+2022.5.20 13:44:06#24886220014406
+2022.5.20 13:44:06#24886220014406
+2022.5.20 13:44:06#24886220014406
+2022.5.20 13:44:06#=================== Transaction Completed =======================
+2022.5.20 13:52:46#=================== Start New Transaction ===================
+2022.5.20 13:52:46#txnrefnum:BBM2201103
+2022.5.20 13:52:46#clientIp:103.147.106.2
+2022.5.20 13:52:46#card type:6
+2022.5.20 13:52:46#totalamount:162000
+2022.5.20 13:52:50#result:TRANSACTION_ID:hpVblb5lHfoXs1GSt0z9VUBKy64=
+2022.5.20 13:52:50#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=hpVblb5lHfoXs1GSt0z9VUBKy64%3D
+2022.5.20 13:53:35#---------------------- Complete New Transaction---------------------
+2022.5.20 13:53:35#Get trans_id From Post Value:hpVblb5lHfoXs1GSt0z9VUBKy64=
+2022.5.20 13:53:35#clientIp:103.147.106.2
+2022.5.20 13:53:35#trans_id:hpVblb5lHfoXs1GSt0z9VUBKy64=
+2022.5.20 13:53:38#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214019402921^APPROVAL_CODE>309101^CARD_NUMBER>999999*********6907^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6BBM2201103^TRANS_DATE>2022-05-20 07:53:32 PM
+2022.5.20 13:53:38#22425520015338
+2022.5.20 13:53:38#22425520015338
+2022.5.20 13:53:38#=================== Transaction Completed =======================
+2022.5.20 13:59:16#=================== Start New Transaction ===================
+2022.5.20 13:59:16#txnrefnum:MBD2007055
+2022.5.20 13:59:16#clientIp:103.140.176.53
+2022.5.20 13:59:16#card type:6
+2022.5.20 13:59:16#totalamount:82000
+2022.5.20 13:59:20#result:TRANSACTION_ID:u9lpa8nhN0LkbA4a4XSphReLReA=
+2022.5.20 13:59:20#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=u9lpa8nhN0LkbA4a4XSphReLReA%3D
+2022.5.20 14:00:27#---------------------- Complete New Transaction---------------------
+2022.5.20 14:00:27#Get trans_id From Post Value:u9lpa8nhN0LkbA4a4XSphReLReA=
+2022.5.20 14:00:27#clientIp:103.140.176.53
+2022.5.20 14:00:27#trans_id:u9lpa8nhN0LkbA4a4XSphReLReA=
+2022.5.20 14:00:29#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214020403407^APPROVAL_CODE>331784^CARD_NUMBER>999999*********2755^AMOUNT>82000^CARDNAME>mb account^DESCRIPTION>6MBD2007055^TRANS_DATE>2022-05-20 08:00:25 PM
+2022.5.20 14:00:29#19183120020029
+2022.5.20 14:00:29#=================== Transaction Completed =======================
+2022.5.20 14:03:00#=================== Start New Transaction ===================
+2022.5.20 14:03:00#txnrefnum:MBG2105016
+2022.5.20 14:03:00#clientIp:103.135.254.172
+2022.5.20 14:03:00#card type:6
+2022.5.20 14:03:00#totalamount:82000
+2022.5.20 14:03:04#result:TRANSACTION_ID:hMoEgvSrN3CNI9PFKSWvzHlITys=
+2022.5.20 14:03:04#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=hMoEgvSrN3CNI9PFKSWvzHlITys%3D
+2022.5.20 14:06:04#=================== Start New Transaction ===================
+2022.5.20 14:06:04#txnrefnum:MSC22110537
+2022.5.20 14:06:04#clientIp:103.89.24.34
+2022.5.20 14:06:04#card type:6
+2022.5.20 14:06:04#totalamount:162000
+2022.5.20 14:06:08#result:TRANSACTION_ID:vEU9u9fXKVYFaxEGAuFMIAAqPYI=
+2022.5.20 14:06:08#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=vEU9u9fXKVYFaxEGAuFMIAAqPYI%3D
+2022.5.20 14:07:05#=================== Start New Transaction ===================
+2022.5.20 14:07:05#txnrefnum:MBD2002099
+2022.5.20 14:07:05#clientIp:103.140.176.53
+2022.5.20 14:07:05#card type:6
+2022.5.20 14:07:05#totalamount:82000
+2022.5.20 14:07:09#result:TRANSACTION_ID:v3eP3hrN19lanrVL5jtf4X1bxP4=
+2022.5.20 14:07:09#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=v3eP3hrN19lanrVL5jtf4X1bxP4%3D
+2022.5.20 14:07:50#---------------------- Complete New Transaction---------------------
+2022.5.20 14:07:50#Get trans_id From Post Value:vEU9u9fXKVYFaxEGAuFMIAAqPYI=
+2022.5.20 14:07:50#clientIp:103.89.24.34
+2022.5.20 14:07:50#trans_id:vEU9u9fXKVYFaxEGAuFMIAAqPYI=
+2022.5.20 14:07:52#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214020403976^APPROVAL_CODE>238365^CARD_NUMBER>999999*********3737^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22110537^TRANS_DATE>2022-05-20 08:07:48 PM
+2022.5.20 14:07:52#1287020020752
+2022.5.20 14:07:52#=================== Transaction Completed =======================
+2022.5.20 14:08:15#---------------------- Complete New Transaction---------------------
+2022.5.20 14:08:15#Get trans_id From Post Value:v3eP3hrN19lanrVL5jtf4X1bxP4=
+2022.5.20 14:08:15#clientIp:103.140.176.53
+2022.5.20 14:08:15#trans_id:v3eP3hrN19lanrVL5jtf4X1bxP4=
+2022.5.20 14:08:18#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214020404015^APPROVAL_CODE>354409^CARD_NUMBER>999999*********2755^AMOUNT>82000^CARDNAME>mb account^DESCRIPTION>6MBD2002099^TRANS_DATE>2022-05-20 08:08:14 PM
+2022.5.20 14:08:18#11339020020818
+2022.5.20 14:08:18#=================== Transaction Completed =======================
+2022.5.20 14:12:44#=================== Start New Transaction ===================
+2022.5.20 14:12:44#txnrefnum:MBG2105016
+2022.5.20 14:12:44#clientIp:103.135.254.172
+2022.5.20 14:12:44#card type:6
+2022.5.20 14:12:44#totalamount:82000
+2022.5.20 14:12:48#result:TRANSACTION_ID:0S4BCZ7xB8yVT0SMVPr2ExKcJIw=
+2022.5.20 14:12:48#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=0S4BCZ7xB8yVT0SMVPr2ExKcJIw%3D
+2022.5.20 14:13:20#---------------------- Complete New Transaction---------------------
+2022.5.20 14:13:20#Get trans_id From Post Value:0S4BCZ7xB8yVT0SMVPr2ExKcJIw=
+2022.5.20 14:13:20#clientIp:103.135.254.172
+2022.5.20 14:13:20#trans_id:0S4BCZ7xB8yVT0SMVPr2ExKcJIw=
+2022.5.20 14:13:22#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214020404388^APPROVAL_CODE>368457^CARD_NUMBER>999999*********8385^AMOUNT>82000^CARDNAME>mb account^DESCRIPTION>6MBG2105016^TRANS_DATE>2022-05-20 08:13:18 PM
+2022.5.20 14:13:22#14480420021322
+2022.5.20 14:13:22#=================== Transaction Completed =======================
+2022.5.20 14:18:18#=================== Start New Transaction ===================
+2022.5.20 14:18:18#txnrefnum:MEM2004030
+2022.5.20 14:18:18#clientIp:103.89.24.34
+2022.5.20 14:18:18#card type:6
+2022.5.20 14:18:18#totalamount:2222000
+2022.5.20 14:18:22#result:TRANSACTION_ID:kLGnuetZ808Ln2SMl2g0yRKCBz4=
+2022.5.20 14:18:22#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=kLGnuetZ808Ln2SMl2g0yRKCBz4%3D
+2022.5.20 14:19:10#=================== Start New Transaction ===================
+2022.5.20 14:19:10#txnrefnum:MEM2004030
+2022.5.20 14:19:10#clientIp:103.89.24.34
+2022.5.20 14:19:10#card type:6
+2022.5.20 14:19:10#totalamount:2222000
+2022.5.20 14:19:14#result:TRANSACTION_ID:un2xomXuR09kGEBDw4SMXU844oA=
+2022.5.20 14:19:14#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=un2xomXuR09kGEBDw4SMXU844oA%3D
+2022.5.20 14:19:47#---------------------- Complete New Transaction---------------------
+2022.5.20 14:19:47#Get trans_id From Post Value:un2xomXuR09kGEBDw4SMXU844oA=
+2022.5.20 14:19:47#clientIp:103.89.24.34
+2022.5.20 14:19:47#trans_id:un2xomXuR09kGEBDw4SMXU844oA=
+2022.5.20 14:19:49#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214020404870^APPROVAL_CODE>273299^CARD_NUMBER>999999*********3737^AMOUNT>2222000^CARDNAME>mb account^DESCRIPTION>6MEM2004030^TRANS_DATE>2022-05-20 08:19:46 PM
+2022.5.20 14:19:49#14361220021949
+2022.5.20 14:19:49#14361220021949
+2022.5.20 14:19:49#14361220021949
+2022.5.20 14:19:49#14361220021949
+2022.5.20 14:19:49#14361220021949
+2022.5.20 14:19:49#14361220021949
+2022.5.20 14:19:49#=================== Transaction Completed =======================
+2022.5.20 14:20:59#=================== Start New Transaction ===================
+2022.5.20 14:20:59#txnrefnum:MBD2007133
+2022.5.20 14:20:59#clientIp:43.243.133.199
+2022.5.20 14:20:59#card type:6
+2022.5.20 14:20:59#totalamount:82000
+2022.5.20 14:21:02#result:TRANSACTION_ID:7Y4P05kbfBcCoJdWo6XG9J89Ues=
+2022.5.20 14:21:03#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=7Y4P05kbfBcCoJdWo6XG9J89Ues%3D
+2022.5.20 14:22:09#---------------------- Complete New Transaction---------------------
+2022.5.20 14:22:09#Get trans_id From Post Value:7Y4P05kbfBcCoJdWo6XG9J89Ues=
+2022.5.20 14:22:09#clientIp:43.243.133.199
+2022.5.20 14:22:09#trans_id:7Y4P05kbfBcCoJdWo6XG9J89Ues=
+2022.5.20 14:22:11#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214020405036^APPROVAL_CODE>274753^CARD_NUMBER>999999*********3668^AMOUNT>82000^CARDNAME>mb account^DESCRIPTION>6MBD2007133^TRANS_DATE>2022-05-20 08:22:02 PM
+2022.5.20 14:22:11#19285020022211
+2022.5.20 14:22:11#=================== Transaction Completed =======================
+2022.5.20 14:22:34#=================== Start New Transaction ===================
+2022.5.20 14:22:34#txnrefnum:MEB2101116
+2022.5.20 14:22:34#clientIp:103.89.24.34
+2022.5.20 14:22:34#card type:6
+2022.5.20 14:22:34#totalamount:1232000
+2022.5.20 14:22:38#result:TRANSACTION_ID:ntbd7jVzBdhjwEI73yPhjWbCtqE=
+2022.5.20 14:22:38#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=ntbd7jVzBdhjwEI73yPhjWbCtqE%3D
+2022.5.20 14:23:33#=================== Start New Transaction ===================
+2022.5.20 14:23:33#txnrefnum:MBB2101432
+2022.5.20 14:23:33#clientIp:37.111.206.213
+2022.5.20 14:23:33#card type:6
+2022.5.20 14:23:33#totalamount:322000
+2022.5.20 14:23:37#result:TRANSACTION_ID:hS8geSD3EdvFBHFPJXkBGhghQfw=
+2022.5.20 14:23:37#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=hS8geSD3EdvFBHFPJXkBGhghQfw%3D
+2022.5.20 14:24:39#=================== Start New Transaction ===================
+2022.5.20 14:24:39#txnrefnum:MBB2101432
+2022.5.20 14:24:39#clientIp:37.111.206.213
+2022.5.20 14:24:39#card type:6
+2022.5.20 14:24:39#totalamount:322000
+2022.5.20 14:24:43#result:TRANSACTION_ID:lGO5LsiD7sN3Zv0bLJZOkkfHUWI=
+2022.5.20 14:24:43#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=lGO5LsiD7sN3Zv0bLJZOkkfHUWI%3D
+2022.5.20 14:45:22#=================== Start New Transaction ===================
+2022.5.20 14:45:22#txnrefnum:MSC22110519
+2022.5.20 14:45:22#clientIp:103.166.89.67
+2022.5.20 14:45:22#card type:6
+2022.5.20 14:45:22#totalamount:162000
+2022.5.20 14:45:26#result:TRANSACTION_ID:abSwwwkPvf64fWelQ894BC2nkaY=
+2022.5.20 14:45:26#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=abSwwwkPvf64fWelQ894BC2nkaY%3D
+2022.5.20 14:57:42#=================== Start New Transaction ===================
+2022.5.20 14:57:42#txnrefnum:MSC21111300
+2022.5.20 14:57:42#clientIp:103.146.68.21
+2022.5.20 14:57:42#card type:6
+2022.5.20 14:57:42#totalamount:322000
+2022.5.20 14:57:46#=================== Start New Transaction ===================
+2022.5.20 14:57:46#txnrefnum:BBD2008195
+2022.5.20 14:57:46#clientIp:103.204.247.18
+2022.5.20 14:57:46#card type:6
+2022.5.20 14:57:46#totalamount:451500
+2022.5.20 14:57:46#result:TRANSACTION_ID:ByAUhq4LozbqErUm8ZbZYmOAzJI=
+2022.5.20 14:57:46#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=ByAUhq4LozbqErUm8ZbZYmOAzJI%3D
+2022.5.20 14:57:50#result:TRANSACTION_ID:8IEpc6ssupSIYjESPoLkqlXd21M=
+2022.5.20 14:57:50#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=8IEpc6ssupSIYjESPoLkqlXd21M%3D
+2022.5.20 14:58:36#---------------------- Complete New Transaction---------------------
+2022.5.20 14:58:36#Get trans_id From Post Value:ByAUhq4LozbqErUm8ZbZYmOAzJI=
+2022.5.20 14:58:36#clientIp:103.146.68.21
+2022.5.20 14:58:36#trans_id:ByAUhq4LozbqErUm8ZbZYmOAzJI=
+2022.5.20 14:58:38#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214020407747^APPROVAL_CODE>423042^CARD_NUMBER>999999*********5791^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6MSC21111300^TRANS_DATE>2022-05-20 08:58:35 PM
+2022.5.20 14:58:38#851920025838
+2022.5.20 14:58:38#851920025838
+2022.5.20 14:58:38#=================== Transaction Completed =======================
+2022.5.20 14:59:53#---------------------- Complete New Transaction---------------------
+2022.5.20 14:59:53#Get trans_id From Post Value:8IEpc6ssupSIYjESPoLkqlXd21M=
+2022.5.20 14:59:53#clientIp:103.204.247.18
+2022.5.20 14:59:53#trans_id:8IEpc6ssupSIYjESPoLkqlXd21M=
+2022.5.20 14:59:55#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214020407835^APPROVAL_CODE>497969^CARD_NUMBER>999999*********8505^AMOUNT>451500^CARDNAME>mb account^DESCRIPTION>6BBD2008195^TRANS_DATE>2022-05-20 08:59:52 PM
+2022.5.20 14:59:55#26659920025955
+2022.5.20 14:59:55#26659920025955
+2022.5.20 14:59:55#26659920025955
+2022.5.20 14:59:55#26659920025955
+2022.5.20 14:59:55#26659920025955
+2022.5.20 14:59:55#=================== Transaction Completed =======================
+2022.5.20 15:00:21#=================== Start New Transaction ===================
+2022.5.20 15:00:21#txnrefnum:MBM2002003
+2022.5.20 15:00:21#clientIp:43.224.109.79
+2022.5.20 15:00:21#card type:6
+2022.5.20 15:00:21#totalamount:162000
+2022.5.20 15:00:25#result:TRANSACTION_ID:Xd2hBL3F6H5VIrFTqh0deUGXJiw=
+2022.5.20 15:00:25#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=Xd2hBL3F6H5VIrFTqh0deUGXJiw%3D
+2022.5.20 15:01:35#---------------------- Complete New Transaction---------------------
+2022.5.20 15:01:35#Get trans_id From Post Value:Z8D0B6faeKDaI7TaOTpwEzh7qi8=
+2022.5.20 15:01:35#clientIp:141.0.9.130
+2022.5.20 15:01:35#trans_id:Z8D0B6faeKDaI7TaOTpwEzh7qi8=
+2022.5.20 15:01:37#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>322000^CARDNAME>0^DESCRIPTION>6BBG2106039^TRANS_DATE>2022-05-20 09:01:34 PM
+2022.5.20 15:01:37#Failed
+2022.5.20 15:06:23#---------------------- Complete New Transaction---------------------
+2022.5.20 15:06:23#Get trans_id From Post Value:Xd2hBL3F6H5VIrFTqh0deUGXJiw=
+2022.5.20 15:06:23#clientIp:43.224.109.79
+2022.5.20 15:06:23#trans_id:Xd2hBL3F6H5VIrFTqh0deUGXJiw=
+2022.5.20 15:06:25#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>162000^CARDNAME>0^DESCRIPTION>6MBM2002003^TRANS_DATE>2022-05-20 09:06:22 PM
+2022.5.20 15:06:25#Failed
+2022.5.20 15:07:14#=================== Start New Transaction ===================
+2022.5.20 15:07:14#txnrefnum:MBM2002003
+2022.5.20 15:07:14#clientIp:43.224.109.79
+2022.5.20 15:07:14#card type:6
+2022.5.20 15:07:14#totalamount:162000
+2022.5.20 15:07:18#result:TRANSACTION_ID:2nDVRcV84DS1KZT5BoOCPxh3kBw=
+2022.5.20 15:07:18#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=2nDVRcV84DS1KZT5BoOCPxh3kBw%3D
+2022.5.20 15:08:15#---------------------- Complete New Transaction---------------------
+2022.5.20 15:08:15#Get trans_id From Post Value:2nDVRcV84DS1KZT5BoOCPxh3kBw=
+2022.5.20 15:08:15#clientIp:43.224.109.79
+2022.5.20 15:08:15#trans_id:2nDVRcV84DS1KZT5BoOCPxh3kBw=
+2022.5.20 15:08:18#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214021408417^APPROVAL_CODE>549099^CARD_NUMBER>999999*********3636^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MBM2002003^TRANS_DATE>2022-05-20 09:08:14 PM
+2022.5.20 15:08:18#11653320030818
+2022.5.20 15:08:18#11653320030818
+2022.5.20 15:08:18#=================== Transaction Completed =======================
+2022.5.20 15:10:32#=================== Start New Transaction ===================
+2022.5.20 15:10:32#txnrefnum:MBM2004151
+2022.5.20 15:10:32#clientIp:43.224.109.79
+2022.5.20 15:10:32#card type:6
+2022.5.20 15:10:32#totalamount:162000
+2022.5.20 15:10:36#result:TRANSACTION_ID:vmZZJ1MTkJdBDOXcxecwY0VsBB8=
+2022.5.20 15:10:36#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=vmZZJ1MTkJdBDOXcxecwY0VsBB8%3D
+2022.5.20 15:11:23#---------------------- Complete New Transaction---------------------
+2022.5.20 15:11:23#Get trans_id From Post Value:vmZZJ1MTkJdBDOXcxecwY0VsBB8=
+2022.5.20 15:11:23#clientIp:43.224.109.79
+2022.5.20 15:11:23#trans_id:vmZZJ1MTkJdBDOXcxecwY0VsBB8=
+2022.5.20 15:11:25#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214021408603^APPROVAL_CODE>432826^CARD_NUMBER>999999*********3636^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MBM2004151^TRANS_DATE>2022-05-20 09:11:22 PM
+2022.5.20 15:11:25#14534220031125
+2022.5.20 15:11:25#14534220031125
+2022.5.20 15:11:25#=================== Transaction Completed =======================
+2022.5.20 15:19:23#=================== Start New Transaction ===================
+2022.5.20 15:19:23#txnrefnum:MSC21110025
+2022.5.20 15:19:23#clientIp:114.130.156.227
+2022.5.20 15:19:23#card type:6
+2022.5.20 15:19:23#totalamount:162000
+2022.5.20 15:19:28#result:TRANSACTION_ID:ZDKCvLnkR9JPRKtAyo0uZK9kfj4=
+2022.5.20 15:19:28#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=ZDKCvLnkR9JPRKtAyo0uZK9kfj4%3D
+2022.5.20 15:20:28#---------------------- Complete New Transaction---------------------
+2022.5.20 15:20:28#Get trans_id From Post Value:ZDKCvLnkR9JPRKtAyo0uZK9kfj4=
+2022.5.20 15:20:28#clientIp:114.130.156.227
+2022.5.20 15:20:28#trans_id:ZDKCvLnkR9JPRKtAyo0uZK9kfj4=
+2022.5.20 15:20:30#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214021409147^APPROVAL_CODE>606481^CARD_NUMBER>999999*********9376^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC21110025^TRANS_DATE>2022-05-20 09:20:27 PM
+2022.5.20 15:20:30#419120032030
+2022.5.20 15:20:30#=================== Transaction Completed =======================
+2022.5.20 15:25:15#=================== Start New Transaction ===================
+2022.5.20 15:25:15#txnrefnum:BBG2106039
+2022.5.20 15:25:15#clientIp:103.138.120.240
+2022.5.20 15:25:15#card type:6
+2022.5.20 15:25:15#totalamount:322000
+2022.5.20 15:25:19#result:TRANSACTION_ID:QLoOxIiSwKmHac4f52IuXAlJPHo=
+2022.5.20 15:25:19#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=QLoOxIiSwKmHac4f52IuXAlJPHo%3D
+2022.5.20 15:26:33#---------------------- Complete New Transaction---------------------
+2022.5.20 15:26:33#Get trans_id From Post Value:QLoOxIiSwKmHac4f52IuXAlJPHo=
+2022.5.20 15:26:33#clientIp:103.138.120.240
+2022.5.20 15:26:33#trans_id:QLoOxIiSwKmHac4f52IuXAlJPHo=
+2022.5.20 15:26:35#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214021409481^APPROVAL_CODE>675723^CARD_NUMBER>999999*********7042^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6BBG2106039^TRANS_DATE>2022-05-20 09:26:31 PM
+2022.5.20 15:26:35#25018220032635
+2022.5.20 15:26:35#25018220032635
+2022.5.20 15:26:35#25018220032635
+2022.5.20 15:26:35#25018220032635
+2022.5.20 15:26:35#=================== Transaction Completed =======================
+2022.5.20 15:32:07#=================== Start New Transaction ===================
+2022.5.20 15:32:07#txnrefnum:MED2007013
+2022.5.20 15:32:07#clientIp:103.150.254.70
+2022.5.20 15:32:07#card type:6
+2022.5.20 15:32:07#totalamount:112000
+2022.5.20 15:32:11#result:TRANSACTION_ID:QKkPVWohKHbIUPePPlHZ5b7YgYM=
+2022.5.20 15:32:11#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=QKkPVWohKHbIUPePPlHZ5b7YgYM%3D
+2022.5.20 15:34:18#=================== Start New Transaction ===================
+2022.5.20 15:34:18#txnrefnum:MED2007013
+2022.5.20 15:34:18#clientIp:103.150.254.70
+2022.5.20 15:34:18#card type:6
+2022.5.20 15:34:18#totalamount:112000
+2022.5.20 15:34:22#result:TRANSACTION_ID:dQo8ZmrALVDEFVlqPpWOF3K6sM0=
+2022.5.20 15:34:22#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=dQo8ZmrALVDEFVlqPpWOF3K6sM0%3D
+2022.5.20 15:37:24#=================== Start New Transaction ===================
+2022.5.20 15:37:24#txnrefnum:MED2007013
+2022.5.20 15:37:24#clientIp:103.150.254.70
+2022.5.20 15:37:24#card type:6
+2022.5.20 15:37:24#totalamount:112000
+2022.5.20 15:37:28#result:TRANSACTION_ID:iumpQ63KX3QXsd7krX4MolC5its=
+2022.5.20 15:37:28#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=iumpQ63KX3QXsd7krX4MolC5its%3D
+2022.5.20 15:39:30#=================== Start New Transaction ===================
+2022.5.20 15:39:30#txnrefnum:MBM2004181
+2022.5.20 15:39:30#clientIp:103.144.201.33
+2022.5.20 15:39:30#card type:6
+2022.5.20 15:39:30#totalamount:322000
+2022.5.20 15:39:35#result:TRANSACTION_ID:NGkzFM6h7qvIqP7gDT3ffscjhSs=
+2022.5.20 15:39:35#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=NGkzFM6h7qvIqP7gDT3ffscjhSs%3D
+2022.5.20 15:40:21#=================== Start New Transaction ===================
+2022.5.20 15:40:21#txnrefnum:MED2007013
+2022.5.20 15:40:21#clientIp:103.150.254.70
+2022.5.20 15:40:21#card type:6
+2022.5.20 15:40:21#totalamount:112000
+2022.5.20 15:40:25#result:TRANSACTION_ID:EzJKCXc6iFVHW7pbxM8KkXQNwbQ=
+2022.5.20 15:40:25#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=EzJKCXc6iFVHW7pbxM8KkXQNwbQ%3D
+2022.5.20 15:41:27#=================== Start New Transaction ===================
+2022.5.20 15:41:27#txnrefnum:MBM2004181
+2022.5.20 15:41:27#clientIp:103.144.201.33
+2022.5.20 15:41:27#card type:6
+2022.5.20 15:41:27#totalamount:322000
+2022.5.20 15:41:31#result:TRANSACTION_ID:fM9x6cANmr79U0oAH2a2B1Lvo58=
+2022.5.20 15:41:31#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=fM9x6cANmr79U0oAH2a2B1Lvo58%3D
+2022.5.20 15:41:46#---------------------- Complete New Transaction---------------------
+2022.5.20 15:41:46#Get trans_id From Post Value:EzJKCXc6iFVHW7pbxM8KkXQNwbQ=
+2022.5.20 15:41:46#clientIp:103.150.254.70
+2022.5.20 15:41:46#trans_id:EzJKCXc6iFVHW7pbxM8KkXQNwbQ=
+2022.5.20 15:41:49#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214021410372^APPROVAL_CODE>575688^CARD_NUMBER>999999*********6425^AMOUNT>112000^CARDNAME>mb account^DESCRIPTION>6MED2007013^TRANS_DATE>2022-05-20 09:41:45 PM
+2022.5.20 15:41:49#19579120034149
+2022.5.20 15:41:49#=================== Transaction Completed =======================
+2022.5.20 15:46:34#=================== Start New Transaction ===================
+2022.5.20 15:46:34#txnrefnum:MEM2003060
+2022.5.20 15:46:34#clientIp:103.150.254.70
+2022.5.20 15:46:34#card type:6
+2022.5.20 15:46:34#totalamount:112000
+2022.5.20 15:46:38#result:TRANSACTION_ID:uYUMSgebuzSPA3XhY1wTPyroYMU=
+2022.5.20 15:46:38#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=uYUMSgebuzSPA3XhY1wTPyroYMU%3D
+2022.5.20 15:47:13#=================== Start New Transaction ===================
+2022.5.20 15:47:13#txnrefnum:MBM2004181
+2022.5.20 15:47:13#clientIp:103.144.201.33
+2022.5.20 15:47:13#card type:6
+2022.5.20 15:47:13#totalamount:322000
+2022.5.20 15:47:17#result:TRANSACTION_ID:SXhRTY0LUPYak7JZ83hTYfoByh0=
+2022.5.20 15:47:17#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=SXhRTY0LUPYak7JZ83hTYfoByh0%3D
+2022.5.20 15:47:44#---------------------- Complete New Transaction---------------------
+2022.5.20 15:47:44#Get trans_id From Post Value:uYUMSgebuzSPA3XhY1wTPyroYMU=
+2022.5.20 15:47:44#clientIp:103.150.254.70
+2022.5.20 15:47:44#trans_id:uYUMSgebuzSPA3XhY1wTPyroYMU=
+2022.5.20 15:47:46#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214021410745^APPROVAL_CODE>583892^CARD_NUMBER>999999*********6425^AMOUNT>112000^CARDNAME>mb account^DESCRIPTION>6MEM2003060^TRANS_DATE>2022-05-20 09:47:43 PM
+2022.5.20 15:47:46#13293120034746
+2022.5.20 15:47:46#=================== Transaction Completed =======================
+2022.5.20 15:52:07#=================== Start New Transaction ===================
+2022.5.20 15:52:07#txnrefnum:MBD2007140
+2022.5.20 15:52:07#clientIp:103.144.201.33
+2022.5.20 15:52:07#card type:6
+2022.5.20 15:52:07#totalamount:322000
+2022.5.20 15:52:11#result:TRANSACTION_ID:0Y0PKLOFq916SZcsisb5JNVqmSc=
+2022.5.20 15:52:11#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=0Y0PKLOFq916SZcsisb5JNVqmSc%3D
+2022.5.20 15:54:47#=================== Start New Transaction ===================
+2022.5.20 15:54:47#txnrefnum:MBD2007140
+2022.5.20 15:54:47#clientIp:103.144.201.33
+2022.5.20 15:54:47#card type:6
+2022.5.20 15:54:47#totalamount:82000
+2022.5.20 15:54:51#=================== Start New Transaction ===================
+2022.5.20 15:54:51#txnrefnum:MBD2007140
+2022.5.20 15:54:51#clientIp:103.144.201.33
+2022.5.20 15:54:51#card type:6
+2022.5.20 15:54:51#totalamount:82000
+2022.5.20 15:54:51#result:TRANSACTION_ID:ZTozPGsLOFmyRfmXfCWRgybWWwc=
+2022.5.20 15:54:51#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=ZTozPGsLOFmyRfmXfCWRgybWWwc%3D
+2022.5.20 15:54:56#result:TRANSACTION_ID:lbPsiP0udJa3Uah8OZL2zs2uS2I=
+2022.5.20 15:54:56#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=lbPsiP0udJa3Uah8OZL2zs2uS2I%3D
+2022.5.20 16:00:19#---------------------- Complete New Transaction---------------------
+2022.5.20 16:00:19#Get trans_id From Post Value:lbPsiP0udJa3Uah8OZL2zs2uS2I=
+2022.5.20 16:00:19#clientIp:103.144.201.33
+2022.5.20 16:00:19#trans_id:lbPsiP0udJa3Uah8OZL2zs2uS2I=
+2022.5.20 16:00:21#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>82000^CARDNAME>0^DESCRIPTION>6MBD2007140^TRANS_DATE>2022-05-20 10:00:18 PM
+2022.5.20 16:00:21#Failed
+2022.5.20 16:00:55#=================== Start New Transaction ===================
+2022.5.20 16:00:55#txnrefnum:MBD2007140
+2022.5.20 16:00:55#clientIp:103.144.201.33
+2022.5.20 16:00:55#card type:6
+2022.5.20 16:00:55#totalamount:322000
+2022.5.20 16:01:00#result:TRANSACTION_ID:3XihfDEbixXCIMHN3cF0O0Dp8wI=
+2022.5.20 16:01:00#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=3XihfDEbixXCIMHN3cF0O0Dp8wI%3D
+2022.5.20 16:02:27#=================== Start New Transaction ===================
+2022.5.20 16:02:27#txnrefnum:MBD2007140
+2022.5.20 16:02:27#clientIp:103.144.201.33
+2022.5.20 16:02:27#card type:6
+2022.5.20 16:02:27#totalamount:322000
+2022.5.20 16:02:31#result:TRANSACTION_ID:hB1yEIDqUM1vUScSsCTS1vpF2K4=
+2022.5.20 16:02:31#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=hB1yEIDqUM1vUScSsCTS1vpF2K4%3D
+2022.5.20 16:03:25#=================== Start New Transaction ===================
+2022.5.20 16:03:25#txnrefnum:MBD2007140
+2022.5.20 16:03:25#clientIp:103.144.201.33
+2022.5.20 16:03:25#card type:6
+2022.5.20 16:03:25#totalamount:322000
+2022.5.20 16:03:29#result:TRANSACTION_ID:5hZMFX76SfYudXuqyqE26oPhcYE=
+2022.5.20 16:03:29#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=5hZMFX76SfYudXuqyqE26oPhcYE%3D
+2022.5.20 16:04:05#---------------------- Complete New Transaction---------------------
+2022.5.20 16:04:05#Get trans_id From Post Value:5hZMFX76SfYudXuqyqE26oPhcYE=
+2022.5.20 16:04:05#clientIp:103.144.201.33
+2022.5.20 16:04:05#trans_id:5hZMFX76SfYudXuqyqE26oPhcYE=
+2022.5.20 16:04:08#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214022411727^APPROVAL_CODE>756881^CARD_NUMBER>999999*********2432^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6MBD2007140^TRANS_DATE>2022-05-20 10:04:04 PM
+2022.5.20 16:04:08#19293320040408
+2022.5.20 16:04:08#19293320040408
+2022.5.20 16:04:08#19293320040408
+2022.5.20 16:04:08#19293320040408
+2022.5.20 16:04:08#=================== Transaction Completed =======================
+2022.5.20 16:05:15#=================== Start New Transaction ===================
+2022.5.20 16:05:15#txnrefnum:MBM2004181
+2022.5.20 16:05:15#clientIp:103.144.201.33
+2022.5.20 16:05:15#card type:6
+2022.5.20 16:05:15#totalamount:322000
+2022.5.20 16:05:20#result:TRANSACTION_ID:qwJCwvra9CdSP8VjOYtGDfBI0Cw=
+2022.5.20 16:05:20#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=qwJCwvra9CdSP8VjOYtGDfBI0Cw%3D
+2022.5.20 16:05:46#---------------------- Complete New Transaction---------------------
+2022.5.20 16:05:46#Get trans_id From Post Value:qwJCwvra9CdSP8VjOYtGDfBI0Cw=
+2022.5.20 16:05:46#clientIp:103.144.201.33
+2022.5.20 16:05:46#trans_id:qwJCwvra9CdSP8VjOYtGDfBI0Cw=
+2022.5.20 16:05:48#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214022411824^APPROVAL_CODE>759546^CARD_NUMBER>999999*********2432^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6MBM2004181^TRANS_DATE>2022-05-20 10:05:45 PM
+2022.5.20 16:05:48#14571320040548
+2022.5.20 16:05:48#14571320040548
+2022.5.20 16:05:48#14571320040548
+2022.5.20 16:05:48#14571320040548
+2022.5.20 16:05:48#14571320040548
+2022.5.20 16:05:48#=================== Transaction Completed =======================
+2022.5.20 16:12:34#=================== Start New Transaction ===================
+2022.5.20 16:12:34#txnrefnum:MBD2006334
+2022.5.20 16:12:34#clientIp:59.152.97.81
+2022.5.20 16:12:34#card type:6
+2022.5.20 16:12:34#totalamount:702000
+2022.5.20 16:12:38#result:TRANSACTION_ID:YTp5uNsgNaUEPPXGO89iVVbnKuE=
+2022.5.20 16:12:38#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=YTp5uNsgNaUEPPXGO89iVVbnKuE%3D
+2022.5.20 16:13:26#---------------------- Complete New Transaction---------------------
+2022.5.20 16:13:26#Get trans_id From Post Value:YTp5uNsgNaUEPPXGO89iVVbnKuE=
+2022.5.20 16:13:26#clientIp:59.152.97.81
+2022.5.20 16:13:26#trans_id:YTp5uNsgNaUEPPXGO89iVVbnKuE=
+2022.5.20 16:13:28#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214022412314^APPROVAL_CODE>816859^CARD_NUMBER>999999*********8205^AMOUNT>702000^CARDNAME>mb account^DESCRIPTION>6MBD2006334^TRANS_DATE>2022-05-20 10:13:25 PM
+2022.5.20 16:13:28#18350920041328
+2022.5.20 16:13:28#18350920041328
+2022.5.20 16:13:28#=================== Transaction Completed =======================
+2022.5.20 16:14:34#=================== Start New Transaction ===================
+2022.5.20 16:14:34#txnrefnum:MBD2008009
+2022.5.20 16:14:34#clientIp:103.134.173.10
+2022.5.20 16:14:34#card type:6
+2022.5.20 16:14:34#totalamount:82000
+2022.5.20 16:14:36#=================== Start New Transaction ===================
+2022.5.20 16:14:36#txnrefnum:MBD2008009
+2022.5.20 16:14:36#clientIp:103.134.173.10
+2022.5.20 16:14:36#card type:6
+2022.5.20 16:14:36#totalamount:82000
+2022.5.20 16:14:38#result:TRANSACTION_ID:fONrd7w9V6iDpnffn7LhAYInu44=
+2022.5.20 16:14:38#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=fONrd7w9V6iDpnffn7LhAYInu44%3D
+2022.5.20 16:14:41#result:TRANSACTION_ID:iglrfNpZFPYLKS8F96azlT6BAf0=
+2022.5.20 16:14:41#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=iglrfNpZFPYLKS8F96azlT6BAf0%3D
+2022.5.20 16:16:04#=================== Start New Transaction ===================
+2022.5.20 16:16:04#txnrefnum:MBD2008311
+2022.5.20 16:16:04#clientIp:103.177.243.4
+2022.5.20 16:16:04#card type:6
+2022.5.20 16:16:04#totalamount:322000
+2022.5.20 16:16:08#result:TRANSACTION_ID:5AYlaPxDrwvxCdlgYC7W9Y06eU0=
+2022.5.20 16:16:08#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=5AYlaPxDrwvxCdlgYC7W9Y06eU0%3D
+2022.5.20 16:16:53#=================== Start New Transaction ===================
+2022.5.20 16:16:53#txnrefnum:MBD2008009
+2022.5.20 16:16:53#clientIp:103.134.173.10
+2022.5.20 16:16:53#card type:6
+2022.5.20 16:16:53#totalamount:82000
+2022.5.20 16:16:57#result:TRANSACTION_ID:07oRf5cqo3cVFGSlLaGf3lcnRUA=
+2022.5.20 16:16:57#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=07oRf5cqo3cVFGSlLaGf3lcnRUA%3D
+2022.5.20 16:18:22#=================== Start New Transaction ===================
+2022.5.20 16:18:22#txnrefnum:MSC22111001
+2022.5.20 16:18:22#clientIp:103.111.9.237
+2022.5.20 16:18:22#card type:6
+2022.5.20 16:18:22#totalamount:162000
+2022.5.20 16:18:26#result:TRANSACTION_ID:vb7mhqCZx3907IWTwNvmMQ9vW1s=
+2022.5.20 16:18:26#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=vb7mhqCZx3907IWTwNvmMQ9vW1s%3D
+2022.5.20 16:18:35#---------------------- Complete New Transaction---------------------
+2022.5.20 16:18:35#Get trans_id From Post Value:5AYlaPxDrwvxCdlgYC7W9Y06eU0=
+2022.5.20 16:18:35#clientIp:103.177.243.4
+2022.5.20 16:18:35#trans_id:5AYlaPxDrwvxCdlgYC7W9Y06eU0=
+2022.5.20 16:18:37#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214022412630^APPROVAL_CODE>777751^CARD_NUMBER>999999*********1547^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6MBD2008311^TRANS_DATE>2022-05-20 10:18:33 PM
+2022.5.20 16:18:37#21356920041837
+2022.5.20 16:18:37#21356920041837
+2022.5.20 16:18:37#21356920041837
+2022.5.20 16:18:37#21356920041837
+2022.5.20 16:18:37#=================== Transaction Completed =======================
+2022.5.20 16:18:53#=================== Start New Transaction ===================
+2022.5.20 16:18:53#txnrefnum:MBD2008298
+2022.5.20 16:18:53#clientIp:37.111.206.233
+2022.5.20 16:18:53#card type:6
+2022.5.20 16:18:53#totalamount:82000
+2022.5.20 16:18:57#result:TRANSACTION_ID:r5Tk3KItRpZBydt2iOjFY2Qaznw=
+2022.5.20 16:18:57#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=r5Tk3KItRpZBydt2iOjFY2Qaznw%3D
+2022.5.20 16:19:11#---------------------- Complete New Transaction---------------------
+2022.5.20 16:19:11#Get trans_id From Post Value:07oRf5cqo3cVFGSlLaGf3lcnRUA=
+2022.5.20 16:19:11#clientIp:103.134.173.10
+2022.5.20 16:19:11#trans_id:07oRf5cqo3cVFGSlLaGf3lcnRUA=
+2022.5.20 16:19:13#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214022412671^APPROVAL_CODE>822689^CARD_NUMBER>999999*********7199^AMOUNT>82000^CARDNAME>mb account^DESCRIPTION>6MBD2008009^TRANS_DATE>2022-05-20 10:19:10 PM
+2022.5.20 16:19:13#21024820041913
+2022.5.20 16:19:13#=================== Transaction Completed =======================
+2022.5.20 16:42:11#=================== Start New Transaction ===================
+2022.5.20 16:42:11#txnrefnum:MSC22111319
+2022.5.20 16:42:11#clientIp:45.127.247.160
+2022.5.20 16:42:11#card type:6
+2022.5.20 16:42:11#totalamount:162000
+2022.5.20 16:42:16#result:TRANSACTION_ID:Vc8yeyzmplBXpnNb1Jp5DSf7k2I=
+2022.5.20 16:42:16#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=Vc8yeyzmplBXpnNb1Jp5DSf7k2I%3D
+2022.5.20 16:43:31#=================== Start New Transaction ===================
+2022.5.20 16:43:31#txnrefnum:MSC22111319
+2022.5.20 16:43:31#clientIp:45.127.247.160
+2022.5.20 16:43:31#card type:6
+2022.5.20 16:43:31#totalamount:162000
+2022.5.20 16:43:35#result:TRANSACTION_ID:SMAGCS44SqPtKnk1gx3LOmRwwHg=
+2022.5.20 16:43:35#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=SMAGCS44SqPtKnk1gx3LOmRwwHg%3D
+2022.5.20 16:45:56#=================== Start New Transaction ===================
+2022.5.20 16:45:56#txnrefnum:MBM2206471
+2022.5.20 16:45:56#clientIp:103.126.21.14
+2022.5.20 16:45:56#card type:6
+2022.5.20 16:45:56#totalamount:782000
+2022.5.20 16:46:01#result:TRANSACTION_ID:VcggT5aH2rXeVmaSwHyKFMDuZeA=
+2022.5.20 16:46:01#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=VcggT5aH2rXeVmaSwHyKFMDuZeA%3D
+2022.5.20 16:47:01#=================== Start New Transaction ===================
+2022.5.20 16:47:01#txnrefnum:MBM2008079
+2022.5.20 16:47:01#clientIp:123.253.65.229
+2022.5.20 16:47:01#card type:6
+2022.5.20 16:47:01#totalamount:242000
+2022.5.20 16:47:06#result:TRANSACTION_ID:APSvCtAAKZoFl6PjPczkSzBKwMc=
+2022.5.20 16:47:06#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=APSvCtAAKZoFl6PjPczkSzBKwMc%3D
+2022.5.20 16:47:38#=================== Start New Transaction ===================
+2022.5.20 16:47:38#txnrefnum:MBM2206471
+2022.5.20 16:47:38#clientIp:103.126.21.14
+2022.5.20 16:47:38#card type:6
+2022.5.20 16:47:38#totalamount:862000
+2022.5.20 16:47:42#result:TRANSACTION_ID:ThHU3Jp7Yjym0SanzVHkmTWgKng=
+2022.5.20 16:47:42#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=ThHU3Jp7Yjym0SanzVHkmTWgKng%3D
+2022.5.20 16:51:59#---------------------- Complete New Transaction---------------------
+2022.5.20 16:51:59#Get trans_id From Post Value:SMAGCS44SqPtKnk1gx3LOmRwwHg=
+2022.5.20 16:51:59#clientIp:45.127.247.160
+2022.5.20 16:51:59#trans_id:SMAGCS44SqPtKnk1gx3LOmRwwHg=
+2022.5.20 16:52:01#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>162000^CARDNAME>0^DESCRIPTION>6MSC22111319^TRANS_DATE>2022-05-20 10:51:58 PM
+2022.5.20 16:52:01#Failed
+2022.5.20 16:52:57#=================== Start New Transaction ===================
+2022.5.20 16:52:57#txnrefnum:MSC22111319
+2022.5.20 16:52:57#clientIp:45.127.247.160
+2022.5.20 16:52:57#card type:6
+2022.5.20 16:52:57#totalamount:162000
+2022.5.20 16:53:01#result:TRANSACTION_ID:oAN2xQ4LA7Gl66KWPlWJYuV1SY8=
+2022.5.20 16:53:01#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=oAN2xQ4LA7Gl66KWPlWJYuV1SY8%3D
+2022.5.20 16:53:32#---------------------- Complete New Transaction---------------------
+2022.5.20 16:53:32#Get trans_id From Post Value:oAN2xQ4LA7Gl66KWPlWJYuV1SY8=
+2022.5.20 16:53:32#clientIp:45.127.247.160
+2022.5.20 16:53:32#trans_id:oAN2xQ4LA7Gl66KWPlWJYuV1SY8=
+2022.5.20 16:53:35#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214022414402^APPROVAL_CODE>841203^CARD_NUMBER>999999*********7571^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22111319^TRANS_DATE>2022-05-20 10:53:30 PM
+2022.5.20 16:53:35#1558320045335
+2022.5.20 16:53:35#=================== Transaction Completed =======================
+2022.5.20 16:55:09#=================== Start New Transaction ===================
+2022.5.20 16:55:09#txnrefnum:MED2007007
+2022.5.20 16:55:09#clientIp:103.149.147.156
+2022.5.20 16:55:09#card type:6
+2022.5.20 16:55:09#totalamount:112000
+2022.5.20 16:55:13#result:TRANSACTION_ID:H4Q3Ifad5GOdS0mBi6ptde3KGxY=
+2022.5.20 16:55:13#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=H4Q3Ifad5GOdS0mBi6ptde3KGxY%3D
+2022.5.20 16:56:18#=================== Start New Transaction ===================
+2022.5.20 16:56:18#txnrefnum:MEM2006011
+2022.5.20 16:56:18#clientIp:103.148.149.5
+2022.5.20 16:56:18#card type:6
+2022.5.20 16:56:18#totalamount:1212000
+2022.5.20 16:56:22#result:TRANSACTION_ID:PX9PFyCGeMksnb2peiRlmBMwxS4=
+2022.5.20 16:56:22#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=PX9PFyCGeMksnb2peiRlmBMwxS4%3D
+2022.5.20 16:56:48#=================== Start New Transaction ===================
+2022.5.20 16:56:48#txnrefnum:MEM2006011
+2022.5.20 16:56:48#clientIp:103.148.149.5
+2022.5.20 16:56:48#card type:6
+2022.5.20 16:56:48#totalamount:1212000
+2022.5.20 16:56:51#result:TRANSACTION_ID:sEX2L7ysLznM5GOks8mo1IGaemc=
+2022.5.20 16:56:52#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=sEX2L7ysLznM5GOks8mo1IGaemc%3D
+2022.5.20 17:46:38#=================== Start New Transaction ===================
+2022.5.20 17:46:38#txnrefnum:BBG2101165
+2022.5.20 17:46:38#clientIp:103.138.120.167
+2022.5.20 17:46:38#card type:6
+2022.5.20 17:46:38#totalamount:162000
+2022.5.20 17:46:42#result:TRANSACTION_ID:SppzPRNja96waJ8jx2jCNxQVZ5g=
+2022.5.20 17:46:42#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=SppzPRNja96waJ8jx2jCNxQVZ5g%3D
+2022.5.20 18:41:00#=================== Start New Transaction ===================
+2022.5.20 18:41:00#txnrefnum:MSC22111357
+2022.5.20 18:41:00#clientIp:103.138.120.245
+2022.5.20 18:41:00#card type:6
+2022.5.20 18:41:00#totalamount:162000
+2022.5.20 18:41:04#result:TRANSACTION_ID:YPd50DGa1jSTKNhvuIz8vRTs7G0=
+2022.5.20 18:41:04#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=YPd50DGa1jSTKNhvuIz8vRTs7G0%3D
+2022.5.20 18:41:49#=================== Start New Transaction ===================
+2022.5.20 18:41:49#txnrefnum:MSC22111357
+2022.5.20 18:41:49#clientIp:103.138.120.245
+2022.5.20 18:41:49#card type:6
+2022.5.20 18:41:49#totalamount:162000
+2022.5.20 18:41:53#result:TRANSACTION_ID:Z2hFYQb4WeYqIRDsHy7DPXejSLw=
+2022.5.20 18:41:53#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=Z2hFYQb4WeYqIRDsHy7DPXejSLw%3D
+2022.5.20 18:42:50#---------------------- Complete New Transaction---------------------
+2022.5.20 18:42:50#Get trans_id From Post Value:Z2hFYQb4WeYqIRDsHy7DPXejSLw=
+2022.5.20 18:42:50#clientIp:103.138.120.245
+2022.5.20 18:42:50#trans_id:Z2hFYQb4WeYqIRDsHy7DPXejSLw=
+2022.5.20 18:42:52#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214100418014^APPROVAL_CODE>931321^CARD_NUMBER>999999*********0350^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22111357^TRANS_DATE>2022-05-21 12:42:49 AM
+2022.5.20 18:42:52#1630320064252
+2022.5.20 18:42:52#=================== Transaction Completed =======================
+2022.5.20 18:52:57#=================== Start New Transaction ===================
+2022.5.20 18:52:57#txnrefnum:MSC22111263
+2022.5.20 18:52:57#clientIp:103.62.140.29
+2022.5.20 18:52:57#card type:6
+2022.5.20 18:52:57#totalamount:322000
+2022.5.20 18:53:01#result:TRANSACTION_ID:xMt9r9YesCfe7itVF7E64YzHg44=
+2022.5.20 18:53:01#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=xMt9r9YesCfe7itVF7E64YzHg44%3D
+2022.5.20 18:54:12#---------------------- Complete New Transaction---------------------
+2022.5.20 18:54:12#Get trans_id From Post Value:xMt9r9YesCfe7itVF7E64YzHg44=
+2022.5.20 18:54:12#clientIp:103.62.140.29
+2022.5.20 18:54:12#trans_id:xMt9r9YesCfe7itVF7E64YzHg44=
+2022.5.20 18:54:15#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214100418231^APPROVAL_CODE>933367^CARD_NUMBER>999999*********8527^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6MSC22111263^TRANS_DATE>2022-05-21 12:54:11 AM
+2022.5.20 18:54:15#1596520065415
+2022.5.20 18:54:15#1596520065415
+2022.5.20 18:54:15#=================== Transaction Completed =======================
+2022.5.20 18:59:04#=================== Start New Transaction ===================
+2022.5.20 18:59:04#txnrefnum:MSC22111325
+2022.5.20 18:59:04#clientIp:103.62.140.29
+2022.5.20 18:59:04#card type:6
+2022.5.20 18:59:04#totalamount:162000
+2022.5.20 18:59:08#=================== Start New Transaction ===================
+2022.5.20 18:59:08#txnrefnum:MSC22111325
+2022.5.20 18:59:08#clientIp:103.62.140.29
+2022.5.20 18:59:08#card type:6
+2022.5.20 18:59:08#totalamount:162000
+2022.5.20 18:59:08#result:TRANSACTION_ID:qEtudznJ0GJVu0OMyJUQcGMpNP0=
+2022.5.20 18:59:08#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=qEtudznJ0GJVu0OMyJUQcGMpNP0%3D
+2022.5.20 18:59:12#result:TRANSACTION_ID:XtuQC1HGLXV0YFF7sO5T2daPxL4=
+2022.5.20 18:59:12#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=XtuQC1HGLXV0YFF7sO5T2daPxL4%3D
+2022.5.20 18:59:13#=================== Start New Transaction ===================
+2022.5.20 18:59:13#txnrefnum:MSC22111325
+2022.5.20 18:59:13#clientIp:103.62.140.29
+2022.5.20 18:59:13#card type:6
+2022.5.20 18:59:13#totalamount:162000
+2022.5.20 18:59:17#result:TRANSACTION_ID:dtdqPRCqrPI6b3P0NJKtzRj9Y04=
+2022.5.20 18:59:17#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=dtdqPRCqrPI6b3P0NJKtzRj9Y04%3D
+2022.5.20 19:00:10#---------------------- Complete New Transaction---------------------
+2022.5.20 19:00:10#Get trans_id From Post Value:dtdqPRCqrPI6b3P0NJKtzRj9Y04=
+2022.5.20 19:00:10#clientIp:103.62.140.29
+2022.5.20 19:00:10#trans_id:dtdqPRCqrPI6b3P0NJKtzRj9Y04=
+2022.5.20 19:00:12#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214101418375^APPROVAL_CODE>015064^CARD_NUMBER>999999*********8527^AMOUNT>162000^CARDNAME>mb account^DESCRIPTION>6MSC22111325^TRANS_DATE>2022-05-21 01:00:09 AM
+2022.5.20 19:00:12#1549920070012
+2022.5.20 19:00:12#=================== Transaction Completed =======================
+2022.5.20 19:03:52#=================== Start New Transaction ===================
+2022.5.20 19:03:52#txnrefnum:MSC22111364
+2022.5.20 19:03:52#clientIp:103.62.140.29
+2022.5.20 19:03:52#card type:6
+2022.5.20 19:03:52#totalamount:322000
+2022.5.20 19:03:56#result:TRANSACTION_ID:qnKMNaeuR0LJ8PZS1BgXLz2b13o=
+2022.5.20 19:03:56#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=qnKMNaeuR0LJ8PZS1BgXLz2b13o%3D
+2022.5.20 19:05:12#---------------------- Complete New Transaction---------------------
+2022.5.20 19:05:12#Get trans_id From Post Value:qnKMNaeuR0LJ8PZS1BgXLz2b13o=
+2022.5.20 19:05:12#clientIp:103.62.140.28
+2022.5.20 19:05:12#trans_id:qnKMNaeuR0LJ8PZS1BgXLz2b13o=
+2022.5.20 19:05:14#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214101418470^APPROVAL_CODE>016117^CARD_NUMBER>999999*********8527^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6MSC22111364^TRANS_DATE>2022-05-21 01:05:10 AM
+2022.5.20 19:05:14#1552120070514
+2022.5.20 19:05:14#1552120070514
+2022.5.20 19:05:14#=================== Transaction Completed =======================
+2022.5.20 19:09:54#=================== Start New Transaction ===================
+2022.5.20 19:09:54#txnrefnum:MSC22111060
+2022.5.20 19:09:54#clientIp:103.62.140.29
+2022.5.20 19:09:54#card type:6
+2022.5.20 19:09:54#totalamount:482000
+2022.5.20 19:09:58#result:TRANSACTION_ID:cLAcvwHEsnNVU0b25FprKqWCgZ4=
+2022.5.20 19:09:58#Forward to DBBL Payment Gateway Page:/ecomm2/ClientHandler?card_type=6&trans_id=cLAcvwHEsnNVU0b25FprKqWCgZ4%3D
+2022.5.20 19:10:54#---------------------- Complete New Transaction---------------------
+2022.5.20 19:10:54#Get trans_id From Post Value:cLAcvwHEsnNVU0b25FprKqWCgZ4=
+2022.5.20 19:10:54#clientIp:103.62.140.29
+2022.5.20 19:10:54#trans_id:cLAcvwHEsnNVU0b25FprKqWCgZ4=
+2022.5.20 19:10:56#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>214101418570^APPROVAL_CODE>017319^CARD_NUMBER>999999*********8527^AMOUNT>482000^CARDNAME>mb account^DESCRIPTION>6MSC22111060^TRANS_DATE>2022-05-21 01:10:53 AM
+2022.5.20 19:10:56#144520071056
+2022.5.20 19:10:56#144520071056
+2022.5.20 19:10:56#144520071056
+2022.5.20 19:10:56#=================== Transaction Completed =======================

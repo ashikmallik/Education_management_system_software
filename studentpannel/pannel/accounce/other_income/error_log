@@ -1,0 +1,20 @@
+[27-Nov-2018 06:15:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bornosky/public_html/new/pannel/accounce/other_income/download_receipt3.php on line 45
+[17-Feb-2020 09:51:23 UTC] PHP Warning:  include(../../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/other_income/other_sett_top.php on line 4
+[17-Feb-2020 09:51:23 UTC] PHP Warning:  include(../../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/other_income/other_sett_top.php on line 4
+[17-Feb-2020 09:51:23 UTC] PHP Warning:  include(): Failed opening '../../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/other_income/other_sett_top.php on line 4
+[17-Feb-2020 09:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/other_income/other_sett_top.php:16
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/other_income/other_income_pannel.php(1): require_once()
+#1 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/other_income/other_sett_top.php on line 16
+[17-Feb-2020 10:05:19 UTC] PHP Warning:  getimagesize(abasc.jpg): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 1240
+[17-Feb-2020 10:05:19 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: abasc.jpg in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(885): FPDF->_parsejpg('abasc.jpg')
+#2 /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/other_income/download_receipt3.php(77): FPDF->Image('abasc.jpg', 15, 5, 20, 20)
+#3 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(334): PDF->Header()
+#4 /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/other_income/download_receipt3.php(104): FPDF->AddPage()
+#5 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 271
+[17-Feb-2020 11:52:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/other_income/print_other_income.php on line 202

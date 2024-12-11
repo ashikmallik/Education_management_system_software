@@ -1,0 +1,56 @@
+[02-Nov-2022 07:58:48 UTC] PHP Warning:  getimagesize(../student/studentphoto/nophoto.jpg): failed to open stream: No such file or directory in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 1240
+[02-Nov-2022 07:58:48 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../student/studentphoto/nophoto.jpg in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(885): FPDF->_parsejpg('../student/stud...')
+#2 /home/amareskul/public_html/mmsc/pannel/academic/student/download_student_info_individual.php(124): FPDF->Image('../student/stud...', 165, 18, 30, 30)
+#3 {main}
+  thrown in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 271
+[02-Nov-2022 07:58:56 UTC] PHP Warning:  getimagesize(../student/studentphoto/nophoto.jpg): failed to open stream: No such file or directory in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 1240
+[02-Nov-2022 07:58:56 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../student/studentphoto/nophoto.jpg in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(885): FPDF->_parsejpg('../student/stud...')
+#2 /home/amareskul/public_html/mmsc/pannel/academic/student/download_student_info_individual.php(124): FPDF->Image('../student/stud...', 165, 18, 30, 30)
+#3 {main}
+  thrown in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 271
+[02-Nov-2022 16:51:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amareskul/public_html/mmsc/pannel/academic/student/download_student_info_id_card.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/amareskul/public_html/mmsc/pannel/academic/student/download_student_info_id_card.php on line 26
+[03-Nov-2022 15:28:52 UTC] PHP Warning:  getimagesize(../student/studentphoto/nophoto.jpg): failed to open stream: No such file or directory in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 1240
+[03-Nov-2022 15:28:52 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../student/studentphoto/nophoto.jpg in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(885): FPDF->_parsejpg('../student/stud...')
+#2 /home/amareskul/public_html/mmsc/pannel/academic/student/download_student_info_individual.php(124): FPDF->Image('../student/stud...', 165, 18, 30, 30)
+#3 {main}
+  thrown in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 271
+[03-Nov-2022 15:29:29 UTC] PHP Warning:  getimagesize(../student/studentphoto/nophoto.jpg): failed to open stream: No such file or directory in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 1240
+[03-Nov-2022 15:29:29 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../student/studentphoto/nophoto.jpg in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(885): FPDF->_parsejpg('../student/stud...')
+#2 /home/amareskul/public_html/mmsc/pannel/academic/student/download_student_info_individual.php(124): FPDF->Image('../student/stud...', 165, 18, 30, 30)
+#3 {main}
+  thrown in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 271
+[03-Nov-2022 15:29:32 UTC] PHP Warning:  getimagesize(../student/studentphoto/nophoto.jpg): failed to open stream: No such file or directory in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 1240
+[03-Nov-2022 15:29:32 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../student/studentphoto/nophoto.jpg in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(885): FPDF->_parsejpg('../student/stud...')
+#2 /home/amareskul/public_html/mmsc/pannel/academic/student/download_student_info_individual.php(124): FPDF->Image('../student/stud...', 165, 18, 30, 30)
+#3 {main}
+  thrown in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 271
+[27-Dec-2022 11:40:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amareskul/public_html/mmsc/pannel/academic/student/download_branch_wise_summary.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/amareskul/public_html/mmsc/pannel/academic/student/download_branch_wise_summary.php on line 94
+[06-Mar-2023 09:38:21 UTC] PHP Warning:  getimagesize(studentphoto/nophoto.jpg): failed to open stream: No such file or directory in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 1240
+[06-Mar-2023 09:38:21 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: studentphoto/nophoto.jpg in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php(885): FPDF->_parsejpg('studentphoto/no...')
+#2 /home/amareskul/public_html/mmsc/pannel/academic/student/download_student_info_picture.php(138): FPDF->Image('studentphoto/no...', 143, 35, 15, 15)
+#3 {main}
+  thrown in /home/amareskul/public_html/mmsc/pannel/fpdf/fpdf.php on line 271

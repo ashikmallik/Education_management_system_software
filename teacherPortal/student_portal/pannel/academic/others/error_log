@@ -1,0 +1,31 @@
+[24-Feb-2020 04:52:16 UTC] PHP Warning:  require_once(atten_top.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/absent_report.php on line 1
+[24-Feb-2020 04:52:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'atten_top.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/absent_report.php on line 1
+[25-Feb-2020 06:07:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 10
+[25-Feb-2020 06:08:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 11
+[30-Sep-2020 14:03:02 UTC] PHP Notice:  Undefined variable: fpresent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 17
+[30-Sep-2020 14:03:02 UTC] PHP Notice:  Undefined variable: fabsent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 27
+[30-Sep-2020 14:03:06 UTC] PHP Notice:  Undefined variable: fpresent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 17
+[30-Sep-2020 14:03:06 UTC] PHP Notice:  Undefined variable: fabsent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 27
+[30-Sep-2020 14:03:13 UTC] PHP Notice:  Undefined index: borno_school_student_id in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/absent_report.php on line 228
+[30-Sep-2020 14:03:20 UTC] PHP Notice:  Undefined index: borno_school_student_id in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/absent_report.php on line 228
+[01-Oct-2020 09:39:20 UTC] PHP Notice:  Undefined variable: fpresent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 17
+[01-Oct-2020 09:39:20 UTC] PHP Notice:  Undefined variable: fabsent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 27
+[01-Oct-2020 09:39:27 UTC] PHP Notice:  Undefined index: borno_school_student_id in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/absent_report.php on line 228
+[01-Oct-2020 09:39:31 UTC] PHP Notice:  Undefined variable: fpresent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 17
+[01-Oct-2020 09:39:31 UTC] PHP Notice:  Undefined variable: fabsent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 27
+[04-Oct-2020 13:25:19 UTC] PHP Notice:  Undefined variable: fpresent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 17
+[04-Oct-2020 13:25:19 UTC] PHP Notice:  Undefined variable: fabsent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 27
+[04-Oct-2020 13:25:28 UTC] PHP Notice:  Undefined index: borno_school_student_id in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/absent_report.php on line 228
+[04-Oct-2020 13:25:30 UTC] PHP Notice:  Undefined variable: fpresent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 17
+[04-Oct-2020 13:25:30 UTC] PHP Notice:  Undefined variable: fabsent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 27
+[06-Oct-2020 09:00:21 UTC] PHP Notice:  Undefined variable: fpresent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 17
+[06-Oct-2020 09:00:21 UTC] PHP Notice:  Undefined variable: fabsent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 27
+[11-Oct-2020 13:41:50 UTC] PHP Notice:  Undefined variable: fpresent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 17
+[11-Oct-2020 13:41:50 UTC] PHP Notice:  Undefined variable: fabsent in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/others_info.php on line 27
+[11-Oct-2020 13:41:58 UTC] PHP Notice:  Undefined index: borno_school_student_id in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/others/absent_report.php on line 228

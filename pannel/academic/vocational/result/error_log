@@ -1,0 +1,4 @@
+[18-Feb-2020 06:24:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/bornosky/public_html/new/pannel/academic/vocational/result/download_tabulation_sheet1.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/new/pannel/academic/vocational/result/download_tabulation_sheet1.php on line 20

@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+	padding:0px;
+	background:url(../images/background.jpg) repeat;
+	}
+#branch {
+	border:2px #629cd4 solid;
+	width:200px;
+	height:35px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:24px;
+	}	
+#shift{
+	border:2px #629cd4 solid;
+	width:200px;
+	height:35px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:24px;
+	}
+#admClass{
+	border:2px #629cd4 solid;
+	width:200px;
+	height:35px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:24px;
+	}		
+#gend{
+	border:2px #629cd4 solid;
+	width:200px;
+	height:35px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:24px;
+	}
+#kota{
+	border:2px #629cd4 solid;
+	width:200px;
+	height:35px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:24px;
+	}
+.fieldset_style{
+	background:#9fbce4;
+	border:5px #c3d5ed solid;
+	font-size:24px;
+	
+	}
+.fieldset_style a{
+	color:#2b2e95;	
+	}	
+	
+#banglafont{
+	font-size:20px;
+	color:#3d3498;
+	}
+input{
+	border:2px #7195c5 solid;
+	height:35px;
+	font-family:"Times New Roman", Times, serif;
+	}
+#dobd{
+	border:2px #629cd4 solid;
+	width:100px;
+	height:35px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:24px;
+	}
+#dobm{
+	border:2px #629cd4 solid;
+	width:100px;
+	height:35px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:24px;
+	}
+#doby{
+	border:2px #629cd4 solid;
+	width:100px;
+	height:35px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:24px;
+	}
+.ibfont{
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	}							
+#select{
+    border:2px #629cd4 solid;
+	width:200px;
+	height:35px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:24px;	}
+	
+ }
+ .daysCheckbox1{
+zoom:1;
+
+}
+
+.projectlist {
+    border-left: 1px solid #000000;
+    border-top: 1px solid #000000;
+}
+.projectlist th {
+    background-color: #EFF7FA;
+    border-bottom: 1px solid #000000;
+    border-right: 1px solid #000000;
+    color: #420000;
+    font-size: 12px;
+    height: 30px;
+    text-align: center;
+}
+.projectlist td {
+    border-bottom: 1px solid #000000;
+    border-right: 1px solid #000000;
+    padding: 1px;
+}		
+	

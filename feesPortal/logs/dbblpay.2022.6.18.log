@@ -1,0 +1,751 @@
+
+2022.6.18 03:28:59#=================== Start New Transaction ===================
+2022.6.18 03:28:59#txnrefnum:MSC22110555
+2022.6.18 03:28:59#clientIp:103.166.89.180
+2022.6.18 03:28:59#card type:6
+2022.6.18 03:28:59#totalamount:262000
+2022.6.18 03:29:04#result:TRANSACTION_ID:97aJ8synlgwN6aXBPGBf9pO9IP0=
+2022.6.18 03:29:04#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=97aJ8synlgwN6aXBPGBf9pO9IP0%3D
+2022.6.18 03:30:16#---------------------- Complete New Transaction---------------------
+2022.6.18 03:30:16#Get trans_id From Post Value:97aJ8synlgwN6aXBPGBf9pO9IP0=
+2022.6.18 03:30:16#clientIp:103.166.89.180
+2022.6.18 03:30:16#trans_id:97aJ8synlgwN6aXBPGBf9pO9IP0=
+2022.6.18 03:30:19#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216903489223^APPROVAL_CODE>127152^CARD_NUMBER>999999*********3481^AMOUNT>262000^CARDNAME>mb account^DESCRIPTION>6MSC22110555^TRANS_DATE>2022-06-18 09:30:16 AM
+2022.6.18 03:30:19#1239118033019
+2022.6.18 03:30:19#1239118033019
+2022.6.18 03:30:19#=================== Transaction Completed =======================
+2022.6.18 03:59:42#=================== Start New Transaction ===================
+2022.6.18 03:59:42#txnrefnum:MSC21110578
+2022.6.18 03:59:42#clientIp:27.54.148.174
+2022.6.18 03:59:42#card type:6
+2022.6.18 03:59:42#totalamount:3143000
+2022.6.18 03:59:46#result:TRANSACTION_ID:iRfJDMq0wSufebamlkQj4HWVBPQ=
+2022.6.18 03:59:46#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=iRfJDMq0wSufebamlkQj4HWVBPQ%3D
+2022.6.18 04:01:42#=================== Start New Transaction ===================
+2022.6.18 04:01:42#txnrefnum:MBD2207028
+2022.6.18 04:01:42#clientIp:103.149.147.134
+2022.6.18 04:01:42#card type:6
+2022.6.18 04:01:42#totalamount:82000
+2022.6.18 04:01:46#result:TRANSACTION_ID:5bKJ1PTJWMov3x117HK7oMnr2nM=
+2022.6.18 04:01:46#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=5bKJ1PTJWMov3x117HK7oMnr2nM%3D
+2022.6.18 04:28:02#=================== Start New Transaction ===================
+2022.6.18 04:28:02#txnrefnum:MSC21110045
+2022.6.18 04:28:02#clientIp:37.111.201.252
+2022.6.18 04:28:02#card type:6
+2022.6.18 04:28:02#totalamount:1543000
+2022.6.18 04:29:01#=================== Start New Transaction ===================
+2022.6.18 04:29:01#txnrefnum:MSC21110045
+2022.6.18 04:29:01#clientIp:37.111.201.252
+2022.6.18 04:29:01#card type:6
+2022.6.18 04:29:01#totalamount:1543000
+2022.6.18 04:29:45#result:TRANSACTION_ID:FS6HneuuAiSOBSi3RlEhkAgkexw=
+2022.6.18 04:29:45#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=FS6HneuuAiSOBSi3RlEhkAgkexw%3D
+2022.6.18 04:30:58#=================== Start New Transaction ===================
+2022.6.18 04:30:58#txnrefnum:MSC21110045
+2022.6.18 04:30:58#clientIp:37.111.201.252
+2022.6.18 04:30:58#card type:6
+2022.6.18 04:30:58#totalamount:1543000
+2022.6.18 04:31:32#result:TRANSACTION_ID:Fe9ZjSTMJDKTOfSv0m0JnRfusqo=
+2022.6.18 04:31:32#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=Fe9ZjSTMJDKTOfSv0m0JnRfusqo%3D
+2022.6.18 04:32:23#---------------------- Complete New Transaction---------------------
+2022.6.18 04:32:23#Get trans_id From Post Value:FS6HneuuAiSOBSi3RlEhkAgkexw=
+2022.6.18 04:32:41#clientIp:37.111.201.252
+2022.6.18 04:32:41#trans_id:FS6HneuuAiSOBSi3RlEhkAgkexw=
+2022.6.18 04:32:55#Could not connect to host
+2022.6.18 04:33:25#---------------------- Complete New Transaction---------------------
+2022.6.18 04:33:25#Get trans_id From Cookie Value:Fe9ZjSTMJDKTOfSv0m0JnRfusqo=
+2022.6.18 04:33:25#clientIp:37.111.201.252
+2022.6.18 04:33:25#trans_id:Fe9ZjSTMJDKTOfSv0m0JnRfusqo=
+2022.6.18 04:33:35#result:RESULT>CREATED^RESULT_CODE>888^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>1543000^CARDNAME>0^DESCRIPTION>6MSC21110045^TRANS_DATE>2022-06-18 10:31:38 AM
+2022.6.18 04:33:35#Failed
+2022.6.18 04:38:30#=================== Start New Transaction ===================
+2022.6.18 04:38:30#txnrefnum:MSC21110045
+2022.6.18 04:38:30#clientIp:37.111.201.252
+2022.6.18 04:38:30#card type:6
+2022.6.18 04:38:30#totalamount:1543000
+2022.6.18 04:38:52#result:TRANSACTION_ID:59WQuYBn8oKax8FvhHaJygqmdP0=
+2022.6.18 04:38:52#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=59WQuYBn8oKax8FvhHaJygqmdP0%3D
+2022.6.18 04:44:48#=================== Start New Transaction ===================
+2022.6.18 04:44:48#txnrefnum:MSC21110045
+2022.6.18 04:44:48#clientIp:37.111.201.252
+2022.6.18 04:44:48#card type:6
+2022.6.18 04:44:48#totalamount:1543000
+2022.6.18 04:45:05#result:TRANSACTION_ID:jfFNDNpgGiu0BjbhxjhbTnS71uw=
+2022.6.18 04:45:05#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=jfFNDNpgGiu0BjbhxjhbTnS71uw%3D
+2022.6.18 04:56:31#=================== Start New Transaction ===================
+2022.6.18 04:56:31#txnrefnum:MSC21110045
+2022.6.18 04:56:31#clientIp:37.111.201.252
+2022.6.18 04:56:31#card type:6
+2022.6.18 04:56:31#totalamount:1543000
+2022.6.18 04:56:54#result:TRANSACTION_ID:QJQfKkLzr2eWxl5ydtUsOHuTseY=
+2022.6.18 04:56:54#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=QJQfKkLzr2eWxl5ydtUsOHuTseY%3D
+2022.6.18 05:05:10#=================== Start New Transaction ===================
+2022.6.18 05:05:10#txnrefnum:MSC21111012
+2022.6.18 05:05:10#clientIp:103.62.140.119
+2022.6.18 05:05:10#card type:6
+2022.6.18 05:05:10#totalamount:2705000
+2022.6.18 05:05:39#result:TRANSACTION_ID:7HzXyKXXCIFTVVkKA8dQb1SZGd4=
+2022.6.18 05:05:39#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=7HzXyKXXCIFTVVkKA8dQb1SZGd4%3D
+2022.6.18 05:07:07#=================== Start New Transaction ===================
+2022.6.18 05:07:07#txnrefnum:MSC21110046
+2022.6.18 05:07:07#clientIp:37.111.201.252
+2022.6.18 05:07:07#card type:6
+2022.6.18 05:07:07#totalamount:2000
+2022.6.18 05:07:23#=================== Start New Transaction ===================
+2022.6.18 05:07:23#txnrefnum:MSC21111012
+2022.6.18 05:07:23#clientIp:103.62.140.119
+2022.6.18 05:07:23#card type:6
+2022.6.18 05:07:23#totalamount:2705000
+2022.6.18 05:07:28#result:TRANSACTION_ID:Wicjxdofg8Ib7SfFj6PftRtOPEs=
+2022.6.18 05:07:28#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=Wicjxdofg8Ib7SfFj6PftRtOPEs%3D
+2022.6.18 05:07:33#=================== Start New Transaction ===================
+2022.6.18 05:07:33#txnrefnum:MSC21111298
+2022.6.18 05:07:33#clientIp:202.134.14.137
+2022.6.18 05:07:33#card type:6
+2022.6.18 05:07:33#totalamount:1105000
+2022.6.18 05:07:46#=================== Start New Transaction ===================
+2022.6.18 05:07:46#txnrefnum:MSC21111298
+2022.6.18 05:07:46#clientIp:202.134.14.137
+2022.6.18 05:07:46#card type:6
+2022.6.18 05:07:46#totalamount:1105000
+2022.6.18 05:07:51#result:TRANSACTION_ID:EkCQeU975Rsc6mJVECyVItCUAgE=
+2022.6.18 05:07:51#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=EkCQeU975Rsc6mJVECyVItCUAgE%3D
+2022.6.18 05:07:52#result:TRANSACTION_ID:Snry3vYlU9gzJOylaLLTA9LL6dM=
+2022.6.18 05:07:52#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=Snry3vYlU9gzJOylaLLTA9LL6dM%3D
+2022.6.18 05:08:16#result:TRANSACTION_ID:wLZHvEj5NRo0zTdJhknCuj7bOz4=
+2022.6.18 05:08:16#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=wLZHvEj5NRo0zTdJhknCuj7bOz4%3D
+2022.6.18 05:08:31#---------------------- Complete New Transaction---------------------
+2022.6.18 05:08:31#Get trans_id From Post Value:EkCQeU975Rsc6mJVECyVItCUAgE=
+2022.6.18 05:08:31#clientIp:103.62.140.119
+2022.6.18 05:08:31#trans_id:EkCQeU975Rsc6mJVECyVItCUAgE=
+2022.6.18 05:08:37#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216905495124^APPROVAL_CODE>524597^CARD_NUMBER>999999*********8527^AMOUNT>2705000^CARDNAME>mb account^DESCRIPTION>6MSC21111012^TRANS_DATE>2022-06-18 11:08:30 AM
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#505718050837
+2022.6.18 05:08:37#=================== Transaction Completed =======================
+2022.6.18 05:08:56#---------------------- Complete New Transaction---------------------
+2022.6.18 05:08:56#Get trans_id From Post Value:wLZHvEj5NRo0zTdJhknCuj7bOz4=
+2022.6.18 05:08:56#clientIp:202.134.14.137
+2022.6.18 05:08:56#trans_id:wLZHvEj5NRo0zTdJhknCuj7bOz4=
+2022.6.18 05:09:02#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216905495151^APPROVAL_CODE>316587^CARD_NUMBER>999999*********7532^AMOUNT>1105000^CARDNAME>mb account^DESCRIPTION>6MSC21111298^TRANS_DATE>2022-06-18 11:08:54 AM
+2022.6.18 05:09:02#848918050902
+2022.6.18 05:09:02#848918050902
+2022.6.18 05:09:02#848918050902
+2022.6.18 05:09:02#848918050902
+2022.6.18 05:09:02#848918050902
+2022.6.18 05:09:02#848918050902
+2022.6.18 05:09:02#848918050902
+2022.6.18 05:09:02#=================== Transaction Completed =======================
+2022.6.18 05:10:02#=================== Start New Transaction ===================
+2022.6.18 05:10:02#txnrefnum:MSC21110506
+2022.6.18 05:10:02#clientIp:114.130.156.61
+2022.6.18 05:10:02#card type:6
+2022.6.18 05:10:02#totalamount:400500
+2022.6.18 05:10:21#result:TRANSACTION_ID:AImyvijqetzV6Jk7tYGSWU43KMY=
+2022.6.18 05:10:21#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=AImyvijqetzV6Jk7tYGSWU43KMY%3D
+2022.6.18 05:10:45#=================== Start New Transaction ===================
+2022.6.18 05:10:45#txnrefnum:MSC21110076
+2022.6.18 05:10:45#clientIp:27.54.148.174
+2022.6.18 05:10:45#card type:6
+2022.6.18 05:10:45#totalamount:1177000
+2022.6.18 05:11:04#---------------------- Complete New Transaction---------------------
+2022.6.18 05:11:04#Get trans_id From Post Value:AImyvijqetzV6Jk7tYGSWU43KMY=
+2022.6.18 05:11:04#clientIp:114.130.156.61
+2022.6.18 05:11:04#trans_id:AImyvijqetzV6Jk7tYGSWU43KMY=
+2022.6.18 05:11:11#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216905495345^APPROVAL_CODE>545659^CARD_NUMBER>999999*********6175^AMOUNT>400500^CARDNAME>mb account^DESCRIPTION>6MSC21110506^TRANS_DATE>2022-06-18 11:11:03 AM
+2022.6.18 05:11:11#296818051111
+2022.6.18 05:11:11#296818051111
+2022.6.18 05:11:11#=================== Transaction Completed =======================
+2022.6.18 05:11:53#=================== Start New Transaction ===================
+2022.6.18 05:11:53#txnrefnum:MSC21110076
+2022.6.18 05:11:53#clientIp:27.54.148.174
+2022.6.18 05:11:53#card type:6
+2022.6.18 05:11:53#totalamount:1177000
+2022.6.18 05:12:15#result:TRANSACTION_ID:oqvz0x54ioGC3BUH2g484Q1hXbA=
+2022.6.18 05:12:15#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=oqvz0x54ioGC3BUH2g484Q1hXbA%3D
+2022.6.18 05:12:53#---------------------- Complete New Transaction---------------------
+2022.6.18 05:12:53#Get trans_id From Post Value:oqvz0x54ioGC3BUH2g484Q1hXbA=
+2022.6.18 05:12:53#clientIp:27.54.148.174
+2022.6.18 05:12:53#trans_id:oqvz0x54ioGC3BUH2g484Q1hXbA=
+2022.6.18 05:13:01#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216905495497^APPROVAL_CODE>533784^CARD_NUMBER>999999*********5363^AMOUNT>1177000^CARDNAME>mb account^DESCRIPTION>6MSC21110076^TRANS_DATE>2022-06-18 11:12:52 AM
+2022.6.18 05:13:01#479918051301
+2022.6.18 05:13:01#479918051301
+2022.6.18 05:13:01#479918051301
+2022.6.18 05:13:01#479918051301
+2022.6.18 05:13:01#479918051301
+2022.6.18 05:13:01#479918051301
+2022.6.18 05:13:01#479918051301
+2022.6.18 05:13:01#=================== Transaction Completed =======================
+2022.6.18 05:27:44#=================== Start New Transaction ===================
+2022.6.18 05:27:44#txnrefnum:MSC21110033
+2022.6.18 05:27:44#clientIp:37.111.201.252
+2022.6.18 05:27:44#card type:6
+2022.6.18 05:27:44#totalamount:1877000
+2022.6.18 05:28:00#result:TRANSACTION_ID:yQPbPhRNmgRllrM32ruViqnST5g=
+2022.6.18 05:28:00#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=yQPbPhRNmgRllrM32ruViqnST5g%3D
+2022.6.18 05:28:25#---------------------- Complete New Transaction---------------------
+2022.6.18 05:28:25#Get trans_id From Post Value:yQPbPhRNmgRllrM32ruViqnST5g=
+2022.6.18 05:28:25#clientIp:37.111.201.252
+2022.6.18 05:28:25#trans_id:yQPbPhRNmgRllrM32ruViqnST5g=
+2022.6.18 05:28:30#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216905496820^APPROVAL_CODE>578248^CARD_NUMBER>999999*********1168^AMOUNT>1877000^CARDNAME>mb account^DESCRIPTION>6MSC21110033^TRANS_DATE>2022-06-18 11:28:23 AM
+2022.6.18 05:28:30#428618052830
+2022.6.18 05:28:30#428618052830
+2022.6.18 05:28:30#428618052830
+2022.6.18 05:28:30#428618052830
+2022.6.18 05:28:30#428618052830
+2022.6.18 05:28:30#428618052830
+2022.6.18 05:28:30#=================== Transaction Completed =======================
+2022.6.18 05:34:41#=================== Start New Transaction ===================
+2022.6.18 05:34:41#txnrefnum:MSC21111002
+2022.6.18 05:34:41#clientIp:202.44.104.19
+2022.6.18 05:34:41#card type:6
+2022.6.18 05:34:41#totalamount:245000
+2022.6.18 05:34:50#result:TRANSACTION_ID:fQdt5RyqJzcCpUGnhYU7IuOJx48=
+2022.6.18 05:34:50#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=fQdt5RyqJzcCpUGnhYU7IuOJx48%3D
+2022.6.18 05:40:42#=================== Start New Transaction ===================
+2022.6.18 05:40:42#txnrefnum:MSC21110075
+2022.6.18 05:40:42#clientIp:110.76.129.138
+2022.6.18 05:40:42#card type:6
+2022.6.18 05:40:42#totalamount:2663000
+2022.6.18 05:40:49#=================== Start New Transaction ===================
+2022.6.18 05:40:49#txnrefnum:MSC21110075
+2022.6.18 05:40:49#clientIp:110.76.129.138
+2022.6.18 05:40:49#card type:6
+2022.6.18 05:40:49#totalamount:2663000
+2022.6.18 05:40:52#result:TRANSACTION_ID:genci70Ax5VgCTbjFKelBEdVd7o=
+2022.6.18 05:40:52#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=genci70Ax5VgCTbjFKelBEdVd7o%3D
+2022.6.18 05:40:58#result:TRANSACTION_ID:vSa8DtPOCfJH4OH0VwzAmyd9Gh4=
+2022.6.18 05:40:58#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=vSa8DtPOCfJH4OH0VwzAmyd9Gh4%3D
+2022.6.18 05:41:02#=================== Start New Transaction ===================
+2022.6.18 05:41:02#txnrefnum:MSC21110075
+2022.6.18 05:41:02#clientIp:110.76.129.138
+2022.6.18 05:41:02#card type:6
+2022.6.18 05:41:02#totalamount:2663000
+2022.6.18 05:41:11#result:TRANSACTION_ID:UUMdnJq86OrcBfcc6Kj4rE4PtHU=
+2022.6.18 05:41:11#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=UUMdnJq86OrcBfcc6Kj4rE4PtHU%3D
+2022.6.18 05:41:44#=================== Start New Transaction ===================
+2022.6.18 05:41:44#txnrefnum:MSC21111320
+2022.6.18 05:41:44#clientIp:37.111.201.252
+2022.6.18 05:41:44#card type:6
+2022.6.18 05:41:44#totalamount:725000
+2022.6.18 05:41:51#result:TRANSACTION_ID:8GIAriPJJfSG546Pj1jPNEDS2hw=
+2022.6.18 05:41:51#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=8GIAriPJJfSG546Pj1jPNEDS2hw%3D
+2022.6.18 05:42:12#---------------------- Complete New Transaction---------------------
+2022.6.18 05:42:12#Get trans_id From Post Value:8GIAriPJJfSG546Pj1jPNEDS2hw=
+2022.6.18 05:42:12#clientIp:37.111.201.252
+2022.6.18 05:42:12#trans_id:8GIAriPJJfSG546Pj1jPNEDS2hw=
+2022.6.18 05:42:15#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216905498014^APPROVAL_CODE>655506^CARD_NUMBER>999999*********1168^AMOUNT>725000^CARDNAME>mb account^DESCRIPTION>6MSC21111320^TRANS_DATE>2022-06-18 11:42:10 AM
+2022.6.18 05:42:15#876218054215
+2022.6.18 05:42:15#876218054215
+2022.6.18 05:42:15#876218054215
+2022.6.18 05:42:15#876218054215
+2022.6.18 05:42:15#=================== Transaction Completed =======================
+2022.6.18 05:42:32#---------------------- Complete New Transaction---------------------
+2022.6.18 05:42:32#Get trans_id From Post Value:UUMdnJq86OrcBfcc6Kj4rE4PtHU=
+2022.6.18 05:42:32#clientIp:110.76.129.138
+2022.6.18 05:42:32#trans_id:UUMdnJq86OrcBfcc6Kj4rE4PtHU=
+2022.6.18 05:42:35#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216905498041^APPROVAL_CODE>693100^CARD_NUMBER>999999*********4942^AMOUNT>2663000^CARDNAME>mb account^DESCRIPTION>6MSC21110075^TRANS_DATE>2022-06-18 11:42:31 AM
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#478118054235
+2022.6.18 05:42:35#=================== Transaction Completed =======================
+2022.6.18 05:49:52#---------------------- Complete New Transaction---------------------
+2022.6.18 05:49:52#Get trans_id From Post Value:fQdt5RyqJzcCpUGnhYU7IuOJx48=
+2022.6.18 05:49:52#clientIp:202.44.104.19
+2022.6.18 05:49:52#trans_id:fQdt5RyqJzcCpUGnhYU7IuOJx48=
+2022.6.18 05:49:55#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>245000^CARDNAME>0^DESCRIPTION>6MSC21111002^TRANS_DATE>2022-06-18 11:49:51 AM
+2022.6.18 05:49:55#Failed
+2022.6.18 05:50:25#=================== Start New Transaction ===================
+2022.6.18 05:50:25#txnrefnum:MSC21111002
+2022.6.18 05:50:25#clientIp:202.44.104.19
+2022.6.18 05:50:25#card type:6
+2022.6.18 05:50:25#totalamount:245000
+2022.6.18 05:50:29#result:TRANSACTION_ID:lrzvKEuevXqJmxpDYxQUXnHXnNU=
+2022.6.18 05:50:29#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=lrzvKEuevXqJmxpDYxQUXnHXnNU%3D
+2022.6.18 05:51:09#---------------------- Complete New Transaction---------------------
+2022.6.18 05:51:09#Get trans_id From Post Value:lrzvKEuevXqJmxpDYxQUXnHXnNU=
+2022.6.18 05:51:09#clientIp:202.44.104.19
+2022.6.18 05:51:09#trans_id:lrzvKEuevXqJmxpDYxQUXnHXnNU=
+2022.6.18 05:51:11#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216905498792^APPROVAL_CODE>708870^CARD_NUMBER>999999*********9232^AMOUNT>245000^CARDNAME>mb account^DESCRIPTION>6MSC21111002^TRANS_DATE>2022-06-18 11:51:08 AM
+2022.6.18 05:51:11#31867918055111
+2022.6.18 05:51:11#=================== Transaction Completed =======================
+2022.6.18 06:06:29#=================== Start New Transaction ===================
+2022.6.18 06:06:29#txnrefnum:MSC21111086
+2022.6.18 06:06:29#clientIp:103.29.124.67
+2022.6.18 06:06:29#card type:6
+2022.6.18 06:06:29#totalamount:4145000
+2022.6.18 06:06:37#result:TRANSACTION_ID:GKx2FnfSBV3XiDNPYc6Smp0iFdQ=
+2022.6.18 06:06:37#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=GKx2FnfSBV3XiDNPYc6Smp0iFdQ%3D
+2022.6.18 06:07:56#=================== Start New Transaction ===================
+2022.6.18 06:07:56#txnrefnum:MSC21111280
+2022.6.18 06:07:56#clientIp:103.153.211.112
+2022.6.18 06:07:56#card type:6
+2022.6.18 06:07:56#totalamount:1525000
+2022.6.18 06:08:00#result:TRANSACTION_ID:8n1sTLwFGiOpLs73HtEyKEN0qdo=
+2022.6.18 06:08:00#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=8n1sTLwFGiOpLs73HtEyKEN0qdo%3D
+2022.6.18 06:13:58#---------------------- Complete New Transaction---------------------
+2022.6.18 06:13:58#Get trans_id From Post Value:8n1sTLwFGiOpLs73HtEyKEN0qdo=
+2022.6.18 06:13:58#clientIp:103.153.211.112
+2022.6.18 06:13:58#trans_id:8n1sTLwFGiOpLs73HtEyKEN0qdo=
+2022.6.18 06:14:00#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>1525000^CARDNAME>0^DESCRIPTION>6MSC21111280^TRANS_DATE>2022-06-18 12:13:58 PM
+2022.6.18 06:14:00#Failed
+2022.6.18 06:14:24#=================== Start New Transaction ===================
+2022.6.18 06:14:24#txnrefnum:MSC21111280
+2022.6.18 06:14:24#clientIp:103.153.211.112
+2022.6.18 06:14:24#card type:6
+2022.6.18 06:14:24#totalamount:1525000
+2022.6.18 06:14:30#result:TRANSACTION_ID:CrrTwAVEnscUnRj4ReD9pRlw2UQ=
+2022.6.18 06:14:30#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=CrrTwAVEnscUnRj4ReD9pRlw2UQ%3D
+2022.6.18 06:14:56#---------------------- Complete New Transaction---------------------
+2022.6.18 06:14:56#Get trans_id From Post Value:CrrTwAVEnscUnRj4ReD9pRlw2UQ=
+2022.6.18 06:14:56#clientIp:103.153.211.112
+2022.6.18 06:14:56#trans_id:CrrTwAVEnscUnRj4ReD9pRlw2UQ=
+2022.6.18 06:14:59#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216906501035^APPROVAL_CODE>820873^CARD_NUMBER>999999*********7258^AMOUNT>1525000^CARDNAME>mb account^DESCRIPTION>6MSC21111280^TRANS_DATE>2022-06-18 12:14:54 PM
+2022.6.18 06:14:59#827718061459
+2022.6.18 06:14:59#827718061459
+2022.6.18 06:14:59#827718061459
+2022.6.18 06:14:59#827718061459
+2022.6.18 06:14:59#827718061459
+2022.6.18 06:14:59#827718061459
+2022.6.18 06:14:59#827718061459
+2022.6.18 06:14:59#827718061459
+2022.6.18 06:14:59#827718061459
+2022.6.18 06:14:59#=================== Transaction Completed =======================
+2022.6.18 06:20:21#=================== Start New Transaction ===================
+2022.6.18 06:20:21#txnrefnum:MBB2109177
+2022.6.18 06:20:21#clientIp:202.134.14.137
+2022.6.18 06:20:21#card type:6
+2022.6.18 06:20:21#totalamount:322000
+2022.6.18 06:20:28#result:TRANSACTION_ID:m5HP7ADzipZrPMHJpsfyod5O0Gc=
+2022.6.18 06:20:28#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=m5HP7ADzipZrPMHJpsfyod5O0Gc%3D
+2022.6.18 06:21:18#---------------------- Complete New Transaction---------------------
+2022.6.18 06:21:18#Get trans_id From Post Value:m5HP7ADzipZrPMHJpsfyod5O0Gc=
+2022.6.18 06:21:18#clientIp:202.134.14.137
+2022.6.18 06:21:18#trans_id:m5HP7ADzipZrPMHJpsfyod5O0Gc=
+2022.6.18 06:21:22#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216906501642^APPROVAL_CODE>754921^CARD_NUMBER>999999*********7532^AMOUNT>322000^CARDNAME>mb account^DESCRIPTION>6MBB2109177^TRANS_DATE>2022-06-18 12:21:17 PM
+2022.6.18 06:21:22#21507018062122
+2022.6.18 06:21:22#21507018062122
+2022.6.18 06:21:22#21507018062122
+2022.6.18 06:21:22#21507018062122
+2022.6.18 06:21:22#=================== Transaction Completed =======================
+2022.6.18 06:26:45#=================== Start New Transaction ===================
+2022.6.18 06:26:45#txnrefnum:MBD2005167
+2022.6.18 06:26:45#clientIp:202.144.203.19
+2022.6.18 06:26:45#card type:6
+2022.6.18 06:26:45#totalamount:402000
+2022.6.18 06:26:49#=================== Start New Transaction ===================
+2022.6.18 06:26:49#txnrefnum:MBD2005167
+2022.6.18 06:26:49#clientIp:202.144.203.19
+2022.6.18 06:26:49#card type:6
+2022.6.18 06:26:49#totalamount:402000
+2022.6.18 06:26:50#result:TRANSACTION_ID:1cMi98CSpjC1PNZcAfmnTZ7YPBk=
+2022.6.18 06:26:50#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=1cMi98CSpjC1PNZcAfmnTZ7YPBk%3D
+2022.6.18 06:26:54#result:TRANSACTION_ID:EPbpjwEffdeqLuQ1AIJb2iQClC4=
+2022.6.18 06:26:54#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=EPbpjwEffdeqLuQ1AIJb2iQClC4%3D
+2022.6.18 06:28:02#---------------------- Complete New Transaction---------------------
+2022.6.18 06:28:02#Get trans_id From Post Value:EPbpjwEffdeqLuQ1AIJb2iQClC4=
+2022.6.18 06:28:02#clientIp:202.144.203.19
+2022.6.18 06:28:02#trans_id:EPbpjwEffdeqLuQ1AIJb2iQClC4=
+2022.6.18 06:28:05#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216906502274^APPROVAL_CODE>880537^CARD_NUMBER>999999*********6609^AMOUNT>402000^CARDNAME>mb account^DESCRIPTION>6MBD2005167^TRANS_DATE>2022-06-18 12:28:01 PM
+2022.6.18 06:28:05#16269318062805
+2022.6.18 06:28:05#16269318062805
+2022.6.18 06:28:05#16269318062805
+2022.6.18 06:28:05#16269318062805
+2022.6.18 06:28:05#16269318062805
+2022.6.18 06:28:05#=================== Transaction Completed =======================
+2022.6.18 06:30:18#=================== Start New Transaction ===================
+2022.6.18 06:30:18#txnrefnum:MSC22110544
+2022.6.18 06:30:18#clientIp:37.111.201.252
+2022.6.18 06:30:18#card type:6
+2022.6.18 06:30:18#totalamount:422000
+2022.6.18 06:30:22#result:TRANSACTION_ID:YcclzkUPe8KSnFfM44ZTxWt78VU=
+2022.6.18 06:30:22#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=YcclzkUPe8KSnFfM44ZTxWt78VU%3D
+2022.6.18 06:31:14#---------------------- Complete New Transaction---------------------
+2022.6.18 06:31:14#Get trans_id From Post Value:YcclzkUPe8KSnFfM44ZTxWt78VU=
+2022.6.18 06:31:14#clientIp:37.111.201.252
+2022.6.18 06:31:14#trans_id:YcclzkUPe8KSnFfM44ZTxWt78VU=
+2022.6.18 06:31:16#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216906502596^APPROVAL_CODE>885830^CARD_NUMBER>999999*********1168^AMOUNT>422000^CARDNAME>mb account^DESCRIPTION>6MSC22110544^TRANS_DATE>2022-06-18 12:31:13 PM
+2022.6.18 06:31:16#1325618063116
+2022.6.18 06:31:16#1325618063116
+2022.6.18 06:31:16#1325618063116
+2022.6.18 06:31:16#=================== Transaction Completed =======================
+2022.6.18 07:00:31#=================== Start New Transaction ===================
+2022.6.18 07:00:54#=================== Start New Transaction ===================
+2022.6.18 07:00:54#txnrefnum:MSC21111346
+2022.6.18 07:00:54#clientIp:37.111.201.252
+2022.6.18 07:00:54#card type:6
+2022.6.18 07:00:54#totalamount:3505000
+2022.6.18 07:00:58#result:TRANSACTION_ID:nirNmXKdqXVwRC3h3axCqBrSuJM=
+2022.6.18 07:00:59#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=nirNmXKdqXVwRC3h3axCqBrSuJM%3D
+2022.6.18 07:01:15#---------------------- Complete New Transaction---------------------
+2022.6.18 07:01:15#Get trans_id From Post Value:nirNmXKdqXVwRC3h3axCqBrSuJM=
+2022.6.18 07:01:15#clientIp:37.111.201.252
+2022.6.18 07:01:15#trans_id:nirNmXKdqXVwRC3h3axCqBrSuJM=
+2022.6.18 07:01:17#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216907505211^APPROVAL_CODE>985344^CARD_NUMBER>999999*********1168^AMOUNT>3505000^CARDNAME>mb account^DESCRIPTION>6MSC21111346^TRANS_DATE>2022-06-18 01:01:14 PM
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#904118070117
+2022.6.18 07:01:17#=================== Transaction Completed =======================
+2022.6.18 07:06:44#=================== Start New Transaction ===================
+2022.6.18 07:06:44#txnrefnum:MSC21110039
+2022.6.18 07:06:44#clientIp:37.111.201.252
+2022.6.18 07:06:44#card type:6
+2022.6.18 07:06:44#totalamount:2829000
+2022.6.18 07:06:48#result:TRANSACTION_ID:hhRFbuv9UFpY1yKzRAzIt1Khbf4=
+2022.6.18 07:06:48#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=hhRFbuv9UFpY1yKzRAzIt1Khbf4%3D
+2022.6.18 07:07:03#---------------------- Complete New Transaction---------------------
+2022.6.18 07:07:03#Get trans_id From Post Value:hhRFbuv9UFpY1yKzRAzIt1Khbf4=
+2022.6.18 07:07:03#clientIp:37.111.201.252
+2022.6.18 07:07:03#trans_id:hhRFbuv9UFpY1yKzRAzIt1Khbf4=
+2022.6.18 07:07:05#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216907505689^APPROVAL_CODE>031676^CARD_NUMBER>999999*********1168^AMOUNT>2829000^CARDNAME>mb account^DESCRIPTION>6MSC21110039^TRANS_DATE>2022-06-18 01:07:02 PM
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#434918070705
+2022.6.18 07:07:05#=================== Transaction Completed =======================
+2022.6.18 07:21:48#=================== Start New Transaction ===================
+2022.6.18 07:21:48#txnrefnum:MSC21110519
+2022.6.18 07:21:48#clientIp:37.111.201.252
+2022.6.18 07:21:48#card type:6
+2022.6.18 07:21:48#totalamount:523000
+2022.6.18 07:21:52#result:TRANSACTION_ID:ookww27kWPCwBwhbeDUdqrox7Yc=
+2022.6.18 07:21:52#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=ookww27kWPCwBwhbeDUdqrox7Yc%3D
+2022.6.18 07:22:12#---------------------- Complete New Transaction---------------------
+2022.6.18 07:22:12#Get trans_id From Post Value:ookww27kWPCwBwhbeDUdqrox7Yc=
+2022.6.18 07:22:12#clientIp:37.111.201.252
+2022.6.18 07:22:12#trans_id:ookww27kWPCwBwhbeDUdqrox7Yc=
+2022.6.18 07:22:14#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216907506878^APPROVAL_CODE>111946^CARD_NUMBER>999999*********1168^AMOUNT>523000^CARDNAME>mb account^DESCRIPTION>6MSC21110519^TRANS_DATE>2022-06-18 01:22:12 PM
+2022.6.18 07:22:14#31580318072214
+2022.6.18 07:22:14#31580318072214
+2022.6.18 07:22:14#=================== Transaction Completed =======================
+2022.6.18 07:35:40#=================== Start New Transaction ===================
+2022.6.18 07:35:40#txnrefnum:MSC21110514
+2022.6.18 07:35:40#clientIp:37.111.201.252
+2022.6.18 07:35:40#card type:6
+2022.6.18 07:35:40#totalamount:2603000
+2022.6.18 07:35:45#result:TRANSACTION_ID:wvkQnDRSqqYn3K7ScKGH3reOwBs=
+2022.6.18 07:35:45#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=wvkQnDRSqqYn3K7ScKGH3reOwBs%3D
+2022.6.18 07:37:59#---------------------- Complete New Transaction---------------------
+2022.6.18 07:37:59#Get trans_id From Post Value:wvkQnDRSqqYn3K7ScKGH3reOwBs=
+2022.6.18 07:37:59#clientIp:37.111.201.252
+2022.6.18 07:37:59#trans_id:wvkQnDRSqqYn3K7ScKGH3reOwBs=
+2022.6.18 07:38:01#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216907508119^APPROVAL_CODE>189591^CARD_NUMBER>999999*********1168^AMOUNT>2603000^CARDNAME>mb account^DESCRIPTION>6MSC21110514^TRANS_DATE>2022-06-18 01:37:57 PM
+2022.6.18 07:38:01#305318073801
+2022.6.18 07:38:01#305318073801
+2022.6.18 07:38:01#305318073801
+2022.6.18 07:38:01#305318073801
+2022.6.18 07:38:01#305318073801
+2022.6.18 07:38:01#305318073801
+2022.6.18 07:38:01#305318073801
+2022.6.18 07:38:01#305318073801
+2022.6.18 07:38:01#=================== Transaction Completed =======================
+2022.6.18 07:55:12#=================== Start New Transaction ===================
+2022.6.18 07:55:12#txnrefnum:MSC21111316
+2022.6.18 07:55:12#clientIp:202.134.14.144
+2022.6.18 07:55:12#card type:6
+2022.6.18 07:55:12#totalamount:2065000
+2022.6.18 07:55:20#result:TRANSACTION_ID:YPaAHF26VT3udMP3a9oaS9X1YUg=
+2022.6.18 07:55:20#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=YPaAHF26VT3udMP3a9oaS9X1YUg%3D
+2022.6.18 07:55:48#---------------------- Complete New Transaction---------------------
+2022.6.18 07:55:48#Get trans_id From Post Value:YPaAHF26VT3udMP3a9oaS9X1YUg=
+2022.6.18 07:55:48#clientIp:202.134.14.144
+2022.6.18 07:55:48#trans_id:YPaAHF26VT3udMP3a9oaS9X1YUg=
+2022.6.18 07:55:50#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216907509588^APPROVAL_CODE>221341^CARD_NUMBER>999999*********7532^AMOUNT>2065000^CARDNAME>mb account^DESCRIPTION>6MSC21111316^TRANS_DATE>2022-06-18 01:55:45 PM
+2022.6.18 07:55:50#870518075550
+2022.6.18 07:55:50#870518075550
+2022.6.18 07:55:50#870518075550
+2022.6.18 07:55:50#870518075550
+2022.6.18 07:55:50#870518075550
+2022.6.18 07:55:50#=================== Transaction Completed =======================
+2022.6.18 08:03:56#=================== Start New Transaction ===================
+2022.6.18 08:03:56#txnrefnum:MSC21111191
+2022.6.18 08:03:56#clientIp:202.134.14.144
+2022.6.18 08:03:56#card type:6
+2022.6.18 08:03:56#totalamount:625000
+2022.6.18 08:04:00#result:TRANSACTION_ID:flmAFnB7C0gd7iSj7kV5SrWQP3w=
+2022.6.18 08:04:00#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=flmAFnB7C0gd7iSj7kV5SrWQP3w%3D
+2022.6.18 08:04:35#---------------------- Complete New Transaction---------------------
+2022.6.18 08:04:35#Get trans_id From Post Value:flmAFnB7C0gd7iSj7kV5SrWQP3w=
+2022.6.18 08:04:35#clientIp:202.134.14.144
+2022.6.18 08:04:35#trans_id:flmAFnB7C0gd7iSj7kV5SrWQP3w=
+2022.6.18 08:04:37#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216908510228^APPROVAL_CODE>235881^CARD_NUMBER>999999*********7532^AMOUNT>625000^CARDNAME>mb account^DESCRIPTION>6MSC21111191^TRANS_DATE>2022-06-18 02:04:34 PM
+2022.6.18 08:04:37#721318080437
+2022.6.18 08:04:37#721318080437
+2022.6.18 08:04:37#721318080437
+2022.6.18 08:04:37#721318080437
+2022.6.18 08:04:37#=================== Transaction Completed =======================
+2022.6.18 08:41:49#=================== Start New Transaction ===================
+2022.6.18 08:41:49#txnrefnum:MSC21110570
+2022.6.18 08:41:49#clientIp:103.225.93.6
+2022.6.18 08:41:49#card type:6
+2022.6.18 08:41:49#totalamount:2343000
+2022.6.18 08:41:53#result:TRANSACTION_ID:cxk94PmfhBSvBmc1GY1Ezy9DB14=
+2022.6.18 08:41:53#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=cxk94PmfhBSvBmc1GY1Ezy9DB14%3D
+2022.6.18 08:44:03#---------------------- Complete New Transaction---------------------
+2022.6.18 08:44:03#Get trans_id From Post Value:cxk94PmfhBSvBmc1GY1Ezy9DB14=
+2022.6.18 08:44:03#clientIp:103.225.93.6
+2022.6.18 08:44:03#trans_id:cxk94PmfhBSvBmc1GY1Ezy9DB14=
+2022.6.18 08:44:05#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216908512966^APPROVAL_CODE>377396^CARD_NUMBER>999999*********1657^AMOUNT>2343000^CARDNAME>mb account^DESCRIPTION>6MSC21110570^TRANS_DATE>2022-06-18 02:44:01 PM
+2022.6.18 08:44:05#372518084405
+2022.6.18 08:44:05#372518084405
+2022.6.18 08:44:05#372518084405
+2022.6.18 08:44:05#372518084405
+2022.6.18 08:44:05#372518084405
+2022.6.18 08:44:05#372518084405
+2022.6.18 08:44:05#372518084405
+2022.6.18 08:44:05#372518084405
+2022.6.18 08:44:05#372518084405
+2022.6.18 08:44:05#372518084405
+2022.6.18 08:44:05#=================== Transaction Completed =======================
+2022.6.18 09:19:48#=================== Start New Transaction ===================
+2022.6.18 09:19:48#txnrefnum:MSC21111093
+2022.6.18 09:19:48#clientIp:116.206.254.112
+2022.6.18 09:19:48#card type:6
+2022.6.18 09:19:48#totalamount:1265000
+2022.6.18 09:19:52#result:TRANSACTION_ID:M24MlDCZROk9SEKg4IWn9zkRdxg=
+2022.6.18 09:19:52#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=M24MlDCZROk9SEKg4IWn9zkRdxg%3D
+2022.6.18 09:21:45#=================== Start New Transaction ===================
+2022.6.18 09:21:45#txnrefnum:MSC21111093
+2022.6.18 09:21:45#clientIp:116.206.254.112
+2022.6.18 09:21:45#card type:6
+2022.6.18 09:21:45#totalamount:1265000
+2022.6.18 09:21:49#result:TRANSACTION_ID:CYjxbfUIoCQ0YfydGYhPqRRzv4k=
+2022.6.18 09:21:49#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=CYjxbfUIoCQ0YfydGYhPqRRzv4k%3D
+2022.6.18 09:29:31#=================== Start New Transaction ===================
+2022.6.18 09:29:31#txnrefnum:MSC21111093
+2022.6.18 09:29:31#clientIp:116.206.254.112
+2022.6.18 09:29:31#card type:6
+2022.6.18 09:29:31#totalamount:1265000
+2022.6.18 09:29:35#result:TRANSACTION_ID:NMBGZPdEE1bmxcKM0Sajie9BWvM=
+2022.6.18 09:29:35#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=NMBGZPdEE1bmxcKM0Sajie9BWvM%3D
+2022.6.18 09:30:20#---------------------- Complete New Transaction---------------------
+2022.6.18 09:30:20#Get trans_id From Post Value:NMBGZPdEE1bmxcKM0Sajie9BWvM=
+2022.6.18 09:30:20#clientIp:116.206.254.112
+2022.6.18 09:30:20#trans_id:NMBGZPdEE1bmxcKM0Sajie9BWvM=
+2022.6.18 09:30:22#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216909516016^APPROVAL_CODE>482322^CARD_NUMBER>999999*********2270^AMOUNT>1265000^CARDNAME>mb account^DESCRIPTION>6MSC21111093^TRANS_DATE>2022-06-18 03:30:19 PM
+2022.6.18 09:30:22#602918093022
+2022.6.18 09:30:22#602918093022
+2022.6.18 09:30:22#602918093022
+2022.6.18 09:30:22#602918093022
+2022.6.18 09:30:22#602918093022
+2022.6.18 09:30:22#602918093022
+2022.6.18 09:30:22#602918093022
+2022.6.18 09:30:22#602918093022
+2022.6.18 09:30:22#=================== Transaction Completed =======================
+2022.6.18 12:36:19#=================== Start New Transaction ===================
+2022.6.18 12:36:19#txnrefnum:MSC22110604
+2022.6.18 12:36:19#clientIp:203.76.220.147
+2022.6.18 12:36:19#card type:6
+2022.6.18 12:36:19#totalamount:262000
+2022.6.18 12:36:23#result:TRANSACTION_ID:b4EzymBw4a8e4MmidlYOCANBytY=
+2022.6.18 12:36:23#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=b4EzymBw4a8e4MmidlYOCANBytY%3D
+2022.6.18 12:36:23#=================== Start New Transaction ===================
+2022.6.18 12:36:23#txnrefnum:MSC22110604
+2022.6.18 12:36:23#clientIp:203.76.220.147
+2022.6.18 12:36:23#card type:6
+2022.6.18 12:36:23#totalamount:262000
+2022.6.18 12:36:28#result:TRANSACTION_ID:xVg3a1csJFU0M6kAtcS7lgXP07w=
+2022.6.18 12:36:28#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=xVg3a1csJFU0M6kAtcS7lgXP07w%3D
+2022.6.18 12:37:32#---------------------- Complete New Transaction---------------------
+2022.6.18 12:37:32#Get trans_id From Post Value:xVg3a1csJFU0M6kAtcS7lgXP07w=
+2022.6.18 12:37:32#clientIp:203.76.220.147
+2022.6.18 12:37:32#trans_id:xVg3a1csJFU0M6kAtcS7lgXP07w=
+2022.6.18 12:37:35#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216912529557^APPROVAL_CODE>120498^CARD_NUMBER>999999*********4498^AMOUNT>262000^CARDNAME>mb account^DESCRIPTION>6MSC22110604^TRANS_DATE>2022-06-18 06:37:31 PM
+2022.6.18 12:37:35#1326818123735
+2022.6.18 12:37:35#1326818123735
+2022.6.18 12:37:35#=================== Transaction Completed =======================
+2022.6.18 13:13:30#---------------------- Complete New Transaction---------------------
+2022.6.18 13:13:30#Get trans_id From Post Value:U3IDQvwHXSRERvxRs6hAd1ZaO0M=
+2022.6.18 13:13:30#clientIp:103.166.89.50
+2022.6.18 13:13:30#trans_id:U3IDQvwHXSRERvxRs6hAd1ZaO0M=
+2022.6.18 13:13:32#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>482000^CARDNAME>0^DESCRIPTION>6BBD2208011^TRANS_DATE>2022-06-18 07:13:28 PM
+2022.6.18 13:13:32#Failed
+2022.6.18 13:43:12#=================== Start New Transaction ===================
+2022.6.18 13:43:12#txnrefnum:MSC21111039
+2022.6.18 13:43:12#clientIp:103.237.37.138
+2022.6.18 13:43:12#card type:6
+2022.6.18 13:43:12#totalamount:1045000
+2022.6.18 13:43:15#=================== Start New Transaction ===================
+2022.6.18 13:43:15#txnrefnum:MSC21111039
+2022.6.18 13:43:15#clientIp:103.237.37.138
+2022.6.18 13:43:15#card type:6
+2022.6.18 13:43:15#totalamount:1045000
+2022.6.18 13:43:17#result:TRANSACTION_ID:K8PkslJCh72AH9GmV2AjmTMcFQc=
+2022.6.18 13:43:17#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=K8PkslJCh72AH9GmV2AjmTMcFQc%3D
+2022.6.18 13:43:19#result:TRANSACTION_ID:0AT5l7BGPHS5GIGZPUndwQjE8rY=
+2022.6.18 13:43:19#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=0AT5l7BGPHS5GIGZPUndwQjE8rY%3D
+2022.6.18 13:44:48#---------------------- Complete New Transaction---------------------
+2022.6.18 13:44:48#Get trans_id From Post Value:0AT5l7BGPHS5GIGZPUndwQjE8rY=
+2022.6.18 13:44:48#clientIp:103.237.37.138
+2022.6.18 13:44:48#trans_id:0AT5l7BGPHS5GIGZPUndwQjE8rY=
+2022.6.18 13:44:50#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216913534188^APPROVAL_CODE>258692^CARD_NUMBER>999999*********1442^AMOUNT>1045000^CARDNAME>mb account^DESCRIPTION>6MSC21111039^TRANS_DATE>2022-06-18 07:44:47 PM
+2022.6.18 13:44:50#538418014450
+2022.6.18 13:44:50#538418014450
+2022.6.18 13:44:50#538418014450
+2022.6.18 13:44:50#538418014450
+2022.6.18 13:44:50#538418014450
+2022.6.18 13:44:50#538418014450
+2022.6.18 13:44:50#=================== Transaction Completed =======================
+2022.6.18 15:38:13#=================== Start New Transaction ===================
+2022.6.18 15:38:13#txnrefnum:MSC22111312
+2022.6.18 15:38:13#clientIp:103.150.255.88
+2022.6.18 15:38:13#card type:6
+2022.6.18 15:38:13#totalamount:262000
+2022.6.18 15:38:20#result:TRANSACTION_ID:7gTwNLG2upsSdEDEnT4SD9CA7pU=
+2022.6.18 15:38:20#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=7gTwNLG2upsSdEDEnT4SD9CA7pU%3D
+2022.6.18 15:39:49#---------------------- Complete New Transaction---------------------
+2022.6.18 15:39:49#Get trans_id From Post Value:7gTwNLG2upsSdEDEnT4SD9CA7pU=
+2022.6.18 15:39:49#clientIp:103.150.255.88
+2022.6.18 15:39:49#trans_id:7gTwNLG2upsSdEDEnT4SD9CA7pU=
+2022.6.18 15:39:51#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216915542359^APPROVAL_CODE>927073^CARD_NUMBER>999999*********2750^AMOUNT>262000^CARDNAME>mb account^DESCRIPTION>6MSC22111312^TRANS_DATE>2022-06-18 09:39:48 PM
+2022.6.18 15:39:51#1746818033951
+2022.6.18 15:39:51#1746818033951
+2022.6.18 15:39:51#=================== Transaction Completed =======================
+2022.6.18 16:32:47#=================== Start New Transaction ===================
+2022.6.18 16:32:47#txnrefnum:MSC21111162
+2022.6.18 16:32:47#clientIp:45.115.113.34
+2022.6.18 16:32:47#card type:6
+2022.6.18 16:32:47#totalamount:1425000
+2022.6.18 16:32:51#result:TRANSACTION_ID:6SivEFTu3FMfPYIEjL56wGF8CfA=
+2022.6.18 16:32:51#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=6SivEFTu3FMfPYIEjL56wGF8CfA%3D
+2022.6.18 16:35:32#=================== Start New Transaction ===================
+2022.6.18 16:35:32#txnrefnum:MSC21111162
+2022.6.18 16:35:32#clientIp:45.115.113.34
+2022.6.18 16:35:32#card type:6
+2022.6.18 16:35:32#totalamount:1425000
+2022.6.18 16:35:37#result:TRANSACTION_ID:0ptQMzxuF3FzJ0c7VhOWjVrkiCI=
+2022.6.18 16:35:37#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=0ptQMzxuF3FzJ0c7VhOWjVrkiCI%3D
+2022.6.18 16:36:14#=================== Start New Transaction ===================
+2022.6.18 16:36:14#txnrefnum:MSC21111162
+2022.6.18 16:36:14#clientIp:45.115.113.34
+2022.6.18 16:36:14#card type:6
+2022.6.18 16:36:14#totalamount:1425000
+2022.6.18 16:36:18#result:TRANSACTION_ID:yzaytKm2ZOTe8JgLODizLQCEelc=
+2022.6.18 16:36:18#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=yzaytKm2ZOTe8JgLODizLQCEelc%3D
+2022.6.18 16:40:18#=================== Start New Transaction ===================
+2022.6.18 16:40:18#txnrefnum:MSC21111162
+2022.6.18 16:40:18#clientIp:45.115.113.34
+2022.6.18 16:40:18#card type:6
+2022.6.18 16:40:18#totalamount:1425000
+2022.6.18 16:40:22#result:TRANSACTION_ID:iF61FueJtrICgPN4DQCJSuJhXHc=
+2022.6.18 16:40:22#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=iF61FueJtrICgPN4DQCJSuJhXHc%3D
+2022.6.18 16:42:39#---------------------- Complete New Transaction---------------------
+2022.6.18 16:42:39#Get trans_id From Post Value:iF61FueJtrICgPN4DQCJSuJhXHc=
+2022.6.18 16:42:39#clientIp:45.115.113.34
+2022.6.18 16:42:39#trans_id:iF61FueJtrICgPN4DQCJSuJhXHc=
+2022.6.18 16:42:41#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216916545854^APPROVAL_CODE>210531^CARD_NUMBER>999999*********8304^AMOUNT>1425000^CARDNAME>mb account^DESCRIPTION>6MSC21111162^TRANS_DATE>2022-06-18 10:42:37 PM
+2022.6.18 16:42:41#685918044241
+2022.6.18 16:42:41#685918044241
+2022.6.18 16:42:41#685918044241
+2022.6.18 16:42:41#685918044241
+2022.6.18 16:42:41#685918044241
+2022.6.18 16:42:41#685918044241
+2022.6.18 16:42:41#685918044241
+2022.6.18 16:42:41#685918044241
+2022.6.18 16:42:41#=================== Transaction Completed =======================
+2022.6.18 16:42:43#---------------------- Complete New Transaction---------------------
+2022.6.18 16:42:43#transaction id missing
+2022.6.18 16:42:44#---------------------- Complete New Transaction---------------------
+2022.6.18 16:42:44#transaction id missing
+2022.6.18 16:42:44#---------------------- Complete New Transaction---------------------
+2022.6.18 16:42:44#transaction id missing
+2022.6.18 16:59:35#=================== Start New Transaction ===================
+2022.6.18 16:59:35#txnrefnum:BBD2005166
+2022.6.18 16:59:35#clientIp:103.232.101.146
+2022.6.18 16:59:35#card type:6
+2022.6.18 16:59:35#totalamount:82000
+2022.6.18 16:59:39#result:TRANSACTION_ID:p5SbJz9testPFuKJl47rneerHSQ=
+2022.6.18 16:59:39#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=p5SbJz9testPFuKJl47rneerHSQ%3D
+2022.6.18 17:00:10#---------------------- Complete New Transaction---------------------
+2022.6.18 17:00:10#Get trans_id From Post Value:p5SbJz9testPFuKJl47rneerHSQ=
+2022.6.18 17:00:10#clientIp:103.232.101.146
+2022.6.18 17:00:10#trans_id:p5SbJz9testPFuKJl47rneerHSQ=
+2022.6.18 17:00:12#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216917546731^APPROVAL_CODE>232824^CARD_NUMBER>999999*********1019^AMOUNT>82000^CARDNAME>mb account^DESCRIPTION>6BBD2005166^TRANS_DATE>2022-06-18 11:00:09 PM
+2022.6.18 17:00:12#24734218050012
+2022.6.18 17:00:12#=================== Transaction Completed =======================
+2022.6.18 17:00:48#=================== Start New Transaction ===================
+2022.6.18 17:00:48#txnrefnum:MBD2201177
+2022.6.18 17:00:48#clientIp:103.232.101.146
+2022.6.18 17:00:48#card type:6
+2022.6.18 17:00:48#totalamount:82000
+2022.6.18 17:00:52#result:TRANSACTION_ID:8rTnHmmkaEpsJvQu9tuTUYPlrY4=
+2022.6.18 17:00:52#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=8rTnHmmkaEpsJvQu9tuTUYPlrY4%3D
+2022.6.18 17:01:14#---------------------- Complete New Transaction---------------------
+2022.6.18 17:01:14#Get trans_id From Post Value:8rTnHmmkaEpsJvQu9tuTUYPlrY4=
+2022.6.18 17:01:14#clientIp:103.232.101.146
+2022.6.18 17:01:14#trans_id:8rTnHmmkaEpsJvQu9tuTUYPlrY4=
+2022.6.18 17:01:17#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216917546781^APPROVAL_CODE>020021^CARD_NUMBER>999999*********1019^AMOUNT>82000^CARDNAME>mb account^DESCRIPTION>6MBD2201177^TRANS_DATE>2022-06-18 11:01:14 PM
+2022.6.18 17:01:17#22346718050117
+2022.6.18 17:01:17#=================== Transaction Completed =======================
+2022.6.18 17:35:30#=================== Start New Transaction ===================
+2022.6.18 17:35:30#txnrefnum:MSC22111327
+2022.6.18 17:35:30#clientIp:123.253.65.181
+2022.6.18 17:35:30#card type:6
+2022.6.18 17:35:30#totalamount:102000
+2022.6.18 17:35:34#result:TRANSACTION_ID:oeonl3eqWHQ8RLSv6CMVtcLZK7k=
+2022.6.18 17:35:34#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=oeonl3eqWHQ8RLSv6CMVtcLZK7k%3D
+2022.6.18 17:36:26#=================== Start New Transaction ===================
+2022.6.18 17:36:26#txnrefnum:MSC22111327
+2022.6.18 17:36:26#clientIp:123.253.65.181
+2022.6.18 17:36:26#card type:6
+2022.6.18 17:36:26#totalamount:262000
+2022.6.18 17:36:30#result:TRANSACTION_ID:RLGAhEN2ApARvZX2PmRVwRoHz2M=
+2022.6.18 17:36:30#Forward to DBBL Payment Gateway Page: https://ecom1.dutchbanglabank.com/ecomm2/ClientHandler?card_type=6&trans_id=RLGAhEN2ApARvZX2PmRVwRoHz2M%3D
+2022.6.18 17:37:28#---------------------- Complete New Transaction---------------------
+2022.6.18 17:37:28#Get trans_id From Post Value:RLGAhEN2ApARvZX2PmRVwRoHz2M=
+2022.6.18 17:37:28#clientIp:123.253.65.181
+2022.6.18 17:37:28#trans_id:RLGAhEN2ApARvZX2PmRVwRoHz2M=
+2022.6.18 17:37:30#result:RESULT>OK^RESULT_CODE>000^3DSECURE>SKIPPED^RRN>216917548538^APPROVAL_CODE>269080^CARD_NUMBER>999999*********1854^AMOUNT>262000^CARDNAME>mb account^DESCRIPTION>6MSC22111327^TRANS_DATE>2022-06-18 11:37:20 PM
+2022.6.18 17:37:30#1515218053730
+2022.6.18 17:37:30#1515218053730
+2022.6.18 17:37:30#=================== Transaction Completed =======================
+2022.6.18 19:45:08#---------------------- Complete New Transaction---------------------
+2022.6.18 19:45:08#Get trans_id From Post Value:7QREVkFZv40tcSfH4UFhiSyAuDc=
+2022.6.18 19:45:08#clientIp:103.136.158.172
+2022.6.18 19:45:08#trans_id:7QREVkFZv40tcSfH4UFhiSyAuDc=
+2022.6.18 19:45:10#result:RESULT>TIMEOUT^RESULT_CODE>999^3DSECURE>0^RRN>0^APPROVAL_CODE>0^CARD_NUMBER>0^AMOUNT>3083000^CARDNAME>0^DESCRIPTION>6MSC21110582^TRANS_DATE>2022-06-19 01:45:07 AM
+2022.6.18 19:45:10#Failed

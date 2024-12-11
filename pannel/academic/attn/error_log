@@ -1,0 +1,5 @@
+[15-Feb-2023 11:58:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bornosky/public_html/sbbmt_test/pannel/academic/attendance/create_calender.php on line 307
+[25-Feb-2023 07:01:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bornosky/public_html/sbbmt_test/pannel/academic/attendance/take_attendance.php on line 330
+[28-Feb-2023 08:45:53 UTC] PHP Parse error:  syntax error, unexpected '$year' (T_VARIABLE) in /home/bornosky/public_html/sbbmt_test/pannel/academic/attendance/absent_report.php on line 654
+[28-Feb-2023 09:05:04 UTC] PHP Warning:  require_once(atten_top.php): failed to open stream: No such file or directory in /home/bornosky/public_html/sbbmt_test/pannel/academic/attendance/download_attandance_report.php on line 10
+[28-Feb-2023 09:05:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'atten_top.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/bornosky/public_html/sbbmt_test/pannel/academic/attendance/download_attandance_report.php on line 10

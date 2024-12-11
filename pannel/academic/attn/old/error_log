@@ -1,0 +1,817 @@
+[03-Feb-2020 06:19:39 UTC] PHP Warning:  require_once(information_top.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 1
+[03-Feb-2020 06:19:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'information_top.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 1
+[03-Feb-2020 06:20:11 UTC] PHP Warning:  require_once(leftmenu.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 30
+[03-Feb-2020 06:20:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'leftmenu.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 30
+[05-Feb-2020 04:57:01 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bornosky/public_html/new/pannel/academic/attn/individual_do.php on line 45
+[05-Feb-2020 04:59:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bornosky/public_html/new/pannel/academic/attn/individual_do.php on line 45
+[10-Feb-2020 08:26:21 UTC] PHP Warning:  include_once(../../include/academic_admin_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/single_stu_attendance_report.php on line 782
+[10-Feb-2020 08:26:21 UTC] PHP Warning:  include_once(): Failed opening '../../include/academic_admin_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/single_stu_attendance_report.php on line 782
+[10-Feb-2020 08:35:15 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 578
+[10-Feb-2020 08:35:15 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 578
+[10-Feb-2020 08:35:53 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 578
+[10-Feb-2020 08:35:53 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 578
+[10-Feb-2020 08:37:28 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 578
+[10-Feb-2020 08:37:28 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 578
+[10-Feb-2020 08:38:00 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 578
+[10-Feb-2020 08:38:00 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 578
+[10-Feb-2020 08:40:09 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 579
+[10-Feb-2020 08:40:09 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 579
+[10-Feb-2020 08:41:07 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 579
+[10-Feb-2020 08:41:07 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 579
+[10-Feb-2020 08:47:18 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:18 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:22 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:22 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:25 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:25 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:28 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:28 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:31 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:31 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:34 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:47:34 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 630
+[10-Feb-2020 08:51:39 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:51:39 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:51:52 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:51:52 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:53:27 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:27 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:27 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:27 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:53:27 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 333
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:53:39 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:55:54 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:55:54 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:58:38 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:58:38 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:58:58 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 08:58:58 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 09:01:39 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 09:01:39 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 392
+[10-Feb-2020 09:08:02 UTC] PHP Parse error:  Invalid numeric literal in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 286
+[10-Feb-2020 09:09:34 UTC] PHP Parse error:  Invalid numeric literal in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 287
+[10-Feb-2020 09:17:12 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:12 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:22 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:22 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:24 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:24 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:26 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:26 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:29 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:29 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:32 UTC] PHP Warning:  include_once(../../include/print_footer.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[10-Feb-2020 09:17:32 UTC] PHP Warning:  include_once(): Failed opening '../../include/print_footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 419
+[11-Feb-2020 11:09:08 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:08 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:08 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:08 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:09 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:09 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:09 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:09 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:10 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:10 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:10 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:10 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:10 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:11 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:11 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:11 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:11 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:11 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:12 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:12 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:12 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:12 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:13 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:13 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:13 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:13 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:13 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:18 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:18 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:18 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:18 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:23 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:09:23 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:10 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:10 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:11 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:11 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:11 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:11 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:11 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:12 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:12 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:12 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:12 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:13 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:13 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:13 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:13 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:13 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:18 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:18 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:18 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:18 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:23 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:23 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:23 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:23 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:23 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:25 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:25 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:25 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[11-Feb-2020 11:11:25 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/bornosky/public_html/new/pannel/academic/attn/attendance_report_print.php on line 376
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[20-Jul-2020 13:28:26 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[22-Jul-2020 03:43:41 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[12-Aug-2020 04:34:01 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[12-Aug-2020 04:35:49 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[12-Aug-2020 04:35:49 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[12-Aug-2020 04:35:49 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[12-Aug-2020 04:35:52 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[12-Aug-2020 04:35:52 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[12-Aug-2020 04:35:52 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[12-Aug-2020 04:35:55 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[12-Aug-2020 04:35:55 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[12-Aug-2020 04:35:55 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[12-Aug-2020 04:35:58 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[12-Aug-2020 04:35:58 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[12-Aug-2020 04:35:58 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[12-Aug-2020 04:36:01 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[12-Aug-2020 04:36:01 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[12-Aug-2020 04:36:01 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[12-Aug-2020 04:36:03 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[12-Aug-2020 04:36:03 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[12-Aug-2020 04:36:03 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 283
+[12-Aug-2020 04:36:03 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 283
+[12-Aug-2020 04:36:03 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 287
+[12-Aug-2020 04:36:04 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[12-Aug-2020 04:36:56 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[12-Aug-2020 04:36:56 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[12-Aug-2020 04:36:56 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[12-Aug-2020 04:36:56 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[12-Aug-2020 04:36:56 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 222
+[12-Aug-2020 04:36:56 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[12-Aug-2020 04:37:05 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[12-Aug-2020 04:37:05 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[12-Aug-2020 04:37:05 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[12-Aug-2020 04:37:05 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[12-Aug-2020 04:37:05 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 222
+[12-Aug-2020 04:37:05 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[03-Sep-2020 06:02:43 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[03-Sep-2020 06:02:52 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[03-Sep-2020 06:02:52 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[03-Sep-2020 06:02:52 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[03-Sep-2020 06:03:02 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[03-Sep-2020 06:03:02 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[03-Sep-2020 06:03:02 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[03-Sep-2020 06:03:05 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[03-Sep-2020 06:03:05 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[03-Sep-2020 06:03:05 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[03-Sep-2020 06:03:09 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[03-Sep-2020 06:03:09 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[03-Sep-2020 06:03:09 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[03-Sep-2020 06:03:11 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[03-Sep-2020 06:03:11 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[03-Sep-2020 06:03:11 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[03-Sep-2020 06:03:15 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[03-Sep-2020 06:03:15 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[03-Sep-2020 06:03:15 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[03-Sep-2020 06:03:15 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[03-Sep-2020 06:03:15 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 222
+[03-Sep-2020 06:03:15 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[03-Sep-2020 06:03:28 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[03-Sep-2020 06:03:28 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[03-Sep-2020 06:03:28 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[03-Sep-2020 06:03:28 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[03-Sep-2020 06:03:28 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 222
+[03-Sep-2020 06:03:28 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[19-Sep-2020 05:38:28 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[29-Sep-2020 14:50:46 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[13-Oct-2020 16:04:37 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[21-Oct-2020 04:42:54 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[27-Oct-2020 10:54:28 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[28-Nov-2020 07:44:13 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Nov-2020 07:44:19 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Nov-2020 07:44:19 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Nov-2020 07:44:19 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Nov-2020 07:44:22 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Nov-2020 07:44:22 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Nov-2020 07:44:22 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Nov-2020 07:44:24 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Nov-2020 07:44:24 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Nov-2020 07:44:25 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Nov-2020 07:44:27 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Nov-2020 07:44:27 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Nov-2020 07:44:27 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Nov-2020 07:44:30 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Nov-2020 07:44:30 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Nov-2020 07:44:30 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Nov-2020 07:44:32 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Nov-2020 07:44:32 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Nov-2020 07:44:33 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[28-Nov-2020 07:44:33 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[28-Nov-2020 07:44:33 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 222
+[28-Nov-2020 07:44:33 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Nov-2020 07:44:37 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Nov-2020 07:44:37 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Nov-2020 07:44:37 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[28-Nov-2020 07:44:37 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[28-Nov-2020 07:44:37 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 222
+[28-Nov-2020 07:44:37 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Nov-2020 07:44:40 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Nov-2020 07:44:40 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Nov-2020 07:44:40 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[28-Nov-2020 07:44:40 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 220
+[28-Nov-2020 07:44:40 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 222
+[28-Nov-2020 07:44:40 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Nov-2020 07:44:49 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Nov-2020 07:44:49 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Nov-2020 07:44:49 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 283
+[28-Nov-2020 07:44:49 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 283
+[28-Nov-2020 07:44:49 UTC] PHP Notice:  Undefined variable: shextlimit in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 287
+[28-Nov-2020 07:44:49 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[29-Nov-2020 08:15:28 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[23-Dec-2020 15:12:05 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[23-Dec-2020 15:12:06 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[02-Jan-2021 03:01:48 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[04-Jan-2021 09:46:22 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[28-Jan-2021 07:12:09 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Jan-2021 07:12:32 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Jan-2021 07:12:32 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Jan-2021 07:12:32 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[28-Jan-2021 07:12:45 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/academic/attn/information_top.php on line 9
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 90
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 93
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 104
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 129
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 135
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 149
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 167
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 168
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 169
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 185
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 186
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 195
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 196
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: msgType in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 210
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 343
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: studClass in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 344
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: shiftId in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 345
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: section in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 346
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: stsess in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 347
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined index: msgst in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 348
+[02-Feb-2021 08:59:44 UTC] PHP Notice:  Undefined variable: avlSMS in /home/bornosky/public_html/new/pannel/academic/attn/student_attendence.php on line 350

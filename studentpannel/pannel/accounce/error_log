@@ -1,0 +1,36 @@
+[19-Nov-2018 04:46:45 UTC] PHP Warning:  require_once(accounce_top.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/accounce/index.php on line 1
+[19-Nov-2018 04:46:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'accounce_top.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/accounce/index.php on line 1
+[19-Nov-2018 04:48:27 UTC] PHP Warning:  require_once(accounce_top.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/accounce/index.php on line 1
+[19-Nov-2018 04:48:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'accounce_top.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/accounce/index.php on line 1
+[17-Feb-2020 07:00:33 UTC] PHP Warning:  include(../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:00:33 UTC] PHP Warning:  include(../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:00:33 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:00:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php:17
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/index.php(1): require_once()
+#1 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 17
+[17-Feb-2020 07:01:00 UTC] PHP Warning:  include(../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:01:00 UTC] PHP Warning:  include(../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:01:00 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php:17
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/index.php(1): require_once()
+#1 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 17
+[17-Feb-2020 07:01:34 UTC] PHP Warning:  include(../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:01:34 UTC] PHP Warning:  include(../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:01:34 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php:17
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/index.php(1): require_once()
+#1 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 17
+[17-Feb-2020 07:01:36 UTC] PHP Warning:  include(../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:01:36 UTC] PHP Warning:  include(../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:01:36 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 4
+[17-Feb-2020 07:01:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php:17
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/index.php(1): require_once()
+#1 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/accounce/accounce_top.php on line 17

@@ -1,0 +1,305 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.wrapper{
+   padding: 0;
+   margin: 0px;
+   font-family: sans-serif;
+}
+.side_main_menu{
+   background-color: #005067;
+   border-right: 8px solid #4A8A9B;
+   height: 100vh;
+   width: 300px;
+   float: left;
+}
+.top_part_menu{
+   height: 73%;
+   padding: 4% 15%;
+   margin-top: 20px;
+}
+/*--- others page menu style start ---*/
+.top_part_menu h3{
+   color: #005067;
+   background-color: #679FB0;
+   padding: 5px 0;
+   border-radius: 10px;
+   text-align: left;
+}
+.top_part_menu ul{
+   list-style: none;
+   margin-left: 10px;
+   margin-top: 15px;
+}
+.top_part_menu ul li{
+   margin-bottom: 3px;
+}
+.top_part_menu ul li .active{
+   color: #fff;
+   text-decoration: none;
+   background-color: #1F6A81;
+   padding: 2px 15px 2px 3px;
+   border-radius: 15px;
+   width: 180px;
+}
+.top_part_menu ul li a{
+   color: #fff;
+   text-decoration: none;
+   padding: 2px 15px 2px 3px;
+   border-radius: 15px;
+   width: 180px;
+   display: block;
+   
+}
+.top_part_menu ul li a:hover{
+   color: #fff;
+   text-decoration: none;
+   background-color: #1F6A81;
+   padding: 2px 15px 2px 3px;
+   border-radius: 15px;
+   width: 180px;
+}
+.top_part_menu ul li a i{
+   background-color: #fff;
+   text-align: left;
+   width: 16px;
+   height: 16px;
+   color: #F56FB4;
+   padding: 2px;
+   font-size: 15px;
+   border-radius: 50px;
+   margin-right: 5px;
+}
+/*--- others page menu style end ---*/
+.fixed_logo{
+   height: 14%;
+}
+.fixed_logo img{
+   padding: 0 70px;
+}
+/*======= Side Main Menu End =======*/
+
+.main_content{
+   height: 100vh;
+   margin: 0 0 0 308px;
+   background-color: #75CBD6;
+}
+.admin_logout{
+   height: 120px;
+   background-color: #005067;
+}
+.admin_head{
+   float: left;
+}
+.admin_head h3{
+   color: #fff;
+   font-size: 40px;
+   text-align: left;
+   padding: 40px 0 0 40px;
+   font-weight: normal;
+}
+.log_out{
+   float: right;
+}
+.log_out img{
+   padding: 25px 40px 0px 0;
+}
+/*======= Logout And Admin End =======*/
+
+.main_body{
+   width: 90%;
+   margin: 5%;
+   height: auto;
+   float: left;
+   /*background-color: #75CBD6;*/
+}
+/*======= Main Body End =======*/
+
+.main_item{
+   padding: 60px 20px;
+   height: 210px;
+   float: left;
+}
+.main_item ul{
+   list-style: none;
+   margin: 0;
+}
+.main_item ul li{
+   margin-right: 7px;
+   float: left;
+}
+.main_item ul li a{
+   color: #005067;
+   text-decoration: none;
+}
+.main_item ul li a p{
+   font-weight: bold;
+   text-align: left;
+}
+/*======= main page item End =======*/
+
+/*======= Others page Start =======*/
+.ot_main_content{
+   height: 100vh;
+   margin: 0 0 0 308px;
+}
+.ot_main_body{
+   width: 90%;
+   margin: 25px 5% 25px 5%;
+   height: auto;
+   float: left;
+   background-color: #75CBD6;
+}
+.ot_body_fixed{
+   height: 445px;
+}
+/* ----- Default Heading ----- */
+.default_heading{
+   background-color: #005067;
+   color: #fff;
+   font-weight: normal;
+}
+.default_heading h2{
+   padding: 5px 15px;
+   font-weight: normal;
+   font-size: 26px;
+}
+/*======= Others Page End =======*/
+
+.text_table{
+   float: right;
+   padding: 3px;
+   font-size: 13px;
+
+}
+.form{
+   margin-top: 50px;
+   height: auto;
+   background-color: #75CBD6;
+   margin-bottom: 25px;
+   padding-bottom: 25px;
+}
+.form p{
+   font-size: 12px;
+}
+
+
+.form input[type="text"], input[type="password"]{
+   width: auto;
+   padding: 3px 10px;
+   background-color: #679FB0;
+   border: none;
+   outline: none;
+   border-radius: 15px;
+   color: #fff;
+   font-size: 14px;
+   margin-bottom: 3px;
+}
+
+.form input[type="file"]{
+   width: 200px;
+   padding: 3px 10px;
+   background-color: #679FB0;
+   border: none;
+   outline: none;
+   border-radius: 15px;
+   color: #fdfdfd;
+   font-size: 14px;
+   margin-bottom: 5px;
+}
+
+.form input[type="submit"],.custome input[type="submit"]{
+   padding: 4px 30px;
+   background-color: #005067;
+   border: none;
+   outline: none;
+   border-radius: 15px;
+   color: #fff;
+   font-size: 16px;
+}
+.custome{
+   margin-top: 50px;
+   height: auto;
+   background-color: #75CBD6;
+   margin-bottom: 25px;
+   padding-bottom: 25px;
+}
+.custome input[type="text"],input[type="file"]{
+   width: 250px;
+   padding: 5px 10px;
+   background-color: #679FB0;
+   border: none;
+   outline: none;
+   border-radius: 15px;
+   color: #005067;
+   font-size: 14px;
+   margin-bottom: 5px;
+}
+
+
+
+
+.arrow{
+   display: inline-block;
+   position: relative;
+}
+select{
+   border-radius: 15px;
+   padding: 3px 50px;
+   font-size: 12px;
+   color: #005067;
+   appearance: none;
+   background: #679FB0 url(../images/aa.png) no-repeat 100% 50% ;
+   -moz-appearance: none;
+   -webkit-appearance: none;
+   -o-appearance: none;
+   background-color: #679FB0;
+   outline: none;
+   border: none;
+}
+.arrow select{
+  width: 415px;*/
+ /* background: #679FB0 url(../images/ddarrow.jpg) no-repeat 100% 50% ;*/*/
+   border-radius: 15px;
+   margin-bottom: 5px;
+}
+
+
+
+
+
+.projectlist {
+    border-left: 1px solid #005067;
+    border-top: 1px solid #005067;
+}
+.projectlist th {
+    background-color: #EFF7FA;
+    border-bottom: 1px solid #005067;
+    border-right: 1px solid #005067;
+    color: #420000;
+    font-size: 12px;
+    height: 30px;
+    text-align: left;
+}
+.projectlist td {
+    border-bottom: 1px solid #005067;
+    border-right: 1px solid #005067;
+    padding: 4px;
+}
+
+/*<tr>
+  <td>
+      
+  </td>
+  <td>
+      <div class="arrow">
+          <select>
+              <option>-- select -- </option>
+              <option>Bangladesh</option>
+              <option>India</option>
+              <option>Srilanka</option>
+          </select>
+      </div>
+  </td>
+</tr>*/

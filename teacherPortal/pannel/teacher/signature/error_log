@@ -1,0 +1,7 @@
+[21-May-2020 19:53:33 UTC] PHP Warning:  include(../../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/teacher/signature/download_blunk_admit_card.php on line 13
+[21-May-2020 19:53:33 UTC] PHP Warning:  include(../../../connection.php): failed to open stream: No such file or directory in /home/bornosky/public_html/new/pannel/academic/teacher/signature/download_blunk_admit_card.php on line 13
+[21-May-2020 19:53:33 UTC] PHP Warning:  include(): Failed opening '../../../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bornosky/public_html/new/pannel/academic/teacher/signature/download_blunk_admit_card.php on line 13
+[21-May-2020 19:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bornosky/public_html/new/pannel/academic/teacher/signature/download_blunk_admit_card.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/new/pannel/academic/teacher/signature/download_blunk_admit_card.php on line 16

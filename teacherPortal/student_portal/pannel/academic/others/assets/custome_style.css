@@ -1,0 +1,1073 @@
+/**
+* Template : Education Club BD
+* Author : Marketvine
+* Author URI : http://aiscorpbd.com/
+**/
+/*
+------------ Total Style List -------------------
+
+01. Login Page 
+02. Main Page CSS
+03. Old Panel System Page CSS
+04. Old Panel System Main Page CSS
+05. Common Page CSS + Our Main Menu
+06. All Form + Right Allignment
+07. Common BG Color + Main page Btn Design
+08. Main Header GB Color + Our Main Logo CSS
+09. SMS Panel Style
+10. Table Style Customize
+11. Teacher Profile CSS
+12. Academic Class Routine CSS
+13. Academmic Exam Routine CSS
+13_1. Academic Section New (New)
+13_2. Upload Images View (New)
+14. Main Header DropDown CSS
+15. All Report Heading
+
+
+
+16. Dashboard Design Start
+
+-------------------------------------------------
+*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.alert_c{
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.error{
+    color: red;
+}
+
+/*.form-control {*/
+/*    border-radius: 5px;*/
+/*    box-shadow: none;*/
+/*    border-color: #d2d6de;*/
+/*}*/
+/*.multiselect-native-select .btn-default {*/
+/*    background-color: #fff;*/
+/*    border-radius: 5px;*/
+/*}*/
+
+/*=============================
+Login Page 
+================================*/
+.login-page, .register-page {
+    height: auto;
+    background: #F4F6F9;
+}
+.login-box-body, .register-box-body {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid rgb(216, 221, 230);
+    color: #666;
+    border-radius: 5px;
+}
+.edu_login{
+	width: 50%;
+	float: left;
+}
+.edu_login .login-box, .register-box {
+    width: 360px;
+    margin: 10% auto;
+}
+.edu_login_right{
+	width: 50%;
+	height: 100vh;
+	float: right;
+	background-repeat: no-repeat;
+	background-size: center;
+	background-position: fixed;
+	background-image: url(images/test.jpg);
+}
+.bg_images{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: block;
+}
+
+/*=============================
+Main Page CSS
+================================*/
+.logo img{
+    width: 220px;
+    height: 90px;
+}
+.main-header .logo {
+    overflow: inherit;
+}
+.content {
+    min-height: auto;
+    padding: 28px 15px 15px 15px;
+}
+.sidebar-menu > li {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid #3D3D3D;
+}
+.sidebar-menu > li > a {
+    padding: 10px 5px 10px 15px;
+    display: block;
+}
+/*=============================
+Old Panel System Page CSS
+================================*/
+.panel_images{
+	margin-bottom: 15px;
+}
+.panel_images img{
+	width: 100%;
+	height: 228px;
+    border-radius: 5px;
+}
+.acapanel_images{
+    margin-bottom: 15px;
+}
+.acapanel_images img{
+    width: 100%;
+    height: 150px;
+    border-radius: 5px;
+}
+.display_nane{
+	display: none;
+}
+.sms_panel_link{
+    position: relative;
+    overflow: hidden;
+    margin: 0 0 15px 0;
+}
+.sms_panel_link img{
+    width: 100%;
+    height: 180px;
+     -moz-transition: all 1.5s ease 0s;
+    -webkit-transition: all 1.5s ease 0s;
+    -o-transition: all 1.5s ease 0s;
+     transition: all 1.5s ease 0s;
+}
+.sms_panel_link:hover img{
+    -moz-transform: scale(1.4);
+    -webkit-transform: scale(1.4);
+    -o-transform: scale(1.4);
+    transform: scale(1.4);
+}
+.sms_panel_link .main-mask {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.sms_panel_link .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 1s ease;
+    -o-transition: 1s ease;
+    -moz-transition: 1s ease;
+    -webkit-transition: 1s ease;
+    background: rgba(17, 24, 31, 0.7);
+}
+.sms_panel_link:hover .overlay{
+    opacity: 1;
+}
+
+/*=============================
+Old Panel System Main Page CSS
+================================*/
+.main_panel_link{
+    position: relative;
+    overflow: hidden;
+    margin: 0 0 15px 0;
+}
+.main_panel_link img{
+    width: 100%;
+    height: 170px;
+     -moz-transition: all 1.5s ease 0s;
+    -webkit-transition: all 1.5s ease 0s;
+    -o-transition: all 1.5s ease 0s;
+     transition: all 1.5s ease 0s;
+}
+.main_panel_link:hover img{
+    -moz-transform: scale(1.4);
+    -webkit-transform: scale(1.4);
+    -o-transform: scale(1.4);
+    transform: scale(1.4);
+}
+.main_panel_link .main-mask {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.main-mask{
+    z-index: 111;
+    background: rgba(17, 24, 31, 0.3);
+}
+.main-mask h3{
+    text-align: center;
+    padding: 10px 5px;
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}
+.main_panel_link .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 1s ease;
+    -o-transition: 1s ease;
+    -moz-transition: 1s ease;
+    -webkit-transition: 1s ease;
+    background: rgba(17, 24, 31, 0.7);
+}
+.main_panel_link:hover .overlay{
+    opacity: 1;
+}
+
+/*=============================
+Common Page CSS + Our Main Menu
+================================*/
+
+._custome{
+    margin-left: 0px;
+    background-color: #ECF0F5;
+}
+.top_custome_menu{
+	margin: 0 0 0 0;
+	text-align: center;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	padding: 5px;
+}
+.top_custome_menu img{
+	height: 65px;
+	width: 80px;
+}
+.top_custome_menu p{
+	margin: 5px 0;
+}
+.top_custome_menu .btn-default {
+    background-color: transparent;
+    color: #444;
+    border-color: transparent;
+}
+.top_custome_menu .btn{
+	padding: 5px 10px;
+    margin: 0 0px;
+}
+.top_custome_menu .btn-default.active{
+	color: #333;
+	background-color: #d4d4d4;
+	border-color: #8c8c8c;
+}
+.custome_dropdown_menu{
+    box-shadow: 5px 10px 18px #888888;
+}
+.custome_dropdown_menu.dropdown-menu > li > a{
+    display: block;
+    padding: 10px 25px 10px 10px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+    border-bottom: 1px solid #ddd;
+}
+.top_custome_menu .dropdown-menu{
+    min-width: 300px;
+    padding: 0px;
+    border: none;
+    border-radius: 0px;
+}
+.top_custome_menu .dropdown-menu a{
+    font-size: 16px;
+}
+.top_custome_menu .dropdown-menu img{
+    height: 55px;
+    width: 70px;
+   /* border: 1px solid #ddd;*/
+    border-radius: 4px;
+    padding: 3px;
+}
+.top_custome_menu li{
+    list-style: none;
+}
+.top_custome_menu .navbar-collapse {
+    padding: 0px;
+}
+
+/*=============================
+All Form + Right Allignment
+================================*/
+.form-group {
+    margin-bottom: 10px;
+}
+
+.first_page_set{
+	padding: 50px 150px;
+}
+.first_page_set .small-box > .inner {
+    padding: 40px 10px;
+}
+.box-footer {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top: 1px solid #f4f4f4;
+    padding: 10px;
+    background-color: #fff;
+    text-align: center;
+}
+.box-footer .btn-primary{
+	width: 200px;
+}
+.right{
+    float: right;
+    margin-right: 5px;
+}
+.teacher_panel .form-horizontal .control-label {
+    padding-top: 7px;
+    margin-bottom: 0;
+    text-align: left;
+}
+#text-checkbox label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: -4px;
+    font-weight: 700;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+.text-nicelabel:not(:checked) + label {
+    background-color: #DDDDDD;
+    color: #828282;
+}
+.text-nicelabel:checked + label {
+    background-color: rgba(0,140,186,1);
+    color: #fff;
+    border-bottom: 3px solid green;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.text_value{
+    font-weight: bold;
+    font-style: 16px;
+    color: green;
+}
+.my_btn_custom button{
+    margin: 8px 5px;
+}
+
+/*=============================
+Common BG Color + Main page Btn Design
+================================*/
+.color_1{
+    background-color: #00C0EF;
+}
+.color_2{
+    background-color: #00A65A;
+}
+.color_3{
+    background-color: #F39C12;
+}
+.color_4{
+    background-color: #DD4B39;
+}
+
+.main_page_btn{
+    height: 120px;
+    width: 100%;
+    display: block;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+}
+.main_page_btn:hover{
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.main_btn_icon{
+    width: 30%;
+    float: left;
+    padding: 30px 0px 24px 15px;
+}
+.main_btn_icon i{
+    font-size: 60px;
+    color: #fff;
+}
+.main_btn_text{
+    width: 70%;
+    float: right;
+}
+.main_btn_text h2{
+    font-weight: bold;
+    font-size: 24px;
+    color: #444;
+    padding: 46px 15px;
+    margin: 0px;
+}
+.main_btn_text_diff{
+    width: 70%;
+    float: right;
+}
+
+.main_btn_text_diff h2{
+    font-weight: bold;
+    font-size: 24px;
+    color: #444;
+    padding: 32px 15px;
+    margin: 0px;
+}
+/*=============================
+Main Header GB Color + Our Main Logo CSS
+================================*/
+
+.skin-blue .main-header .navbar {
+    background-color: #0078D7;
+}
+.skin-blue .main-header .logo {
+    background-color: #0078D7;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+.skin-blue .main-header .logo:hover {
+    background-color: #0078D7;
+}
+
+.school_logo_set{
+    height: 100px;
+    text-align: center;
+    margin-bottom: 15px;
+    border-bottom: 3px solid #3c8dbc;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.school_logo_set_only img{
+    height: 100px;
+    float: right;
+}
+.only_text_logo{
+    float: left;
+}
+.only_text_logo h1{
+    font-weight: bold;
+    color: green;
+}
+.btn-custome{
+    background-color: deeppink;
+    color: white;
+}
+.btn-custome:hover{
+    background-color: #F71E9D;
+    color: white;
+}
+.customes_icon .fa{
+    font-size: 17px;
+}
+.custome_clock{
+    padding: 38px 30px;
+}
+.custom_calender{
+    padding: 25px
+}
+.pie_chart_custome{
+    padding: 24px;
+}
+/*=============================
+SMS Panel Style
+================================*/
+
+.center_sms_show{
+    margin-left: 140px;
+    font-weight: bold;
+    border-bottom: 2px solid #ddd;
+    color: #F39C12;
+}
+.box .datepicker-inline, .box 
+.datepicker-inline .datepicker-days, 
+.box .datepicker-inline > table, 
+.box .datepicker-inline 
+.datepicker-days > table {
+    width: 100%;
+    display: none;
+}
+
+/*=============================
+Table Style Customize
+================================*/
+.custome_class_table .table-bordered > thead > tr > th, 
+.table-bordered > thead > tr > td {
+    text-align: center;
+    vertical-align: middle;
+}
+.custome_class_table .table-bordered > tbody > tr > td{
+    text-align: center;
+    vertical-align: middle;
+}
+/*=============================
+Teacher Profile CSS
+================================*/
+.header_part img{
+    height: 200px;
+    width: 200px;
+}
+.main_teacher_text{
+    padding: 50px 0px;
+}
+.student_profile_text{
+    padding: 20px 0px;
+}
+.main_teacher_text h2{
+    font-weight: bold;
+    font-size: 26px;
+    margin: 5px 0 5px 0;
+    color: #4D4D4D;
+}
+.main_teacher_text h3{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0 0 5px 0;
+    color: #4D4D4D;
+}
+.main_teacher_text p{
+    margin: 5px 0px;
+}
+/*=============================
+Academic Class Routine CSS
+================================*/
+.body_part{
+    padding: 0 35px;
+}
+.promotion_heading h3{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.class_routine table tr th {
+    padding: 8px 3px;
+    text-align: center;
+    vertical-align: middle;
+}
+.class_routine table tr td {
+    padding: 3px;
+}
+.class_routine .form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 4px 4px;
+}
+.class_routine tbody tr td select {
+    margin: 2px 0px;
+    padding: 3px 0px; 
+    font-size: 12px;
+    appearance: none;
+    background: #FFFFFF url(images/drop_arro.png) no-repeat 95% 50%;;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none;
+}
+.class_routine tbody tr .tifin_rotate{
+    /*writing-mode: vertical-lr;
+    -webkit-writing-mode: vertical-lr;
+    -ms-writing-mode: vertical-lr;*/
+    
+    text-align: center;
+    vertical-align: middle;
+    padding: 0px 20px;
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+}
+/*=============================
+Academmic Exam Routine CSS
+================================*/
+.color_one{
+    color: green;
+    margin-bottom: 5px;
+    font-size: 12px;
+    padding-top: 5px
+}
+.color_two{
+    color: #F25022;
+    margin-bottom: 0px;
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+.color_three{
+    color: green;
+    margin-bottom: 5px;
+    font-size: 12px;
+    padding-top: 0px
+}
+
+.exam_table table tr th{
+    text-align: center;
+    vertical-align: middle;
+}
+.exam_table .table{
+    margin-bottom: 0px;
+}
+.exam_table table tr td{
+    padding: 4px 3px;
+    text-align: center;
+}
+.exam_table .form-control{
+    padding: 1px;
+    height: 25px;
+}
+.grading_table label{
+    float: left;
+    font-size: 12px;
+}
+.grading_table .form-control{
+    width: 45px;
+    text-align: center;
+}
+.group_table .table{
+    margin-bottom: 0px;
+}
+.group_table table tr td{
+    padding: 5px 3px;
+}
+.group_table .checkbox{
+    padding-top: 3px;
+}
+
+.pagination_list ul{
+    list-style: none;
+    margin-bottom: 0px;
+}
+.pagination_list ul li{
+    display: inline-block;
+}
+.pagination_list ul li p{
+    margin-bottom: 0px;
+}
+.pagination_list .diff p{
+    float: left;
+    margin: 0 0 27px 0;
+}
+.header_top_images img{
+    height: 60px;
+    width: 70px;
+    /*margin: 0 15px;*/
+}
+
+/*=============================
+Academic Section New 
+================================*/
+.single_sec{
+    background-color: #00C0EF;
+    font-size: 16px;
+    padding: 3px 10px;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 0 5px 0 0;
+    float: left;
+}
+/*=============================
+Upload Images View
+================================*/
+.upload_images_view{
+    height: 60px;
+    float: left;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    width: 100%;
+}
+.upload_images_view img{
+    height: 50px;
+}
+
+/*=============================
+Main Header DropDown CSS
+================================*/
+.dropdown-submenu {
+    position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 0px;
+    /*-webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;*/
+}
+.dropdown-submenu > .custome_dropdown_menu {
+    top: 0;
+    left: -100%;
+    margin-top: 0px;
+    margin-left: 1px;
+    border-radius: 0px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 25px;
+    margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+.dropdown-submenu.pull-left {
+    float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+.custome_dropdown_menu .dropdown-menu > li > a {
+    display: block;
+    padding: 10px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+    border-bottom: 1px solid #ddd;
+}
+.custome_dropdown_menu .dropdown-menu{
+    box-shadow: -6px 4px 18px #888888;
+}
+
+.custome_box_header .box-header{
+    padding: 5px 10px;
+}
+.custome_box_header .box{
+    margin-bottom: 5px;
+}
+
+/*=============================
+All Report Heading
+================================*/
+.for_report_hedaing{
+    text-align: center;
+    font-weight: bold;
+    margin: 25px 0px;
+}
+.notifications-menu .menu img{
+    height: 30px;
+    width: 30px;
+}
+
+/*==============================
+Dashboard Design Start
+===================================*/
+
+.dash_logo{
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color: #f5f5f5;
+    border-radius: 35px;
+}
+.dash_logo img{
+    height: 100%;
+    width: 100%;
+}
+.dash_stablish{
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color: #6AC239;
+    border-radius: 35px;
+    padding-top: 15px;
+}
+.dash_sc_address h1, .dash_sc_address p{
+    margin: 10px 0 5px 0px;
+    text-align: center;
+    color: #3E8F5A;
+}
+.dash_stablish h3{
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+
+.dash_sort_info .dash_info_box{
+    margin: 15px 0;
+}
+.dash_info_box{
+    height: 120px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+.dash_info_icon{
+    width: 35%;
+    height: 100%;
+    float: left;
+    padding-left: 10px;
+}
+.dash_info_icon i{
+    font-size: 65px;
+    padding: 27px 0px;
+}
+.dash_info_text{
+    width: 65%;
+    float: left;
+}
+.dash_info_text h2{
+    color: #fff;
+    font-weight: bold;
+    margin: 0px;
+    padding: 24px 0 10px 0;
+    font-size: 35px;
+
+    -moz-transition: all 1.5s ease 0s;
+    -ms-transition: all 1.5s ease 0s;
+    -webkit-transition: all 1.5s ease 0s;
+    transition: all 1.5s ease 0s;
+}
+
+.dash_info_text h4{
+    color: #fff;
+    font-weight: bold;
+    margin: 0px;
+}
+.dash_info_text:hover h2{
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.dash_color_1{
+    background-color: #5B9BD5;
+}
+.dash_color_2{
+    background-color: #70AD47;
+}
+.dash_color_3{
+    background-color: #ED7D31;
+}
+.dash_color_4{
+    background-color: #FF1493;
+}
+
+.dash_common_style{
+    margin: 15px 0px;
+}
+.dash_common_style .table-bordered {
+    border: 1px solid #5B9BD5;
+}
+.dash_common_style .table-bordered > tbody > tr > td{
+    border: 1px solid #5B9BD5;
+}
+
+.dash_single_img_te img{
+    width: 65px;
+    height: 60px;
+    /*border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 5px;*/
+}
+.dash_single_img_te h3{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px 0 0 0;
+    text-align: center;
+}
+.table .only_text{
+    vertical-align: middle;
+}
+.only_text h3{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px 0 0 0;
+}
+.cus_set_sub .col-md-2{
+    padding: 0 5px;
+}
+.dash_set_box{
+    margin-bottom: 15px;
+}
+.dash_set_box .heading{
+    color: #fff;
+    text-align: center;
+    padding: 6px 0;
+}
+.dash_set_box .heading h4{
+    font-size: 16px;
+    margin: 0px;
+}
+.dash_set_box .dash_body{
+    padding: 10px 15px;
+}
+.dash_set_box .dash_body p{
+    margin: 0px;
+}
+
+.dash_color_fade_1{
+    background-color: #D6E1F1;
+}
+.dash_color_fade_2{
+    background-color: #DAF7A6;
+}
+.dash_color_fade_3{
+    background-color: #FFD9A6;
+}
+.dash_color_fade_4{
+    background-color: #FF9BFF;
+}
+.dash_color_fade_5{
+    background-color: #FFFFB7;
+}
+.dash_color_fade_6{
+    background-color: #F9DBD2;
+}
+
+#app{
+    padding: 15px;
+    margin: 15px;
+    background-color: #DAF7A6;
+}
+
+.dash_common_style .users-list a{
+    margin: 10px;
+    font-size: 16px;
+}
+.dash_subject_box{
+    background-color: #F8D7CD;
+    border-radius: 5px;
+    text-align: center;
+    padding: 0 5px 10px 5px;
+    margin-bottom: 15px;
+}
+.dash_subject_box p{
+    padding: 25px 0 15px 0;
+    font-size: 18px;
+    color: #333;
+    text-shadow: 2px 2px 2px #525252;
+}
+.single_sub{
+    border-radius: 5px;
+    margin-bottom: 5px;
+    box-shadow: 2px 2px 5px #6F6F6F;
+}
+.single_sub h4{
+    color: #fff;
+    font-size: 16px;
+    padding: 3px;
+    margin: 0px;
+}
+.dash_common_style .col-md-2{
+    padding: 0 10px;
+}
+.gov_body li{
+    border: 1px solid #ddd;
+}
+.gov_body li img{
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px #b2b2b2;
+}
+.icheckbox_square-blue {
+    background-position: 0 0;
+    border-radius: 5px;
+}
+.icheckbox_square-red {
+    background-position: 0 0;
+    border-radius: 5px;
+}
+
+
+
+.profile-user-img {
+    margin: 0 auto;
+    width: 120px;
+    padding: 3px;
+    border: 3px solid #d2d6de;
+    height: 140px;
+}
+.min_he_sc{
+    display: block;
+    max-height: 550px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+.table_for_sms .checkbox, .radio {
+    position: relative;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.my_btn_custom_left .btn-my_color{
+    width: 100%;
+    background-color: #FF6412;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.my_btn_custom_left .btn-my_color:hover{
+    background-color: #0078D7;
+}
+.my_btn_custom_left .btn.active{
+    background-color: #0078D7;
+}
+
+.messagealert {
+    width: 20%;
+    position: fixed;
+    top: 255px;
+    z-index: 100000;
+    padding: 10px 0px;
+    font-size: 20px;
+    text-align: center;
+    right: 550px;
+}
+
+
+
+
+/*=======================
+Responsive
+===========================*/
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...} 

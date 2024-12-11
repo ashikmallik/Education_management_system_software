@@ -1,0 +1,2665 @@
+/* extra small device */
+@media(max-width:575px){ 
+	/*===========Commom Css===============*/
+	.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+		background: url(../images/Icon/colorbg.svg) !important;
+		background-repeat: no-repeat;
+	}
+	.headerFixTable {
+		height: 340px;
+	}
+	.navSchool a {
+		font-size: 13px;
+	}
+	.fixedquick .stickyNav {
+		position: fixed;
+		width: 100%;
+		z-index: 99;
+		top: 85px;
+	}
+	/* .avatar-imageTop {
+		margin-left: 45px;
+	} */
+	/*==============Commom Css==============*/
+	.passwordHead p {
+		font-size: 10px;
+	}
+	.changepassHead .close {
+		margin-top: -115px;
+	}
+	.changepassHead .modal-title {
+		margin-left: 48%;
+		font-size: 13px;
+	}
+	.side-nav {
+		width: 280px;
+	}
+	.side-nav .side-nav-inner .side-nav-menu>li>a .title {
+		display: inline-block;
+	}
+	.side-nav .side-nav-inner .side-nav-menu li.dropdown .arrow {
+		opacity: 1
+	}
+	.mobilpadding {
+		padding: 0;
+	}
+	.hideshow{
+		display: inline;
+	}
+	.headermobil {
+		display: inline-block;
+		height: 45px;
+	}
+	.navbar-nav {
+		display: inline-block;
+	}
+	.avatarmobil{
+		display: none;
+	}
+	.avatar-imageTop {
+		width: 40%;
+		float: left;
+	}
+	.avatar {
+		height: 39px !important;
+		margin-right: 5px;
+		margin-top: 16px;
+	}
+	.collapse:not(.show) {
+		display: inline-block;
+	}
+	.navbar-nav {
+		display: inline-block;
+	}
+	.scale-left {
+		margin-top: -17px;
+	}
+	.navbar {
+		padding: 0.3rem 0.5rem;
+		/* margin-bottom: 30px; */
+		box-shadow: 0 0 0px 0 #999;
+		background-color: #fff;
+		border-radius: 0px;
+		margin-top: 8px;
+		/* position: fixed; */
+		z-index: 9;
+		left: 0;
+		text-align: center;
+	}
+	.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+		background:transparent;
+	}
+	.header {
+		box-shadow: none;
+	}
+	.navbar-nav li {
+		width: 19%;
+		height: 62px;
+		line-height: 8px;
+		margin-bottom: 5px;
+		margin-right: 0;
+		background: transparent;
+		box-shadow: none;
+		display: inline-block;
+	}
+	.navbar-nav li a img {
+		height: 31px;
+		margin-bottom: 5px;
+		margin-top: 4px;
+	}
+	.navbar-light .navbar-nav .nav-link {
+		font-size: 9px;
+	}
+	.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+		border-bottom: 3px solid #DDDBDC;
+	}
+
+.scholnameDestop{
+    display: none !important;
+}
+.scholnameMobil{
+    display: inline !important;
+}
+.scholnameMobil img {
+	margin-top: 2px;
+	margin-left: 4%;
+	width: 46%;
+}
+.pointer {
+	width: 95px;
+	text-align: left;
+}
+.avatorname p {
+	font-size: 10px;
+}
+.studentprofile {
+	margin-bottom: 11px;
+	/* margin-top: 200px; */
+}
+.attendance {
+    margin-bottom: 11px;
+}
+.payment {
+   margin-bottom: 11px;
+}
+.class-routine {
+	margin-top: 11px;
+}
+.sudentAllinf .nav-link {
+	font-size: 8px;
+}
+.updatesave {
+	bottom: -10px;
+	right: 15px;
+}
+.updatesave img{
+	width: 100px;
+}
+.calenderroutine {
+	width: 40%;
+}
+.Subjectroutine {
+	width: 60%;
+}
+.calenderdateRoutine h4 {
+	margin-left: -6px;
+	font-size: 12px;
+	margin-top: 21px;
+}
+.calenderdateRoutine p {
+	margin-left: -7px;
+	font-size: 9px;
+}
+.subjectName {
+	width: 70%;
+}
+.classTime {
+	width: 30%;
+	white-space: nowrap;
+}
+.studeninfoCheck {
+	position: relative;
+	top: -394px;
+	left: 219px;
+}
+.studeninfoCheck span {
+	font-size: 14px;
+}
+.studentinput h3 {
+	font-size: 18px;
+	padding-left: 10px;
+	margin-top: 20px;
+}
+.studentprofileParentName {
+	padding-left: 8px;
+	margin-top: 16px;
+}
+.studentprofileParentName h4 {
+	font-size: 14px;
+}
+.studentprofileParentName h5 {
+	font-size: 14px;
+}
+.studentprofileParentName h6 {
+	font-size: 14px;
+}
+.updateTime {
+	margin-left: -38px;
+}
+/*==============================================
+Fess Payment
+================================================*/
+/* .fessPayment {
+	margin-top: 179px;
+} */
+.paymentbtn a {
+	padding: 10px 30px;
+}
+.fessTitle h3 {
+	font-size: 17px;
+}
+.fessTitle {
+	width: 56%;
+	margin-top: 4px;
+}
+.voucherBtn {
+	width: 44%;
+	margin-top: 7px;
+}
+.voucherBtn a {
+	padding: 6px 30px;
+}
+/*==============================================
+pay2Fee
+================================================*/
+.pay2feeContact li a {
+	padding: 10px 20px;
+}
+.pay2feeContact {
+	position: absolute;
+	top: 28px;
+	left: 226px;
+}
+.pay2feeBrand img{
+	width: 100px;
+}
+#pay2feeNav {
+	background: transparent;
+	box-shadow: none;
+}
+.pay2feeContact {
+	position: absolute;
+	top: 18px;
+}
+.pay2feebannertext h2 {
+	font-size: 18px;
+	margin-bottom: 22px;
+	margin-top: 2px;
+	text-align: center;
+}
+.chooesPayment h3 {
+	font-size: 16px;
+}
+.chooesPayment h5 {
+	font-size: 16px;
+	margin: 5px 0;
+}
+.chooesPayment img {
+	margin-bottom: 7px;
+	width: 59px;
+	border-radius: 5px;
+}
+.bekashpay {
+	padding: 12px 9px !important;
+}
+.paytwoFeePayment a {
+	padding: 10px 80px;
+}
+.carousel {
+	position: relative;
+	top: 8%;
+	left: 24%;
+}
+.items img {
+	width: 189px;
+	height: 220px;
+}
+.left-pos {
+	/* opacity: .5; */
+	margin-left: -120px !important;
+	z-index: 1000;
+  }
+  .right-pos {
+	/* opacity: .5; */
+	margin-left: 35px !important;
+
+  }
+  .main-pos {
+	margin-top: 20px;
+  }
+  .pay2feeModule {
+	display: none;
+}
+#pay2feeNav button {
+	display: none;
+}
+.modal-title img {
+	margin-left: 19px;
+}
+.pay2feeclose {
+	padding: 10px 54px;
+}
+.pay2feeconfrim {
+	padding: 10px 53px;
+}
+.modal-header::before {
+	position: absolute;
+	content: '';
+	width: 301px;
+	height: 5px;
+}
+.pPortalModalFooter button {
+	padding: 8px 37px;
+}
+.pPortalModal {
+	width: 98% !important;
+}
+/*=============StudentDashbord=============*/
+.studentnameDashbord {
+	height: 65px;
+	margin-top: 15px;
+	padding-left: 10px;
+}
+.basicinformationIteam ul {
+	margin-top: 162px;
+}
+.Curriculum h5 {
+	font-size: 12px;
+	padding: 6px;
+	margin-top: -36px;
+}
+.lastUpdate p {
+	font-size: 16px !important;
+	margin-bottom: 18px;
+}
+.lastUpdate ul li {
+	font-size: 14px;
+	line-height: 28px;
+}
+.dasStuIcon {
+	margin-right: 3px;
+	width: 16px;
+}
+.studentImagedas img {
+	width: 65px;
+	height: 65px;
+}
+.studentImagedas h4 {
+	font-size: 18px;
+	margin-top: 0px;
+	margin-bottom: 16px;
+}
+.studentprofildashbordInner p {
+	font-size: 14px;
+	margin-top: -22px;
+}
+.clickToPage {
+	margin-bottom: 20px;
+}
+.lastUpdate {
+	width: 73%;
+	height: 96px;
+	margin: auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.clickupdate {
+	margin-bottom: 20px;
+}
+.Curriculum p {
+	padding: 0 5px;
+	margin-top: 40px;
+	margin-bottom: 70px !important;
+}
+.clickToPage a {
+	color: #fff;
+	padding: 19px 90px;
+	font-size: 14px;
+}
+.clickupdate a {
+	color: #fff;
+	padding: 19px 87px;
+	font-size: 14px;
+}
+.clickapply a {
+	color: #fff;
+	padding: 19px 90px;
+	font-size: 14px;
+}
+.basicinformationIteam ul li {
+	list-style-type: none;
+	font-size: 14px;
+	line-height: 30px;
+}
+.studentprofildashbord {
+	width: 100%;
+	height: 360px;
+}
+.studentdashText h3 {
+	font-size: 16px;
+}
+.studentdashIconInner {
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
+}
+.studentdashIconInner img{
+	width: 30px;
+}
+.studentdashIcon::before {
+	position: absolute;
+	content: '';
+	width: 176px;
+	top: 58px;
+}
+.studentImagedas img {
+	margin-top: 0px;
+}
+.UpdatestudentImagedas {
+	margin-top: 65px;
+}
+.UpdatestudentImagedas img{
+	width: 77px;
+}
+.studentPillContent {
+    padding: 0 0px;
+}
+.studentPillContent {
+	margin-top: 20px;
+}
+.pPortalModalHead h5 {
+	margin-left: 20%;
+}
+.CurriculumAdd {
+	padding: 6px 30px;
+	margin-top: -40px;
+}
+/*===========================fess DAsbord======================*/
+.fessImagedas {
+	margin-top: 80px;
+}
+.fessImagedas img {
+	width: 77px;
+}
+.fessdasbordamount h3 {
+	font-size: 18px;
+	margin-top: 20px;
+}
+.fessdasbordamount h4 {
+	font-size: 35px;
+}
+.fessdasbordamount::before {
+	position: absolute;
+	content: '';
+	width: 146px;
+}
+.fessdasbordamount h5 {
+	font-size: 21px;
+	margin-top: 25px;
+}
+.fessPayment h3 {
+	font-size: 15px;
+}
+.fessdasamountdate {
+	padding: 0px 0px;
+}
+.amounytpayDate {
+	height: 20px;
+}
+.amounytpayDate img {
+	width: 13px;
+}
+.amounytpayTime img {
+	width: 13px;
+}
+.amounytpayDate h3 {
+	font-size: 13px;
+}
+.amounytpayTime h3{
+	font-size: 13px;
+}
+.fessdasamountdate::before {
+	position: absolute;
+	content: '';
+	width: 199px;
+	top: -22px;
+}
+.fessdasamountdate::after {
+	position: absolute;
+	content: '';
+	width: 199px;
+	bottom: -41px;
+}
+.amounytpayTime {
+	height: 20px;
+}
+.amounytpayDate p {
+	font-size: 15px;
+}
+.amounytpayTime p {
+	font-size: 15px;
+}
+.amounytpayDate h4 {
+	font-size: 21px;
+}
+.amounytpayTime h4 {
+	font-size: 21px;
+}
+
+.paymentby {
+	margin-top: 100px;
+}
+.paymentby h4 {
+	font-size: 15px;
+	margin-top: 4px;
+}
+.lastpayment h4 {
+	font-size: 35px !important;
+}
+.fessdasbordamount img {
+	width: 21px;
+	margin-top: -7px;
+}
+.lastpayment img {
+	width: 20px;
+}
+.lastpayment h3 {
+	font-size: 18px;
+	margin-top: -27px;
+	margin-bottom: -11px;
+}
+.fessdasamountMonthly2 {
+	margin-top: 65px;
+	width: 100%;
+}
+.fessdasamountMonthly {
+	margin-top: 0px;
+	width: 100%;
+}
+.fessPayment {
+	padding: 10px;
+}
+.paymentbtn {
+	margin-bottom: 15px;
+}
+.fessPaymentTable .tableHead{
+	white-space: nowrap;
+}
+.paymentHistoryTale .tableHead{
+	white-space: nowrap;
+}
+.makepaymentBtn {
+	padding: 8px 20px;
+}
+.fessPaymentTable tbody td{
+	white-space: nowrap;
+}
+/*=====================Login page================*/
+.container-login {
+	width: 100%;
+	height: 775px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.loginsliderHeadlogo img {
+	width: 100px;
+	height: 38px;
+}
+.sliderimage {
+	position: relative;
+	margin-top: 13px;
+}
+.sliderimage img {
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	height: 150px;
+}
+#loginportal::before {
+	position: absolute;
+	content: '';
+	width: 100%;
+	height: 225px;
+	border-radius: 0px 0px 55px 0px;
+}
+.loginsliderHead {
+	padding-top: 16px;
+}
+.loginsliderHeadName h3{
+	font-size: 14px;
+}
+.loginsliderHeadName span{
+	font-size: 14px;
+}
+.sliderimage::before {
+	position: absolute;
+	content: '';
+	height: 48px;
+	bottom: -46px;
+}
+.slidertext {
+	bottom: -25px;
+	height: 50px;
+}
+.slidertext h4 {
+	font-size: 12px;
+	text-align: center;
+}
+.slidertext p {
+	font-size: 8px;
+}
+.login-plii{
+	margin-left: -50px;
+}
+.loginschool img {
+	width: 80px;
+	height: 75px;
+	margin-bottom: 4px;
+	margin-top: 57px;
+}
+.loginschool h3 {
+	font-size: 18px;
+	margin-bottom: 25px;
+}
+.logindetails p {
+	font-size: 16px;
+	margin-top: -11px;
+}
+.logininput {
+	width: 89%;
+	height: 35px;
+	padding: 0 0 0 50px;
+	margin-left: 28px;
+	margin-top: -17px;
+}
+.userIcon {
+	bottom: -8px;
+	left: -136px;
+	margin-left: 33px;
+	width: 16px;
+	height: 18px;
+}
+.logindetails BUTTON {
+	width: 89%;
+	height: 35px !important;
+	line-height: 33px !important;
+	margin-left: 10px;
+	margin-top: 4px;
+	position: relative;
+	z-index: 99999;
+}
+.logincheckbox {
+	margin-top: 10px;
+	margin-left: 37px;
+}
+.logincheckbox label {
+	margin-bottom: 20px;
+}
+.googlelogin a {
+	padding: 12px 42px;
+}
+.logintab li a {
+	width: 102px !important;
+	height: 82px !important;
+	margin-right: 11 !important;
+}
+.googlelogin p {
+	margin-bottom: 13px !important;
+	font-size: 16px !important;
+}
+.logintab li a h5 {
+	font-size: 9px;
+}
+.logintab {
+	margin-left: -34px;
+	margin-top: 30px;
+	position: relative;
+	z-index: 99;
+}
+.loginschool h3::before {
+	display: none;
+}
+.googlelogin {
+	margin-bottom: 50px;
+}
+.googlelogin a::before {
+	display: none;
+}
+/* .login-plii {
+	margin-top: -347px;
+	position: relative;
+	z-index: 999;
+} */
+/* .sliderimage {
+	bottom: -672px;
+} */
+.slidertext p{
+	display: none;
+}
+
+#app {
+	margin-left: 30px;
+	margin-top: -16px;
+	margin-bottom: 11px;
+}
+.Varification {
+	margin-top: -2px;
+}
+.Registration {
+	margin-top: -2px;
+}
+#Hideregstion {
+	margin-top: -17px;
+}
+.resetpassHead {
+	margin-top: 50px;
+}
+.resetpassHead p{
+	margin-bottom: 15px;
+}
+/*===========Regpage===========*/
+.Varification::before {
+	position: absolute;
+	content: '';
+	top: 15px;
+	left: 86%;
+}
+.Varification::after {
+	position: absolute;
+	content: '';
+	top: 15px;
+	left: 94%;
+}
+.Registration::after {
+	position: absolute;
+	content: '';
+	top: 15px;
+	left: 2%;
+}
+.studentnameimgdetails {
+	width: 82%;
+	margin-left: 5px;
+}
+.choiseOtp {
+	margin-left: 5px;
+}
+.idmatchname {
+	height: 78px;
+	margin-left: 13px;
+	margin-top: -19px;
+}
+.logindetails p {
+	font-size: 11px;
+	margin-top: -21px;
+	margin-bottom: 5px;
+}
+.studentnameimgdetails h4 {
+	font-size: 11px;
+}
+.studentnameimg img {
+	margin-top: -14px;
+}
+.otpCheckLable {
+	width: 90%;
+}
+.choiseforotp{
+	margin-top: -10px;
+}
+.choiseforotp {
+	margin-top: -29px !important;
+}
+.verifiedmessage {
+	width: 94%;
+	height: 64px;
+	margin-top: -3px;
+	margin-left: 19px;
+}
+.verifiedmessage p{
+	margin-top: -7px !important;
+}
+.restpasMessageInner {
+	margin: 15px 20px;
+	margin-left: 37px;
+}
+#restpassforgot {
+	margin-left: -16px;
+}
+.restpassoption {
+	margin-top: -41px !important;
+	font-size: 14px !important;
+}
+.logintab::before {
+	position: absolute;
+	content: '';
+	width: 297px;
+	top: -13px;
+	left: 16px;
+}
+.sentOtp {
+	margin-left: 22px;
+}
+.motherinfo {
+	padding-left: 5px;
+}
+.motherinfo .studentnameimgdetails {
+	padding-left: 10px;
+}
+.sentOtp {
+	height: 365px;
+}
+.passGenerate {
+	margin-top: 5px !important;
+	font-size: 14px !important;
+	margin-left: -13px;
+}
+.verifiedmessage p::before {
+	position: absolute;
+	content: '';
+	left: 44%;
+	bottom: -10px;
+}
+.studentnameimgdetails p {
+	margin-top: -10px !important;
+	margin-bottom: -7px !important;
+}
+.studentname {
+	width: 100%;
+	height: 34px;
+	margin-top: 15px;
+}
+.forgetOtp {
+    margin-top: 18px !important;
+}
+/*============attandance==========*/
+.studentprofildashbord::before {
+	position: absolute;
+	content: '';
+	width: 92%;
+	height: 45%;
+	right: -7px;
+}
+.fessImagedas img {
+	width: 61px;
+	height: 65px;
+}
+.stuattendancedashbord {
+	height: 360px !important;
+}
+.dashbordTotal {
+	margin-left: -2px;
+	margin-top: -32px;
+}
+.calenderdashbord h6 {
+	margin-bottom: 41px;
+}
+.totalwork p {
+	font-size: 12px !important;
+	padding: 0 0px;
+	margin-top: 3px !important;
+	text-align: center;
+}
+.totalwork h5 {
+	font-size: 18px;
+	text-align: center;
+}
+.shedulingmain {
+	margin-top: 31px;
+}
+.scheduling h3 {
+	font-size: 15px;
+	margin-bottom: 25px;
+	margin-top: -7px;
+}
+.shedulingtime span {
+	font-size: 12px;
+}
+.currentmoth h3 {
+	font-size: 16px !important;
+	margin-bottom: 27px;
+}
+.attendancetotal {
+	margin-top: -82px !important;
+}
+.recentAtnTable .tableHead{
+	white-space: nowrap;
+}
+.absent {
+	width: 74px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 10px;
+}
+.present {
+	width: 74px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 10px;
+}
+.weekend {
+	width: 74px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 10px;
+}
+.Leave {
+	width: 74px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 10px;
+}
+.recentAtnTable .tableHead tr th{
+	padding: 10px 4px;
+}
+.recentAtnTable tbody tr td{
+	padding: 10px;
+}
+.monthlyAttdncTable {
+	height: 420px;
+	overflow-x: scroll;
+}
+/*===========Exam Result============*/
+.previousresultTotal {
+	margin-top: 28px;
+}
+.Currentresultdash {
+	width: 90%;
+}
+.previousresult p {
+	font-size: 9px;
+}
+.previousresult h5 {
+	font-size: 14px;
+}
+.resultmain {
+	padding: 10px 10px;
+}
+.currentButton {
+	padding: 0 10px;
+}
+.currentExam .form-group label {
+	padding-left: 8px;
+	font-size: 11px;
+}
+.currentExam {
+	width: 33%;
+}
+.currentExam .form-group select {
+	margin-left: 19px;
+	padding: 9px 0px;
+	font-size: 10px;
+}
+.middleExam {
+	margin-top: 27px;
+}
+.currentYear .form-group input {
+	width: 100%;
+	text-align: left;
+	padding: 9px 12px;
+	font-size: 10px;
+}
+.currentYear label{
+	font-size: 11px;
+}
+.resulttotal {
+	width: 50%;
+}
+.protalBtnCancel {
+	padding: 9px 18px;
+	margin-right: -1px;
+	font-size: 11px;
+}
+.protalBtnSave {
+	padding: 9px 21px;
+	color: #fff;
+	font-size: 11px;
+}
+.currentButton {
+	width: 47%;
+	margin-top: 31px;
+	padding: 0;
+}
+.resulttotal p {
+	font-size: 10px;
+}
+.resulttotal h3 {
+	font-size: 9px;
+	margin-top: -13px;
+}
+.resulttotal h4 {
+	font-size: 9px;
+}
+.yearlyResultMain {
+	padding: 10px 0px 10px 10px;
+	height: 77px;
+}
+.resulttotal2 {
+	width: 30%;
+}
+.gread {
+	width: 50%;
+	height: 54px;
+}
+.gread p {
+	font-size: 12px;
+	margin-left: 2px;
+}
+.gread h3 {
+	font-size: 12px;
+	margin-top: -15px;
+	margin-left: 4px;
+}
+.positionimg {
+	width: 50%;
+}
+.positionimg img {
+	padding-left: 1px;
+	width: 40px;
+	margin-top: 5px;
+}
+.resulttotalView {
+	width: 20%;
+	height: 75px;
+}
+.resulttotalView img {
+	height: 75px;
+	margin-top: 10px;
+}
+.resultViewOverlay a {
+	font-size: 13px;
+	line-height: 75px;
+}
+.resultViewOverlay {
+	margin-top: 10px;
+}
+.resulttotal h3::before {
+	position: absolute;
+	content: '';
+	width: 100px;
+	top: 18px;
+}
+.resultAnalysisTap .nav-link {
+	font-size: 6px;
+}
+.resultAnalysisTap .nav-link img{
+	margin-right: 6px;
+}
+.tableHead tr th:first-child{
+	width: 5% !important;
+}
+.anylaysictotalresult .table-responsive{
+	overflow: scroll;
+	white-space: nowrap;
+}
+.previousExam input {
+	padding-left: 5px !important;
+	font-size: 9px;
+	width: 74px;
+}
+.previousExam {
+	width: 25%;
+}
+.previousExamYear {
+	width: 28%;
+}
+.previousExamYear label {
+	margin-left: -33px;
+}
+.previousExamYear select {
+	width: 87%; 
+	font-size: 10px;
+	padding: 8px 4px;
+}
+.viewResultPre a {
+	padding: 7px 45.2%
+}
+.viewResultPre {
+	margin-top: -26px;
+}
+.previousResultMain {
+	margin-bottom: 0 !important;
+	height: 108px !important;
+}
+.ResultPreviousTotal2 {
+	margin-left: 48px;
+}
+.yearlyPreviousResult {
+	height: 100%;
+}
+.yearlyPreviousResult h2 {
+	padding: 0px 5px;
+	font-size: 18px;
+}
+/*============bekashInvoice===========*/
+.bkspayment {
+	width: 100%;
+	padding: 0 0px;
+	height: 195px;
+	margin-top: 50px;
+}
+.appsimage img {
+	top: -43px;
+	left: 22px;
+	width: 122px;
+	height: 236px;
+}
+.appInvoice label {
+	font-size: 11px;
+}
+.appInvoice h3 {
+	font-size: 14px;
+	margin-top: -10px;
+	margin-bottom: 5px;
+}
+.totalFee {
+	padding-left: 0px;
+}
+.totalFee label {
+	margin-left: -82px;
+}
+.totalFee h4 {
+	font-size: 14px;
+	margin-top: 35px;
+	margin-left: -85px;
+	margin-bottom: 3px;
+}
+.totalFee p {
+	font-size: 14px;
+	margin-top: -10px;
+	margin-left: -87px;
+}
+.appInvoice p {
+	font-size: 12px;
+	margin-top: -10px;
+}
+.paymentdetails::before {
+	position: absolute;
+	content: '';
+	width: 60%;
+	top: -42px;
+	left: 9px;
+	background: url(../images/pay2fee/bekas2mobil.png);
+	background-repeat: no-repeat;
+}
+.chechoutBtn {
+	margin-top: 222px;
+	margin-left: 39%;
+}
+.chechoutBtn a {
+	padding: 10px 35px;
+	font-size: 13px;
+}
+.appsPay {
+	height: 400px;
+}
+.BksFeesPayment h3 {
+	font-size: 17px;
+}
+.appInvoice {
+	margin-top: -12px;
+}
+.bkshcharge h5 {
+	font-size: 12px;
+	margin-top: 32px;
+}
+.totalAmount h5 {
+	font-size: 12px;
+}
+.totalAmount {
+	margin-top: 51px;
+	margin-left: -84px;
+}
+/*=============request================*/
+.requestTableHead h3{
+	font-size: 13px;
+}
+.addstuinfBtn a {
+	padding: 12px 10px;
+	font-size: 10px;
+}
+.reqSeach {
+	width: 30%;
+	margin-right: 8px;
+}
+.reqSeach::before {
+	display: none;
+}
+.requestbtnHead {
+	width: 100%;
+	float: left;
+}
+.reqheadNumber {
+	display: none;
+}
+.totalRequest h3 {
+	font-size: 12px;
+	margin-bottom: 20px;
+}
+.totalRequest h4 {
+	font-size: 12px;
+}
+.totalRequest h5 {
+	font-size: 11px;
+	margin-top: 12px;
+}
+.totalRequest h6 {
+	font-size: 12px;
+	margin-top: -3px;
+}
+.requestCheck {
+	margin-top: -6px;
+}
+.requestCheck label {
+	font-size: 12px;
+}
+.requestapprove {
+	padding-left: 15px;
+}
+.totalRequest img {
+	margin-right: 7px;
+	width: 15px;
+}
+.datereq{
+	margin-left: 0px;
+}
+.statusReq{
+	margin-left: 0px;
+}
+.requestTable {
+	height: 40px;
+	margin-top: 9px;
+}
+.reqSeach input {
+	padding-left: 1px !important;
+	font-size: 9px;
+}
+.newRequestTable .tableHead{
+	white-space: nowrap;
+}
+.rejected {
+	width: 75px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 10px;
+
+}
+.pending {
+	width: 75px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 10px;
+
+}
+.approved {
+	width: 75px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 10px;
+
+}
+.pPortalModalBody .form-group {
+	margin-bottom: 5px;
+}
+/*==========Message ===============*/
+.noticeDashbord {
+	height: 39px;
+}
+.studentprofildashbordInner p {
+	font-size: 12px;
+	margin-top: 12px;
+}
+.smsall {
+	width: 100%;
+	height: 40px;
+}
+.smsTime {
+	padding-left: 39px;
+}
+.smsDate h3 {
+	font-size: 12px;
+}
+.smsTime h3 {
+	font-size: 12px;
+}
+.smsDate h4 {
+	font-size: 14px;
+}
+.smsTime h4 {
+	font-size: 14px;
+}
+.smsDate img {
+	width: 14px;
+}
+.smsTime img {
+	width: 14px;
+}
+.sendsms p {
+	font-size: 11px;
+	padding: 0 33px;
+	margin-top: 18px;
+}
+.totalNotice p {
+	font-size: 10px !important;
+}
+.totalNotice span {
+	font-size: 10px;
+}
+.UnreadNotice p{
+	font-size: 10px !important;
+}
+.UnreadNotice span {
+	font-size: 10px;
+}
+.readNotice p{
+	font-size: 10px !important;
+}
+.readNotice span {
+	font-size: 10px;
+}
+.clickHereNotice p {
+	font-size: 12px !important;
+	padding: 0 35px;
+	margin-top: -6px !important;
+}
+.totalCircular p {
+	font-size: 12px !important;
+}
+.readCircular p {
+	font-size: 12px !important;
+}
+.circular h4 {
+	font-size: 11px;
+}
+.circularType p {
+	font-size: 12px !important;
+	color: #FF6680;
+	margin-top: 31px !important;
+}
+.circularType h4 {
+	font-size: 13px;
+	margin-bottom: 14px;
+}
+.historyPage {
+	width: 23%;
+}
+.historySearch {
+	width: 76%;
+	margin-top: 34px;
+	margin-left: 1px;
+}
+.smsType {
+	width: 43% !important;
+	margin-right: 5px;
+	margin-left: 13px;
+}
+.smsType .form-control {
+	padding-left: 3px !important;
+}
+.smsInDate .form-control {
+	padding-left: 5px !important;
+}
+.smsType input::placeholder{
+	font-size: 9px;
+}
+.smsInDate input::placeholder{
+	font-size: 10px;
+}
+.smsDate {
+	width: 45% !important;
+	margin-left: 0%;
+}
+.smsDate .form-control {
+	padding-left: 25px !important;
+}
+.smsDate input::placeholder{
+	font-size: 8px;
+}
+.noticeTableHead h3 {
+	font-size: 16px;
+	padding-top: 10px;
+}
+.noticeSearch .noticeType {
+	width: 29%;
+	padding: 9px 0px;
+}
+.noticeDate {
+	width: 29% !important;
+	margin-left: 1%;
+	padding: 9px 0;
+}
+.noticePage .form-group {
+	width: 64%;
+}
+.RequestSearch {
+	height: 65px;
+}
+.smsInDate {
+	width: 41% !important;
+	margin-left: 3%;
+}
+.tableHead {
+	font-size: 10px;
+}
+.noticePage .form-group label{
+	margin-left: -50px;
+}
+.noticePage .form-group select {
+	margin-top: -34px;
+	padding: 7px 4px;
+	width: 77%;
+}
+.noticeType .form-control {
+	padding-left: 5px !important;
+}
+.noticeDate .form-control {
+	padding-left: 5px !important;
+}
+.noticeType input::placeholder{
+	font-size: 9px;
+}
+.noticeDate input::placeholder{
+	font-size: 9px;
+}
+.noticeView {
+	padding: 7px 7px;
+}
+.noticeView img {
+	width: 35px;
+}
+.table-responsive tr td {
+	font-size: 11px;
+}
+.smsHistoryTable .tableHead{
+	white-space: nowrap;
+}
+.circulanNews {
+	margin-top: 7px;
+}
+.historyPage select {
+	padding: 6px 4px;
+}
+.smsHistoryTable .tableHead tr th:nth-child(2) {
+	padding: 15px 75px;
+	text-align: center;
+}
+
+/*=====================LMS Module===================*/
+.liveclassApply {
+	padding: 0 21px;
+}
+.lmsHomework h4 {
+	font-size: 11px;
+	margin-top: 14px;
+	margin-left: 0px;
+}
+
+.lmsClassroom .smsTime h4 {
+	font-size: 12px;
+}
+
+}
+
+
+
+
+
+
+
+
+/* small device */
+@media(min-width:576px) and (max-width:767px){
+    
+
+}
+
+
+/* medium device */
+@media(min-width:768px) and (max-width:991px){ 
+	
+ }
+
+
+/* medium device */
+@media(min-width:992px) and (max-width:1366px){ 
+	.side-nav {
+		width: 80px;
+	}
+	.page-container {
+		padding-left: 80px;
+	}
+	.navbar-light .navbar-nav .nav-link {
+		font-size: 11px;
+		font-weight: 700;
+	}
+	.navbar-nav li {
+		width: 10%;
+		height: 95px;
+		margin-right: 10px;
+		line-height: 31px;
+		overflow: hidden;
+	}
+	.studentprofile {
+		padding: 16px 0px 16px 10px;
+	}
+	.parentsImg img {
+		width: 68px;
+		height: 68px;
+	}
+	.studentprofileParentName h4 {
+		font-size: 12px;
+	}
+	.studentprofileParentName h5 {
+		font-size: 12px;
+	}
+	.studentprofileParentName h6 {
+		font-size: 12px;
+	}
+	.studentprofileParentName {
+		padding-left: 26px;
+		margin-top: 21px;
+	}
+	.totalamount p {
+		font-size: 22px;
+	
+	}
+	.totalamount {
+		height: 45px;
+	}
+	.fessdashbordleft h5 {
+		font-size: 14px;
+		margin-bottom: 30px;
+	}
+	.fessdashbordRight h5 {
+		font-size: 14px;
+		margin-bottom: 30px;
+	}
+	.subjectName p {
+		font-size: 13px;
+	}
+	.calenderdateRoutine h4 {
+		font-size: 12px;
+		margin-top: 19px;
+	}
+	.calenderdateRoutine p {
+		font-size: 9px;
+	}
+	.profilinfName h4 {
+		font-size: 19px;
+	}
+	.stuinfomain {
+		height: 50px;
+	}
+	.studentclasssinfopartr1 h4 {
+		font-size: 13px;
+	}
+	.studentclasssinfopartr1 h5 {
+		font-size: 15px;
+	}
+	.studentclasssinfopartr2 {
+		padding: 2px 15px;
+	}
+	.studentclasssinfopartr1 {
+		padding: 2px 14px;
+	}
+	.studentclasssinfopartr2 h4 {
+		font-size: 13px;
+	}
+	.studentclasssinfopartr2 h5 {
+		font-size: 15px;
+	}
+	.side-nav .side-nav-inner .side-nav-menu > li > a .icon-holder {
+		margin: 7px;
+	}
+	.inneractive {
+		padding: 4px 0;
+	}
+	/*====================*/
+	.studentclassinf {
+		width: 100%;
+		height: 335px;
+	}
+	.subjectName {
+		width: 65%;
+	}
+	.classTime {
+		width: 35%;
+	}
+	.basicinformationIteam {
+		margin-top: -36px;
+	}
+	.studentprofildashbord {
+		height: 412px;
+	}
+	.studentprofildashbord::before {
+		position: absolute;
+		content: '';
+		height: 38%;
+		right: -83px;
+	}
+	.studentnameDashbord {
+		height: 65px !important;
+		padding-left: 16px;
+	}
+	
+	.studentImagedas img {
+		width: 70px;
+		height: 70px;
+		margin-top: 1px;
+	}
+	.studentImagedas h4 {
+		font-size: 16px;
+		margin-top: 15px;
+	}
+	.studentprofildashbordInner p {
+		font-size: 14px;
+	}
+	.basicinformationIteam ul li {
+		font-size: 14px;
+		line-height: 28px;
+		margin-top: 8px;
+	}
+	.UpdatestudentImagedas {
+		margin-top: 76px;
+	}
+	.UpdatestudentImagedas img {
+		width: 76px;
+	}
+	.lastUpdate {
+		margin: 11px 5%;
+		width: 93%;
+		height: 110px;
+		margin-bottom: 33px;
+	}
+	.Curriculum p {
+		padding: 0 6px;
+		margin-bottom: 11px;
+	}
+	.Curriculum h5 {
+		font-size: 16px;
+		width: 95%;
+		margin-top: 33px;
+	}
+	.lastUpdate p{
+		font-size: 18px !important;
+	}
+	.lastUpdate ul li{
+		font-size: 16px;
+	}
+	.updateTime {
+		margin-left: -42px;
+	}
+	.dasStuIcon {
+		margin-right: 6px;
+		width: 19px;
+	}
+	.studentdashText h3 {
+		margin-left: 18px;
+		font-size: 18px;
+	}
+	.fessdasbordamount h4 {
+		font-size: 28px;
+		margin-top: -15px;
+	}
+	.fessdasbordamount h3 {
+		font-size: 16px;
+		margin-top: 15px;
+		margin-bottom: 17px;
+	}
+	.studentdashIcon::before {
+		position: absolute;
+		content: '';
+		top: 65px;
+	}
+	.lastpayment p {
+		font-size: 14px;
+		margin-top: -36px;
+	}
+	.fessImagedas {
+		margin-top: 83px;
+	}
+	.fessImagedas img {
+		width: 81px;
+		height: 90px;
+	}
+	.clickToPage a {
+		padding: 19px 100px;
+	}
+	.clickupdate a {
+		padding: 19px 77px;
+	}
+	.clickapply a {
+		padding: 19px 77px;
+	}
+	.fessdasbordamount::before {
+		position: absolute;
+		content: '';
+		width: 174px;
+	}
+	.fessdasamountdate {
+		padding: 0 0px;
+	}
+	.amounytpayTime img {
+		margin-right: 7px;
+		width: 21px;
+	}
+	.amounytpayDate img {
+		margin-right: 6px;
+		width: 21px;
+	}
+	.amounytpayDate h3 {
+		font-size: 16px;
+	}
+	.paymentby h4 {
+		font-size: 16px;
+	}
+	.amounytpayTime h3 {
+		font-size: 16px;
+	}
+	.fessdasamountdate::before {
+		position: absolute;
+		content: '';
+		width: 185px;
+	}
+	.fessdasamountdate::after {
+		position: absolute;
+		content: '';
+		width: 185px;
+	}
+	.amounytpayDate p {
+		font-size: 18px;
+		margin-bottom: 17px;
+	}
+	.amounytpayDate h4 {
+		font-size: 30px;
+	}
+	.amounytpayTime p {
+		font-size: 16px;
+		margin-bottom: 17px;
+	}
+	.amounytpayTime h4 {
+		font-size: 25px;
+	}
+	.amounytpayDate {
+		width: 65%;
+	}
+	.lastpayment h3 {
+		margin-top: -48px;
+		margin-bottom: 37px;
+		font-size: 18px;
+	}
+	.lastpayment h4 {
+		font-size: 28px !important;
+	}
+	.lastpayment img {
+		width: 22px;
+	}
+	.fessdasbordamount img {
+		width: 15px;
+	}
+	.paymentby p {
+		margin-top: 123px;
+		margin-bottom: 5px;
+	}
+	.fessdasamountMonthly{
+		width: 100%;
+	}
+	.fessdasamountMonthly2 {
+		margin-top: 95px;
+		width: 100%;
+	}
+	/*==================Loginpage================*/
+	.logininput {
+		width: 370px;
+		height: 40px;
+		margin: auto;
+	}
+	.userIcon {
+		bottom: -31px;
+		left: -155px;
+	}
+	.googlelogin {
+		margin-bottom: 62px;
+	}
+	.loginsliderHead {
+		padding-top: 26px;
+	}
+	.loginschool img {
+		margin-top: 25px;
+		width: 83px;
+		height: 80px;
+	}
+	.loginschool h3 {
+		font-size: 23px;
+	}
+	.studentnameimgdetails p {
+		font-size: 12px !important;
+		margin-bottom: -7px;
+	}
+	.logininput {
+		margin-bottom: -11px;
+	}
+	.logincheckbox {
+		margin-top: 11px;
+		margin-left: 83px;
+	}
+	.logincheckbox label {
+		margin-bottom: 34px;
+	}
+	.logintab {
+		margin-top: 35px;
+	}
+	.loginfooter p {
+		margin-top: -45px;
+	}
+	.googlelogin a::before {
+		position: absolute;
+		content: '';
+		top: 60px;
+	}
+	#app {
+		margin-top: -5px;
+		margin-bottom: 36px;
+		margin-left: 90px;
+	}
+	.loginfooter {
+		width: 100%;
+		bottom: 0;
+	}
+	.passCharacter {
+		margin-top: 18px !important;
+		margin-left: 103px;
+	}
+	.sentOtp {
+		width: 86%;
+		height: 438px;
+		margin-left: 65px;
+	}
+	.idmatchname {
+		width: 91%;
+		height: 114px;
+	}
+	.choiseOtp p {
+		margin-bottom: 8px;
+		margin-top: -5px;
+	}
+	.otpCheckLable {
+		width: 49%;
+		height: 30px;
+		line-height: 30px; 
+	}
+	.verifiedmessage {
+		width: 87%;
+		margin-left: 40px;
+	}
+	.verifiedmessage p::before {
+		position: absolute;
+		content: '';
+		left: 45%;
+	}
+	.passGenerate {
+		padding-left: 85px;
+	}
+	/*========all button============*/
+	.LoginhereBtn {
+		width: 370px;
+		height: 40px;
+		line-height: 40px;
+	}
+	.regSubmit {
+		width: 370px;
+		height: 40px !important;
+		line-height: 40px !important;
+	}
+	.otpSend {
+		width: 418px;
+		height: 40px !important;
+		line-height: 40px !important;
+		margin-left: -13px;
+	}
+	.RegisterLogin {
+		width: 370px;
+		height: 40px !important;
+		line-height: 40px !important;
+		margin-top: 20px !important;
+	}
+	.SubmitOtp {
+		width: 370px;
+		height: 40px !important;
+		line-height: 40px !important;
+	}
+	.forgetOtp {
+		width: 370px;
+		height: 40px !important;
+		line-height: 40px !important;
+	}
+	.Registerconform {
+		width: 370px;
+		height: 40px !important;
+		line-height: 40px !important;
+		margin-top: 20px !important;
+	}
+
+	/*==============attandance===============*/
+	.stuattendancedashbord {
+		height: 412px !important;
+	}
+	.dashbordTotal {
+		margin-left: 11px;
+	}
+	.totalwork p {
+		font-size: 12px !important;
+		padding: 0 14px;
+		padding-left: 0;
+	}
+	.shedulingtime span {
+		font-size: 14px;
+	}
+	.attendancetotal {
+		margin-top: 82px;
+	}
+	.ResultPreviousTotal p {
+		font-size: 16px;
+	}
+	.ResultPreviousTotal h3 {
+		font-size: 16px;
+	}
+	.ResultPreviousTotal h4 {
+		font-size: 14px;
+	}
+	.gratePrevious p {
+		font-size: 18px;
+		margin-left: 8px;
+	}
+	.gratePrevious h3 {
+		font-size: 18px;
+		margin-top: -20px;
+		margin-left: 10px;
+	}
+	.gratePrevious {
+		height: 68px
+	}
+	.ResultPreviousTotal2 .positionimg img {
+		padding-left: 9px;
+		width: 72px;
+	}
+	.ResultPreviousTotal h3::before {
+		position: absolute;
+		content: '';
+		width: 161px;
+		top: 27px;
+	}
+	.previousResultMain {
+		height: 145px;
+	}
+	.viewResultPre a {
+		padding: 10px 46.1%;
+	}
+	/*=================Result page================*/
+	.Currentresultdash {
+		width: 80%;
+	}
+	.previousresult h5 {
+		font-size: 17px;
+	}
+	.currentExam .form-group label {
+		padding-left: 72px;
+	}
+	.currentYear .form-group input {
+		width: 70%;
+	}
+
+	/*===========Request================*/
+	.totalRequest h3 {
+		font-size: 14px;
+	}
+	.totalRequest h4 {
+		font-size: 14px;
+	}
+	.totalRequest h5 {
+		font-size: 13px;
+	}
+	.totalRequest h6 {
+		font-size: 14px;
+	}
+	.requestapprove {
+		padding-left: 12px;
+	}
+	.requestCheck label {
+		font-size: 14px;
+	}
+	.totalRequest img {
+		margin-right: 7px;
+		width: 17px;
+	}
+	.requestCheck {
+		margin-top: -7px;
+	}
+	.addstuinfBtn a {
+		padding: 12px 10px;
+	}
+	.reqheadNumber select {
+		width: 40%;
+	}
+	.datereq {
+		margin-left: 53px;
+	}
+	.statusReq {
+		margin-left: 102px;
+	}
+
+/*=================Message Module==============*/
+
+.smsall {
+	height: 65px;
+}
+.smsTime {
+	padding-left: 17px;
+}
+.smsDate h3 {
+	font-size: 12px;
+}
+.smsTime h3 {
+	font-size: 12px;
+}
+.smsDate h4 {
+	font-size: 14px;
+	margin-top: -5px;
+}
+.smsDate img {
+	width: 15px;
+}
+.smsTime img {
+	width: 15px;
+}
+.smsTime h4 {
+	font-size: 14px;
+	margin-top: -5px;
+}
+.sendsms p {
+	font-size: 13px !important;
+	padding: 0 20px;
+}
+.smsHisory h4 {
+	margin-bottom: 22px;
+}
+.noticeDashbord {
+	height: 65px;
+}
+.totalNotice p {
+	font-size: 16px !important;
+}
+.UnreadNotice p{
+	font-size: 16px !important;
+}
+.readNotice p{
+	font-size: 16px !important;
+}
+.clickHereNotice p {
+	font-size: 16px !important;
+	padding: 0 7px;
+	margin-top: 22px;
+}
+.circularType p {
+	margin-top: 37px;
+}
+.circularType h4 {
+	margin-bottom: 18px;
+}
+.smsType .form-control {
+	padding-left: 28px;
+	font-size: 10px;
+}
+
+.smsInDate .form-control {
+	padding-left: 28px;
+	font-size: 10px;
+}
+.reqSeach::before {
+	position: absolute;
+	content: '';
+	width: 17%;
+	height: 43%;
+}
+/*=============bkspayment=========*/
+.appsimage img {
+	left: 0px;
+}
+.bkspayment {
+	width: 80%;
+}
+.appsimage {
+	width: 40%;
+	float: left;
+}
+.paymentdetails {
+	width: 60%;
+	padding-left: 65px;
+}
+.totalFee {
+	padding-left: 63px;
+}
+.paymentdetails::before {
+	position: absolute;
+	content: '';
+	top: -107px;
+	left: 104px;
+}
+/*=============LMS Modue============*/
+.liveclassApply {
+	padding: 0 45px;
+}
+.liveclassApply p {
+	margin-bottom: 12px;
+}
+.lmsHomework h4 {
+	font-size: 13px;
+	margin-left: 0px;
+}
+.lmsClassroom .smsTime h4 {
+	font-size: 13px;
+}
+}
+
+
+
+
+
+
+
+
+
+/* medium device */
+@media(min-width:1367px) and (max-width:1800px){ 
+	.side-nav {
+		width: 80px;
+	}
+	.page-container {
+		padding-left: 80px;
+	}
+	.navbar-light .navbar-nav .nav-link {
+		font-size: 11px;
+		font-weight: 700;
+	}
+	.navbar-nav li {
+		width: 10%;
+		height: 95px;
+		margin-right: 10px;
+		line-height: 31px;
+		overflow: hidden;
+	}
+	.studentprofile {
+		padding: 16px 0px 16px 10px;
+	}
+	.parentsImg img {
+		width: 68px;
+		height: 68px;
+	}
+	.studentprofileParentName h4 {
+		font-size: 12px;
+	}
+	.studentprofileParentName h5 {
+		font-size: 12px;
+	}
+	.studentprofileParentName h6 {
+		font-size: 12px;
+	}
+	.studentprofileParentName {
+	
+		padding-left: 14px;
+		margin-top: 8px;
+	}
+	.totalamount p {
+		font-size: 22px;
+	
+	}
+	.totalamount {
+		height: 45px;
+	}
+	.fessdashbordleft h5 {
+		font-size: 15px;
+		margin-bottom: 30px;
+	}
+	.fessdashbordRight h5 {
+		font-size: 15px;
+		margin-bottom: 30px;
+	}
+	.subjectName p {
+		font-size: 13px;
+	}
+	.calenderdateRoutine h4 {
+		font-size: 12px;
+		margin-top: 19px;
+	}
+	.calenderdateRoutine p {
+		font-size: 9px;
+	}
+	.profilinfName h4 {
+		font-size: 19px;
+	}
+	.stuinfomain {
+		height: 50px;
+	}
+	.studentclasssinfopartr1 h4 {
+		font-size: 13px;
+	}
+	.studentclasssinfopartr1 h5 {
+		font-size: 15px;
+	}
+	.studentclasssinfopartr2 {
+		padding: 2px 15px;
+	}
+	.studentclasssinfopartr1 {
+		padding: 2px 14px;
+	}
+	.studentclasssinfopartr2 h4 {
+		font-size: 13px;
+	}
+	.studentclasssinfopartr2 h5 {
+		font-size: 15px;
+	}
+	.side-nav .side-nav-inner .side-nav-menu > li > a .icon-holder {
+		margin: 7px;
+	}
+	.inneractive {
+		padding: 4px 0;
+	}
+/*====================*/
+.studentclassinf {
+	width: 100%;
+	height: 335px;
+}
+.subjectName {
+	width: 65%;
+}
+.classTime {
+	width: 35%;
+}
+.studentnameDashbord {
+	height: 97px;
+	padding-left: 16px;
+}
+.studentImagedas img {
+	width: 85px;
+	height: 85px;
+	margin-top: 8px;
+}
+.studentprofildashbord {
+	width: 100%;
+	height: 410px;
+}
+.studentImagedas h4 {
+	font-size: 18px;
+	margin-top: 28px;
+}
+.Curriculum h5 {
+	width: 91%;
+	font-size: 16px;
+	margin-top: 13px;
+}
+.UpdatestudentImagedas {
+	margin-top: 80px;
+}
+.UpdatestudentImagedas img {
+	width: 91px;
+}
+.lastUpdate {
+	margin: 15px 10%;
+	width: 298px;
+	height: 106px;
+}
+.updateTime {
+	margin-left: -42px;
+}
+.Curriculum p {
+	padding: 0 6px;
+}
+.studentprofildashbord::before {
+	position: absolute;
+	content: '';
+	width: 75%;
+	height: 33%;
+	top: 0px;
+	right: 0px;
+}
+.studentdashText h3 {
+	margin-left: 3px;
+}
+.studentdashIcon::before {
+	position: absolute;
+	content: '';
+	top: 69px;
+	left: 14px;
+}
+.lastpayment h4 {
+	font-size: 28px;
+}
+.amounytpayDate img {
+	width: 17px;
+}
+.amounytpayTime img {
+	width: 17px;
+}
+.clickToPage a {
+	padding: 19px 100px;
+}
+.clickupdate a {
+	padding: 19px 101px;
+}
+.clickapply a {
+	padding: 19px 101px;
+}
+
+.fessdasamountMonthly{
+	margin-top: 35px;
+}
+.paymentby {
+	margin-top: 157px;
+}
+.fessdasbordamount::before {
+	position: absolute;
+	content: '';
+	width: 154px;
+	left: 29%;
+}
+.fessdasbordamount h4 {
+	margin-bottom: 45px;
+}
+.paymentby p {
+	margin-top: -25px;
+}
+.amounytpayTime {
+	margin-bottom: 3px;
+}
+.fessdasamountdate {
+	padding: 0 0px;
+}
+.amounytpayDate h3 {
+	font-size: 17px;
+}
+.amounytpayTime h3 {
+	font-size: 17px;
+}
+.fessdasamountdate::before {
+	position: absolute;
+	content: '';
+	width: 185px;
+	left: 25%;
+}
+.fessdasamountdate::after {
+	position: absolute;
+	content: '';
+	width: 185px;
+	left: 25%;
+}
+.amounytpayDate p {
+	font-size: 20px;
+}
+.amounytpayDate h4 {
+	font-size: 20px;
+}
+.amounytpayTime p {
+	font-size: 18px;
+}
+.amounytpayTime h4 {
+	font-size: 20px;
+}
+.amounytpayDate {
+	width: 65%;
+}
+.totalwork p {
+	padding: 0 15px;
+}
+.stuattendancedashbord {
+	height: 410px !important;
+}
+.dashbordTotal {
+	margin-left: 8px;
+}
+.studentprofildashbordInner p {
+	font-size: 13px;
+}
+.shedulingtime span {
+	font-size: 15px;
+}
+.totalwork h5 {
+	font-size: 18px;
+	margin-left: 16px;
+}
+.fessImagedas {
+	margin-top: 95px;
+}
+.lastpayment {
+	margin-top: 97px;
+}
+.lastUpdate p {
+	font-size: 18px !important;
+}
+.lastUpdate ul li {
+	line-height: 34px;
+	font-size: 16px;
+}
+/*==================Loginpage================*/
+.loginsliderHead {
+	padding-top: 26px;
+}
+.loginschool img {
+	margin-top: 25px;
+}
+.loginschool h3 {
+	font-size: 23px;
+}
+.studentnameimgdetails p {
+	font-size: 12px !important;
+	margin-bottom: -7px;
+}
+.logininput {
+	margin-bottom: -11px;
+}
+.logincheckbox {
+	margin-top: 11px;
+}
+.logincheckbox label {
+	margin-bottom: 34px;
+}
+.logintab {
+	margin-top: 35px;
+}
+.loginfooter p {
+	margin-top: -45px;
+}
+.googlelogin a::before {
+	position: absolute;
+	content: '';
+	top: 60px;
+}
+.loginfooter {
+	width: 100%;
+	bottom: 0;
+}
+/*=================Result page================*/
+.Currentresultdash {
+	width: 80%;
+}
+.previousresult h5 {
+	font-size: 17px;
+}
+.currentExam .form-group label {
+	padding-left: 72px;
+}
+.currentYear .form-group input {
+	width: 70%;
+}
+
+.ResultPreviousTotal p {
+	font-size: 16px;
+}
+.ResultPreviousTotal h3 {
+	font-size: 16px;
+}
+.ResultPreviousTotal h4 {
+	font-size: 14px;
+}
+.gratePrevious p {
+	font-size: 18px;
+	margin-left: 8px;
+}
+.gratePrevious h3 {
+	font-size: 18px;
+	margin-top: -20px;
+	margin-left: 10px;
+}
+.gratePrevious {
+	height: 68px
+}
+.ResultPreviousTotal2 .positionimg img {
+	padding-left: 9px;
+	width: 72px;
+}
+.ResultPreviousTotal h3::before {
+	position: absolute;
+	content: '';
+	width: 161px;
+	top: 27px;
+}
+.previousResultMain {
+	height: 145px;
+}
+.viewResultPre a {
+	padding: 10px 46.2%;
+}
+/*===========Request================*/
+	.totalRequest h3 {
+		font-size: 14px;
+	}
+	.totalRequest h4 {
+		font-size: 14px;
+	}
+	.totalRequest h5 {
+		font-size: 13px;
+	}
+	.totalRequest h6 {
+		font-size: 14px;
+	}
+	.requestapprove {
+		padding-left: 12px;
+	}
+	.requestCheck label {
+		font-size: 14px;
+	}
+	.totalRequest img {
+		margin-right: 7px;
+		width: 17px;
+	}
+	.requestCheck {
+		margin-top: -7px;
+	}
+	.addstuinfBtn a {
+		padding: 12px 15px;
+	}
+	.reqheadNumber select {
+		width: 40%;
+	}
+	.datereq {
+		margin-left: 5%;
+	}
+	.statusReq {
+		margin-left: 9%;
+	}
+	.attendancetotal {
+		margin-top: 87px;
+	}
+/*=================Message Module==============*/
+.smsall {
+	height: 65px;
+}
+.smsTime {
+	padding-left: 17px;
+}
+.smsDate h3 {
+	font-size: 12px;
+}
+.smsTime h3 {
+	font-size: 12px;
+}
+.smsDate h4 {
+	font-size: 14px;
+	margin-top: -5px;
+}
+.smsDate img {
+	width: 15px;
+}
+.smsTime img {
+	width: 15px;
+}
+.smsTime h4 {
+	font-size: 14px;
+	margin-top: -5px;
+}
+.sendsms p {
+	font-size: 13px !important;
+	padding: 0 20px;
+}
+.smsHisory h4 {
+	margin-bottom: 22px;
+}
+.noticeDashbord {
+	height: 65px;
+}
+.totalNotice p {
+	font-size: 13px !important;
+}
+.UnreadNotice p{
+	font-size: 13px !important;
+}
+.readNotice p{
+	font-size: 13px !important;
+}
+.clickHereNotice p {
+	font-size: 16px !important;
+	padding: 0 7px;
+	margin-top: 22px;
+}
+.circularType p {
+	margin-top: 37px;
+}
+.circularType h4 {
+	margin-bottom: 18px;
+}
+.totalCircular p {
+	font-size: 15px !important;
+	padding: 0 30px;
+}
+.readCircular p {
+	font-size: 15px !important;
+	padding: 0 30px;
+}
+.totalCircular span{
+	font-size: 18px;
+}
+.readCircular span{
+	font-size: 18px;
+}
+.appsimage img {
+	left: 0px;
+}
+.bkspayment {
+	width: 80%;
+}
+.appsimage {
+	width: 40%;
+	float: left;
+}
+.paymentdetails {
+	width: 60%;
+	padding-left: 65px;
+}
+.totalFee {
+	padding-left: 63px;
+}
+.paymentdetails::before {
+	position: absolute;
+	content: '';
+	top: -107px;
+	left: 104px;
+}
+.smsType .form-control {
+	padding-left: 30px;
+	font-size: 10px;
+}
+
+.smsInDate .form-control {
+	padding-left: 30px;
+	font-size: 10px;
+}
+.reqSeach::before {
+	position: absolute;
+	content: '';
+	width: 17%;
+	height: 43%;
+}
+/*=============LMS Modue============*/
+.liveclassApply {
+	padding: 0 43px;
+	margin-top: -13px;
+}
+.liveclassApply p {
+	margin-bottom: 12px;
+}
+.lmsHomework h4 {
+	font-size: 13px;
+	margin-left: 0px;
+}
+.lmsClassroom .smsTime h4 {
+	font-size: 13px;
+}
+ }

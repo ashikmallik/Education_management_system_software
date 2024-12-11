@@ -1,0 +1,86 @@
+[17-Feb-2020 05:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 53
+[17-Feb-2020 05:42:05 UTC] PHP Warning:  getimagesize(../student/studentphoto/1579790715_3.jpg): failed to open stream: No such file or directory in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 1240
+[17-Feb-2020 05:42:05 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../student/studentphoto/1579790715_3.jpg in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(885): FPDF->_parsejpg('../student/stud...')
+#2 /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php(134): FPDF->Image('../student/stud...', 165, 18, 30, 30)
+#3 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 271
+[30-Sep-2020 14:02:26 UTC] PHP Notice:  Undefined index: borno_school_permanentaddress in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 21
+[30-Sep-2020 14:02:26 UTC] PHP Notice:  Undefined index: borno_school_mother_phone in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 39
+[30-Sep-2020 14:02:26 UTC] PHP Notice:  Undefined variable: addate in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 71
+[30-Sep-2020 14:02:26 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php(242): FPDF->Output()
+#3 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 271
+[30-Sep-2020 14:44:35 UTC] PHP Notice:  Undefined index: borno_school_permanentaddress in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 21
+[30-Sep-2020 14:44:35 UTC] PHP Notice:  Undefined index: borno_school_mother_phone in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 39
+[30-Sep-2020 14:44:35 UTC] PHP Notice:  Undefined variable: addate in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 71
+[30-Sep-2020 14:44:35 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php(242): FPDF->Output()
+#3 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 271
+[01-Oct-2020 09:38:27 UTC] PHP Notice:  Undefined index: msg in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/promotion.php on line 90
+[01-Oct-2020 09:38:39 UTC] PHP Notice:  Undefined index: borno_school_permanentaddress in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 21
+[01-Oct-2020 09:38:39 UTC] PHP Notice:  Undefined index: borno_school_mother_phone in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 39
+[01-Oct-2020 09:38:39 UTC] PHP Notice:  Undefined variable: addate in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 71
+[01-Oct-2020 09:38:39 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php(242): FPDF->Output()
+#3 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 271
+[01-Oct-2020 09:38:47 UTC] PHP Notice:  Undefined index: msg in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/promotion.php on line 90
+[04-Oct-2020 13:27:08 UTC] PHP Notice:  Undefined index: borno_school_permanentaddress in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 21
+[04-Oct-2020 13:27:08 UTC] PHP Notice:  Undefined index: borno_school_mother_phone in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 39
+[04-Oct-2020 13:27:08 UTC] PHP Notice:  Undefined variable: addate in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 71
+[04-Oct-2020 13:27:08 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php(242): FPDF->Output()
+#3 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 271
+[10-Oct-2020 15:13:20 UTC] PHP Notice:  Undefined index: borno_school_permanentaddress in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 21
+[10-Oct-2020 15:13:20 UTC] PHP Notice:  Undefined index: borno_school_mother_phone in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 39
+[10-Oct-2020 15:13:20 UTC] PHP Notice:  Undefined variable: addate in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 71
+[10-Oct-2020 15:13:20 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php(242): FPDF->Output()
+#3 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 271
+[11-Oct-2020 13:41:44 UTC] PHP Notice:  Undefined index: borno_school_permanentaddress in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 21
+[11-Oct-2020 13:41:44 UTC] PHP Notice:  Undefined index: borno_school_mother_phone in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 39
+[11-Oct-2020 13:41:44 UTC] PHP Notice:  Undefined variable: addate in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 71
+[11-Oct-2020 13:41:44 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php(242): FPDF->Output()
+#3 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 271
+[28-Oct-2020 13:00:40 UTC] PHP Notice:  Undefined index: borno_school_permanentaddress in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 21
+[28-Oct-2020 13:00:40 UTC] PHP Notice:  Undefined index: borno_school_mother_phone in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 39
+[28-Oct-2020 13:00:40 UTC] PHP Notice:  Undefined variable: addate in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php on line 71
+[28-Oct-2020 13:00:40 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/download_student_info_individual.php(242): FPDF->Output()
+#3 {main}
+  thrown in /home/bornosky/public_html/kurmitola/studentpannel/pannel/fpdf/fpdf.php on line 271
+[30-Oct-2020 10:07:46 UTC] PHP Notice:  Undefined index: stdid in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/student_top.php on line 8
+[30-Oct-2020 10:07:47 UTC] PHP Notice:  Undefined index: stdid in /home/bornosky/public_html/kurmitola/studentpannel/pannel/academic/student/student_top.php on line 8

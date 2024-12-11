@@ -1,0 +1,489 @@
+[20-Jan-2019 08:06:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bornosky/public_html/new/pannel/accounce/expence/download_receipt2.php on line 45
+[20-Feb-2019 08:37:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/bornosky/public_html/new/pannel/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/bornosky/public_html/new/pannel/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bornosky/public_html/new/pannel/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bornosky/public_html/new/pannel/accounce/expence/download_receipt2.php(214): FPDF->Output()
+#3 {main}
+  thrown in /home/bornosky/public_html/new/pannel/fpdf/fpdf.php on line 271
+[19-Mar-2019 06:23:15 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[19-Mar-2019 06:23:17 UTC] PHP Notice:  Undefined index: branchId in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 103
+[19-Mar-2019 06:25:16 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[19-Mar-2019 06:25:18 UTC] PHP Notice:  Undefined index: branchId in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 103
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:25:37 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:25:39 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[19-Mar-2019 06:41:13 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[19-Mar-2019 06:41:14 UTC] PHP Notice:  Undefined index: branchId in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 103
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:41:16 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:41:18 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined variable: memo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_do.php on line 47
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: branchId in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 103
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: exhead in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 119
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: exname in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 137
+[19-Mar-2019 06:41:43 UTC] PHP Notice:  Undefined index: exby in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 155
+[20-Mar-2019 08:13:44 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: branchId in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 103
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: exhead in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 119
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: exname in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 137
+[20-Mar-2019 08:13:46 UTC] PHP Notice:  Undefined index: exby in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 155
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:13:52 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:13:54 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:14:00 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:14:08 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:14:17 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: month in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: branchId in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 103
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: exhead in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 119
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: exhead in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 119
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: exname in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 137
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: exname in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 137
+[20-Mar-2019 08:14:22 UTC] PHP Notice:  Undefined index: exby in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 155
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:14:53 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:14:58 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:15:03 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Undefined index: msg in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 69
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant January - assumed 'January' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 79
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant February - assumed 'February' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 80
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant March - assumed 'March' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 81
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant April - assumed 'April' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 82
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant May - assumed 'May' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 83
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant June - assumed 'June' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 84
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant July - assumed 'July' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 85
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant August - assumed 'August' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 86
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant September - assumed 'September' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 87
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant October - assumed 'October' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 88
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant November - assumed 'November' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 89
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Use of undefined constant December - assumed 'December' in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 90
+[20-Mar-2019 08:15:12 UTC] PHP Notice:  Undefined variable: sl in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence.php on line 100
+[20-Mar-2019 08:31:30 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[23-Mar-2019 05:06:20 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[23-Mar-2019 05:06:40 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[23-Mar-2019 05:12:46 UTC] PHP Notice:  Undefined index: logo in /home/bornouniverse/public_html/canberra/pannel/accounce/expence/expence_sett_top.php on line 9
+[24-Mar-2019 07:02:21 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/canberramodelsch/public_html/canberra/pannel/accounce/expence/expence_do.php on line 166
+[24-Mar-2019 09:34:08 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/canberramodelsch/public_html/canberra/pannel/accounce/expence/expence_do.php on line 166
+[09-Jan-2020 04:34:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/bornosky/public_html/new/pannel/accounce/expence/download_receipt2.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/new/pannel/accounce/expence/download_receipt2.php on line 45
+[31-Jul-2020 15:47:33 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[18-Sep-2020 09:51:47 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[18-Sep-2020 09:55:59 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[18-Sep-2020 10:07:41 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: msg in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 69
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: msg in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 79
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: memono in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 80
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 97
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 98
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 99
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 100
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 101
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 102
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 103
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 104
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 105
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 106
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 107
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 108
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 118
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 121
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: exhead in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 137
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: exname in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 155
+[18-Sep-2020 10:07:54 UTC] PHP Notice:  Undefined index: exby in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 173
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: msg in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 69
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: msg in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 79
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: memono in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 80
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 97
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 98
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 99
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 100
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 101
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 102
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 103
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 104
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 105
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 106
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 107
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 108
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 118
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 121
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: exhead in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 137
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: exname in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 155
+[18-Sep-2020 10:08:16 UTC] PHP Notice:  Undefined index: exby in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 173
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: msg in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 69
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: msg in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 79
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: memono in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 80
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 97
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 98
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 99
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 100
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 101
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 102
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 103
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 104
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 105
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 106
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 107
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 108
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 118
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 121
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: exhead in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 137
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: exname in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 155
+[18-Sep-2020 10:09:29 UTC] PHP Notice:  Undefined index: exby in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 173
+[18-Sep-2020 10:09:30 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[18-Sep-2020 10:10:33 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: msg in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 69
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: msg in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 79
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: memono in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 80
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 97
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 98
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 99
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 100
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 101
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 102
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 103
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 104
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 105
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 106
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 107
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: month in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 108
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined variable: sl in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 118
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: branchId in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 121
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: exhead in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 137
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: exname in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 155
+[18-Sep-2020 10:10:36 UTC] PHP Notice:  Undefined index: exby in /home/bornosky/public_html/new/pannel/accounce/expence/expence.php on line 173
+[17-Nov-2020 11:15:15 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9
+[25-Nov-2020 07:36:11 UTC] PHP Notice:  Undefined index: logo in /home/bornosky/public_html/new/pannel/accounce/expence/expence_sett_top.php on line 9

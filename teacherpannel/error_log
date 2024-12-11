@@ -1,0 +1,67 @@
+[13-Jan-2019 15:17:21 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/friiedu/public_html/teacher/create_action.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/friiedu/public_html/teacher/create_action.php on line 50
+[13-Jan-2019 15:17:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/friiedu/public_html/teacher/create_action.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/friiedu/public_html/teacher/create_action.php on line 50
+[13-Jan-2019 15:20:52 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/friiedu/public_html/teacher/create_action.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/friiedu/public_html/teacher/create_action.php on line 50
+[13-Jan-2019 15:23:23 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/friiedu/public_html/teacher/create_action.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/friiedu/public_html/teacher/create_action.php on line 50
+[13-Jan-2019 15:24:02 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/friiedu/public_html/teacher/create_action.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/friiedu/public_html/teacher/create_action.php on line 50
+[13-Jan-2019 15:24:19 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/friiedu/public_html/teacher/create_action.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/friiedu/public_html/teacher/create_action.php on line 50
+[13-Jan-2019 15:25:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/friiedu/public_html/teacher/create_action.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/friiedu/public_html/teacher/create_action.php on line 50
+[13-Jan-2019 15:25:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/friiedu/public_html/teacher/create_action.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/friiedu/public_html/teacher/create_action.php on line 50
+[13-Jan-2019 15:26:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/friiedu/public_html/teacher/create_action.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/friiedu/public_html/teacher/create_action.php on line 50
+[13-Jan-2019 15:27:46 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/friiedu/public_html/teacher/create_action.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/friiedu/public_html/teacher/create_action.php on line 50
+[17-Jul-2019 10:43:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/bornosky/public_html/teacher/connection.php on line 6
+[17-Jul-2019 10:43:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/bornosky/public_html/teacher/login_action.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/teacher/login_action.php on line 19
+[17-Jul-2019 11:10:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/bornosky/public_html/teacher/connection.php on line 6
+[17-Jul-2019 11:10:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/bornosky/public_html/teacher/login_action.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/teacher/login_action.php on line 19
+[17-Jul-2019 11:13:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/bornosky/public_html/teacher/login_action.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/teacher/login_action.php on line 21
+[17-Jul-2019 11:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/bornosky/public_html/teacher/login_action.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/teacher/login_action.php on line 21
+[17-Jul-2019 11:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/bornosky/public_html/teacher/login_action.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/teacher/login_action.php on line 21
+[17-Jul-2019 11:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/bornosky/public_html/teacher/login_action.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bornosky/public_html/teacher/login_action.php on line 21
+[07-Jun-2023 10:31:59 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/bornosky/public_html/kbboc/teacherpannel/borno_login.php on line 26
